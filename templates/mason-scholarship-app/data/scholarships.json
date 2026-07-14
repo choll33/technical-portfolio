@@ -1,0 +1,266 @@
+{
+  "generatedAt": "2026-07-14T00:00:00Z",
+  "student": {
+    "name": "Mason",
+    "school": "Howard University",
+    "major": "Finance",
+    "gpa": "3.7",
+    "hometown": "New Jersey",
+    "year": "Rising Sophomore"
+  },
+  "scholarships": [
+    {
+      "id": "tmcf-open-portal",
+      "organization": "Thurgood Marshall College Fund (TMCF) — Open Scholarships Portal",
+      "description": "Howard is a TMCF member school, so Mason can create a TMCF Scholar profile and get auto-matched to dozens of corporate-sponsored scholarships (Wells Fargo Access/Gap Scholarships, Acushnet Company Scholarship, and more) that rotate through TMCF's portal each cycle.",
+      "requirements": [
+        "Attend a TMCF member HBCU (Howard qualifies)",
+        "Create a profile on the TMCF Scholarship Portal",
+        "Individual sponsor awards vary — filter by business/finance and sophomore standing once logged in",
+        "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
+      ],
+      "deadline": null,
+      "deadlineNote": "New wave expected ~September 2026; two 2026 waves already closed (Jan 16 & Apr 24)",
+      "applyUrl": "https://scholarships.tmcf.org",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "american-water-impact",
+      "organization": "American Water Impact Scholarship Program",
+      "description": "$10,000 awards for non-medical STEM or business majors, with an HBCU/HSI-specific track. New Jersey is an eligible state, both as Mason's home state and as an American Water operating territory.",
+      "requirements": [
+        "Full-time undergraduate in a non-medical STEM or business-related major",
+        "Minimum 3.0 GPA",
+        "Reside or attend college in an eligible state (NJ included)",
+        "HBCU/HSI track applies directly to Howard students"
+      ],
+      "deadline": null,
+      "deadlineNote": "Historically due Jan 31; 2026-27 cycle listed as closed/tentative — watch for a fall/winter 2026 reopening",
+      "applyUrl": "https://scholarshipamerica.org/scholarship/american-water/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "elc-scholars",
+      "organization": "Executive Leadership Council (ELC) Scholars Program",
+      "description": "A network of Black corporate executives runs this flagship scholarship building a pipeline of Black business talent. Strong fit: it explicitly names \"Rising Sophomore\" as an eligible class year and prefers Business majors.",
+      "requirements": [
+        "Full-time enrollment at an accredited 4-year college",
+        "Minimum 3.0 GPA",
+        "Rising Sophomore, Junior, Senior, or Graduate standing",
+        "Business, Engineering, or Technology major preferred",
+        "Need-based: FAFSA Submission Summary + tuition bill required",
+        "Essays, video prompts, business case responses, transcript, recommendation letter, resume"
+      ],
+      "deadline": "2027-03-01",
+      "deadlineNote": "Estimated — annual deadline is typically March 1; the 2026 cycle already closed",
+      "applyUrl": "https://elcscholarships.elcinfo.com/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "naba-national",
+      "organization": "NABA National Scholarship Program (National Association of Black Accountants)",
+      "description": "NABA's foundation funds 150+ scholarships a year ($2,500–$10,000) for Black/minority undergraduates in accounting, finance, or business — one of the best-matched programs for Mason's major.",
+      "requirements": [
+        "Ethnic minority undergraduate business major (finance qualifies)",
+        "Paid NABA member for the current fiscal year",
+        "Overall GPA of 3.3+ (3.5 for accounting majors) — Mason's 3.7 clears this",
+        "Full-time enrollment (12+ semester hours), freshman through first-year senior",
+        "Selection weighs academic achievement, leadership, service, and engagement with NABA"
+      ],
+      "deadline": "2027-06-29",
+      "deadlineNote": "Estimated — recent cycles clustered around late June; confirm exact date on nabainc.org",
+      "applyUrl": "https://nabainc.org/scholarships/",
+      "category": "black-finance"
+    },
+    {
+      "id": "cbcf-spouses",
+      "organization": "Congressional Black Caucus Foundation — CBC Spouses Education Scholarship",
+      "description": "CBCF's flagship undergraduate award for academically talented Black/African American students. Howard/DC sits in a CBC member's district (Rep. Eleanor Holmes Norton), which likely satisfies the district-residency requirement.",
+      "requirements": [
+        "U.S. citizen or legal permanent resident",
+        "Reside or attend school in a CBC member's congressional district (Howard/DC likely qualifies)",
+        "Full-time undergraduate, graduate, or doctoral enrollment",
+        "Minimum 2.5 GPA",
+        "Demonstrated leadership and community involvement",
+        "2-part online application, 3-minute video statement, 1 recommendation letter, transcript, resume"
+      ],
+      "deadline": null,
+      "deadlineNote": "2026 cycle ran Jan 5 – Mar 27 (already closed); watch for the Fall 2026 announcement of the 2027 cycle",
+      "applyUrl": "https://www.cbcfinc.org/programs/scholarships/",
+      "category": "black-finance"
+    },
+    {
+      "id": "nbmbaa",
+      "organization": "National Black MBA Association (NBMBAA) Scholarship Program",
+      "description": "Funds undergraduate and MBA scholarships ($1,000–$10,000) for Black students in business fields. Likely requires junior standing, so this is a bookmark for Mason's 2027-28 junior year rather than right now.",
+      "requirements": [
+        "Paid NBMBAA membership",
+        "College junior, senior, or MBA student (rising sophomores likely not yet eligible)",
+        "Pursuing a business-related degree",
+        "Full-time enrollment, U.S. citizen or permanent resident",
+        "Community service/leadership involvement"
+      ],
+      "deadline": null,
+      "deadlineNote": "Not yet eligible as a rising sophomore — revisit for junior year; 2026 deadline was May 29",
+      "applyUrl": "https://nbmbaa.org/colleges-scholarships/",
+      "category": "black-finance"
+    },
+    {
+      "id": "lecount-davis-cfp",
+      "organization": "LeCount R. Davis, CFP® Endowed Scholarship (CFP Board Center for Financial Planning)",
+      "description": "A scholarship specifically for Black/African American students pursuing CFP® certification. Requires enrollment in a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track before applying.",
+      "requirements": [
+        "Self-identifies as Black or African American",
+        "Enrolled in (or seeking) a CFP Board Registered Program",
+        "Demonstrated merit and financial need",
+        "Committed to pursuing CFP certification and a financial planning career"
+      ],
+      "deadline": null,
+      "deadlineNote": "Deadline not published — check cfp.net directly; cycles typically run in spring",
+      "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/lecount-davis-scholarship",
+      "category": "black-finance"
+    },
+    {
+      "id": "seo-career",
+      "organization": "SEO Career (Sponsors for Educational Opportunity)",
+      "description": "Not a cash scholarship, but a highly-regarded paid internship and professional-development pipeline for high-achieving Black, Hispanic, and Native American undergraduates targeting Wall Street and finance careers. Interns average $10,000 for the summer with ~80% converting to full-time offers.",
+      "requirements": [
+        "Undergraduate (rising sophomores through rising seniors typically apply)",
+        "Black, Hispanic, or Native American identity",
+        "Interest in finance, Wall Street, real estate, or related corporate tracks",
+        "Competitive application: resume, interviews, assessments"
+      ],
+      "deadline": null,
+      "deadlineNote": "Rolling/track-based — summer internship applications typically open fall/winter prior; check seo-usa.org",
+      "applyUrl": "https://www.seo-usa.org/our-programs/",
+      "category": "black-finance"
+    },
+    {
+      "id": "inroads",
+      "organization": "INROADS Internship Program",
+      "description": "A paid internship (not a scholarship) placing Black, Hispanic, and Native American college students into corporate roles, with many finance/business placements — a useful funding complement now that Mason is internship-eligible as a rising sophomore.",
+      "requirements": [
+        "Full-time undergraduate with at least one summer remaining before graduation",
+        "Minimum cumulative GPA of 2.8",
+        "Business is a named target field",
+        "INROADS-formatted resume, unofficial transcript",
+        "Completion of INROADS Interview Guidance and Preparation Session (IGPS)"
+      ],
+      "deadline": null,
+      "deadlineNote": "Rolling — varies by region and corporate partner; apply directly at inroads.org",
+      "applyUrl": "https://inroads.org/apply/",
+      "category": "black-finance"
+    },
+    {
+      "id": "100-black-men",
+      "organization": "100 Black Men of America — National Scholarship Program",
+      "description": "Awards of $1,000–$5,000 for full-time college undergraduates. Eligibility appears restricted to 100 Black Men mentees, Collegiate 100® members, or program affiliates — worth connecting with a local NJ chapter to qualify.",
+      "requirements": [
+        "100 Black Men mentee, Collegiate 100 member, or affiliate",
+        "Full-time college undergraduate",
+        "Minimum 2.5 GPA"
+      ],
+      "deadline": null,
+      "deadlineNote": "Varies by local chapter — check 100blackmen.org and NJ-area chapters",
+      "applyUrl": "https://100blackmen.org/four-for-the-future/education/national-scholarship-program/",
+      "category": "black-finance"
+    },
+    {
+      "id": "huac-nj",
+      "organization": "Howard University Alumni Club of New Jersey (HUAC-NJ)",
+      "description": "The Howard alumni club serving New Jersey runs mentorship and scholarship efforts for Bison students — a natural, high-affinity fit given Mason is both an NJ resident and a Howard student.",
+      "requirements": [
+        "Likely NJ residency and/or Howard enrollment",
+        "Specific criteria not published — contact the club directly"
+      ],
+      "deadline": null,
+      "deadlineNote": "Unknown — reach out to the club directly for current opportunities",
+      "applyUrl": "https://www.facebook.com/HUACNJ/",
+      "category": "nj-resident"
+    },
+    {
+      "id": "cfnj-universal",
+      "organization": "Community Foundation of New Jersey — Scholarship Universal Application",
+      "description": "CFNJ administers roughly 140 separate scholarship funds for NJ students through one universal application; some funds support business/finance-track or continuing (non-senior) students.",
+      "requirements": [
+        "Typically requires NJ residency or NJ high school graduation",
+        "Eligibility varies by underlying fund",
+        "Some funds are renewable/open to continuing college students"
+      ],
+      "deadline": null,
+      "deadlineNote": "Varies by fund — portal typically opens each spring",
+      "applyUrl": "https://cfnj.org/find-scholarships/",
+      "category": "nj-resident"
+    },
+    {
+      "id": "fpa-diversity",
+      "organization": "Financial Planning Association (FPA) Diversity Scholarship",
+      "description": "Merit-based scholarship for financial-services students actively promoting diversity within the financial planning profession.",
+      "requirements": [
+        "Financial services student or professional",
+        "Demonstrated engagement raising awareness of financial planning in diverse communities, or expanding opportunities for underrepresented groups in the field",
+        "GPA/class-year requirements not detailed — verify on FPA's site"
+      ],
+      "deadline": null,
+      "deadlineNote": "Not specified — recent recognitions occurred in September, suggesting a mid-year cycle; confirm on site",
+      "applyUrl": "https://www.financialplanningassociation.org/networking/diversity-equity-inclusion/diversity-scholarship",
+      "category": "finance-major"
+    },
+    {
+      "id": "cfa-institute",
+      "organization": "CFA Institute Student Scholarship",
+      "description": "Not a cash scholarship, but a significant CFA Program exam fee reduction (from roughly $1,200+ down to $600) for university students — useful to know about now for when Mason eventually pursues the CFA charter.",
+      "requirements": [
+        "Current full-time or part-time university student",
+        "Must meet CFA Program enrollment requirements",
+        "Not currently registered for a CFA exam, not awaiting results"
+      ],
+      "deadline": null,
+      "deadlineNote": "Four application windows per year tied to each exam cycle — check cfainstitute.org for the next open window",
+      "applyUrl": "https://www.cfainstitute.org/programs/cfa-program/scholarships/student",
+      "category": "finance-major"
+    },
+    {
+      "id": "horatio-alger",
+      "organization": "Horatio Alger National Scholarship",
+      "description": "A large, well-established scholarship ($25,000 awards) for students demonstrating financial need and resilience. Eligibility for currently-enrolled sophomores versus only incoming freshmen is ambiguous in published materials — verify directly before applying.",
+      "requirements": [
+        "Household AGI roughly $55,000–$65,000 or lower (varies by source)",
+        "Minimum 2.0 GPA",
+        "U.S. citizen",
+        "Co-curricular/community service involvement, demonstrated integrity and perseverance",
+        "Verify whether continuing college sophomores qualify — some tracks may be HS-senior-entry only"
+      ],
+      "deadline": null,
+      "deadlineNote": "Historically a Dec 1 – Mar 1 window — confirm whether a continuing-student track exists",
+      "applyUrl": "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "category": "general"
+    },
+    {
+      "id": "scholarships360-no-essay",
+      "organization": "Scholarships360 $10,000 No-Essay Scholarship",
+      "description": "Easy-entry scholarship open to any student, no essay required, with rolling monthly winners — low odds but zero-cost and takes minutes to enter.",
+      "requirements": [
+        "Any U.S. student",
+        "No essay, no GPA minimum specified"
+      ],
+      "deadline": null,
+      "deadlineNote": "Rolling monthly; 2026 cycle's final entry was listed as June 30, 2026 — check for the next cycle",
+      "applyUrl": "https://scholarships360.org/scholarships/no-essay-scholarships/",
+      "category": "general"
+    },
+    {
+      "id": "sallie-sophomore",
+      "organization": "Sallie Monthly Scholarship for College Sophomores",
+      "description": "A $2,000 monthly scholarship specifically open to college sophomores — directly matches Mason's current class year, no essay or profile required beyond simple entry.",
+      "requirements": [
+        "Enrolled college sophomore",
+        "No essay required"
+      ],
+      "deadline": null,
+      "deadlineNote": "Monthly rolling drawing — apply anytime",
+      "applyUrl": "https://www.sallie.com/scholarships/states/new-jersey",
+      "category": "general"
+    }
+  ]
+}
