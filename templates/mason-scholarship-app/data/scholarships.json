@@ -292,6 +292,20 @@
       "deadlineNote": "Confirmed active as of Sept 2026; the current program cycle runs through 12/31/2026 with monthly drawings. Apply anytime at sallie.com — takes only a couple of minutes.",
       "applyUrl": "https://www.sallie.com/scholarships/states/new-jersey",
       "category": "general"
+    },
+    {
+      "id": "socal-personal-injury-lawyer",
+      "organization": "Southern California Personal Injury Lawyer Scholarship",
+      "description": "A $1,000 scholarship from a Los Angeles personal injury law firm, open to any student enrolled at an accredited U.S. college or university. The check is paid directly to the winner to use on school expenses or tuition.",
+      "requirements": [
+        "Currently enrolled at an accredited U.S. college or university (Howard qualifies)",
+        "Apply only through the online form on the firm's scholarship page",
+        "Don't call or contact the firm about the scholarship"
+      ],
+      "deadline": "2026-09-30",
+      "deadlineNote": "The firm's posted cutoff is October 1 each year. Submit by 9/30 to be safe. The winner is contacted by phone and announced the following month.",
+      "applyUrl": "https://www.socalpersonalinjurylawyer.com/scholarship-application/",
+      "category": "general"
     }
   ]
 }

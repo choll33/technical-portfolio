@@ -1,0 +1,75 @@
+name: Text Mason's scholarship refresh
+
+# Sends a text message via Twilio whenever the scholarship data on main changes
+# (the daily refresh updates generatedAt every run, so this fires once a day).
+#
+# Required repository secrets (Settings -> Secrets and variables -> Actions):
+#   TWILIO_ACCOUNT_SID   - from the Twilio console
+#   TWILIO_AUTH_TOKEN    - from the Twilio console
+#   TWILIO_FROM_NUMBER   - your Twilio phone number, E.164 format (+1XXXXXXXXXX)
+#   SMS_TO_NUMBERS       - comma-separated recipients, E.164 format
+#                          (e.g. +19085551234,+19085555678)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - templates/mason-scholarship-app/data/scholarships.json
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build message
+        id: msg
+        run: |
+          body=$(python3 - <<'EOF'
+          import json, datetime
+          d = json.load(open("templates/mason-scholarship-app/data/scholarships.json"))
+          items = d.get("scholarships", [])
+          today = datetime.date.today()
+          soon = []
+          for s in items:
+              if s.get("deadline"):
+                  days = (datetime.date.fromisoformat(s["deadline"]) - today).days
+                  if 0 <= days <= 14:
+                      soon.append(f"{s['organization'][:40]} ({s['deadline'][5:]})")
+          lines = [f"Mason's scholarships refreshed: {len(items)} tracked."]
+          if soon:
+              lines.append("Due in 14 days: " + "; ".join(soon[:3]))
+          lines.append("https://choll33.github.io/technical-portfolio/templates/mason-scholarship-app/")
+          print("\n".join(lines))
+          EOF
+          )
+          {
+            echo "body<<MSG_EOF"
+            echo "$body"
+            echo "MSG_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Send texts
+        env:
+          SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          FROM: ${{ secrets.TWILIO_FROM_NUMBER }}
+          TO_NUMBERS: ${{ secrets.SMS_TO_NUMBERS }}
+          BODY: ${{ steps.msg.outputs.body }}
+        run: |
+          if [ -z "$SID" ] || [ -z "$TOKEN" ] || [ -z "$FROM" ] || [ -z "$TO_NUMBERS" ]; then
+            echo "::warning::Twilio secrets not configured; skipping text messages."
+            exit 0
+          fi
+          IFS=',' read -ra nums <<< "$TO_NUMBERS"
+          for n in "${nums[@]}"; do
+            n=$(echo "$n" | tr -d ' ')
+            curl -sS --fail-with-body -X POST \
+              "https://api.twilio.com/2010-04-01/Accounts/$SID/Messages.json" \
+              -u "$SID:$TOKEN" \
+              --data-urlencode "From=$FROM" \
+              --data-urlencode "To=$n" \
+              --data-urlencode "Body=$BODY" > /dev/null
+            echo "Sent to ...${n: -4}"
+          done
