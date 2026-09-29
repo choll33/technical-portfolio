@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:00:00Z",
+  "generatedAt": "2026-09-29T10:11:55Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -88,6 +88,38 @@
       "category": "howard-hbcu"
     },
     {
+      "id": "pg-hbcyou",
+      "organization": "Procter & Gamble HBCYOU Scholarship Program (via UNCF)",
+      "description": "P&G-funded, UNCF-administered need-based award of up to $2,500 for full-time undergraduates at any accredited four-year HBCU in the U.S. — eligibility is tied to HBCU status generally, not UNCF member-school status, so Howard qualifies even though it isn't a UNCF member school. Open to all class years including sophomores.",
+      "requirements": [
+        "Full-time undergraduate at any U.S. accredited four-year HBCU (Howard qualifies)",
+        "Minimum 3.0 cumulative GPA",
+        "U.S. citizen, permanent resident, or eligible immigration status",
+        "Demonstrated unmet financial need per FAFSA",
+        "Apply through the UNCF online application portal"
+      ],
+      "deadline": "2026-12-15",
+      "deadlineNote": "New for this update. The 2025-2026 cycle deadline was Dec 15, 2025 at 5:00pm ET, and the program has run on this same Dec 15 date across the last several cycles — Dec 15, 2026 is a confident estimate for the next cycle, but confirm on the UNCF portal once it opens (uncf.org direct access blocked this session; found via UNCF-hosted program pages and aggregator listings).",
+      "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "pg-general-scholarship",
+      "organization": "Procter & Gamble General Scholarship (via UNCF)",
+      "description": "A $5,000 UNCF-administered award for undergraduates pursuing business, IT, or public-relations degrees — finance is explicitly a named eligible major. Open to all class years (freshman through senior/5th-year), a direct match for Mason's major even though it isn't HBCU-restricted.",
+      "requirements": [
+        "Undergraduate pursuing a bachelor's degree in business, IT, or public relations (finance qualifies)",
+        "Minimum 3.0 GPA",
+        "U.S. citizen, permanent resident, or U.S. national",
+        "Demonstrated leadership involvement",
+        "Apply through the UNCF online application portal"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update. Search results disagreed on the current-cycle window — one source described a Feb 9–Mar 9 window, another cited an April 25, 2024 deadline for the 2023-24 cycle — so no single date is confident enough to set. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "finance-major"
+    },
+    {
       "id": "naba-national",
       "organization": "NABA National Scholarship Program (National Association of Black Accountants)",
       "description": "NABA's foundation funds 150+ scholarships a year ($2,500–$10,000) for Black/minority undergraduates in accounting, finance, or business — one of the best-matched programs for Mason's major.",
@@ -99,7 +131,7 @@
         "Selection weighs academic achievement, leadership, service, and engagement with NABA"
       ],
       "deadline": null,
-      "deadlineNote": "Deadline timing is inconsistent across recent cycles found this round — one source cites a March 15 deadline for the 2024-25 cycle, while an earlier review found deadlines clustering around late June; NABA also reports notifying/awarding around August for the fall semester. Confirm the exact current-cycle date directly on nabainc.org/scholarships/ (blocked from direct fetch this session), and renew NABA student membership — required before applying — well ahead of time.",
+      "deadlineNote": "Deadline timing is inconsistent across recent cycles found this round — one source cites a March 15 deadline for the 2024-25 cycle, while an earlier review found deadlines clustering around late June; NABA also reports notifying/awarding around August for the fall semester. A 2026 scholarship listing on NABA's own portal (my.nabainc.org) exists but the site is blocked from direct fetch this session; a search summary of it noted rolling notifications beginning Summer 2026 and enrollment tied to the 2025-2026 academic year, consistent with a spring application window. Confirm the exact current-cycle date directly on nabainc.org/scholarships/, and renew NABA student membership — required before applying — well ahead of time.",
       "applyUrl": "https://nabainc.org/scholarships/",
       "category": "black-finance"
     },
