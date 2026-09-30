@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:11:55Z",
+  "generatedAt": "2026-09-30T10:12:19Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -131,7 +131,7 @@
         "Selection weighs academic achievement, leadership, service, and engagement with NABA"
       ],
       "deadline": null,
-      "deadlineNote": "Deadline timing is inconsistent across recent cycles found this round — one source cites a March 15 deadline for the 2024-25 cycle, while an earlier review found deadlines clustering around late June; NABA also reports notifying/awarding around August for the fall semester. A 2026 scholarship listing on NABA's own portal (my.nabainc.org) exists but the site is blocked from direct fetch this session; a search summary of it noted rolling notifications beginning Summer 2026 and enrollment tied to the 2025-2026 academic year, consistent with a spring application window. Confirm the exact current-cycle date directly on nabainc.org/scholarships/, and renew NABA student membership — required before applying — well ahead of time.",
+      "deadlineNote": "Deadline timing is inconsistent across recent cycles found this round — one source cites a March 15 deadline for the 2024-25 cycle, while an earlier review found deadlines clustering around late June; NABA also reports notifying/awarding around August for the fall semester. A 2026 scholarship listing on NABA's own portal (my.nabainc.org) exists but the site is blocked from direct fetch this session; a search summary of it noted rolling notifications beginning Summer 2026 and enrollment tied to the 2025-2026 academic year, consistent with a spring application window. Re-checked Sept 30, 2026: two more aggregator search summaries (studentscholarships.org, collegescholarships.com listings, both blocked from direct fetch) now cite a Dec 31, 2026 deadline for the current cycle — not added as the confirmed date given how many conflicting dates this program has produced across sessions, but worth prioritizing verification directly on nabainc.org/scholarships/ before that date passes, just in case. Renew NABA student membership — required before applying — well ahead of time regardless.",
       "applyUrl": "https://nabainc.org/scholarships/",
       "category": "black-finance"
     },
@@ -324,6 +324,53 @@
       "deadlineNote": "Confirmed active as of Sept 2026; the current program cycle runs through 12/31/2026 with monthly drawings. Apply anytime at sallie.com — takes only a couple of minutes.",
       "applyUrl": "https://www.sallie.com/scholarships/states/new-jersey",
       "category": "general"
+    },
+    {
+      "id": "goldman-sachs-sfe",
+      "organization": "Goldman Sachs Scholarship for Excellence (SFE)",
+      "description": "A diversity-recruiting scholarship for Black, Hispanic, and Native American undergraduates that pairs a paid Goldman Sachs summer internship with up to $15,000 toward tuition and academic expenses once the internship begins. Explicitly open to sophomores (\"penultimate year\" applicants), with a preference for finance-related majors, matching Mason's profile closely.",
+      "requirements": [
+        "Black, Hispanic, or Native American identity",
+        "Sophomore or junior (penultimate-year) standing, full-time enrollment at an accredited college",
+        "Minimum 3.4 GPA",
+        "Open to all majors; interest in finance/business preferred",
+        "Apply through the Goldman Sachs Careers events portal (450-word essay, 2-minute video, or slide presentation) and secure a GS summer internship offer to receive the award"
+      ],
+      "deadline": "2027-01-01",
+      "deadlineNote": "New for this update. Confirmed recurring cycle: applications open Nov 1 and close Jan 1, with winners announced Mar 1 — Jan 1, 2027 is the upcoming deadline for the Nov 2026–Jan 2027 window. Exact deadlines can vary slightly by school/recruiting event, so confirm via goldmansachs.com/careers once the portal opens.",
+      "applyUrl": "https://www.goldmansachs.com/careers",
+      "category": "black-finance"
+    },
+    {
+      "id": "morgan-stanley-fisher",
+      "organization": "Morgan Stanley Richard B. Fisher Scholarship Program",
+      "description": "A $15,000 scholarship for Black, Hispanic, Native American, and LGBT sophomores and juniors, awarded alongside a Morgan Stanley summer internship offer. Open to all majors and a direct match for Mason's class year, though the scholarship application is only unlocked after applying to an open Summer Analyst position.",
+      "requirements": [
+        "Black, Hispanic, Native American, or LGBT identity",
+        "Sophomore or junior standing at an accredited four-year institution",
+        "Minimum 3.0 cumulative GPA",
+        "Open to all majors",
+        "Must first apply to a current Summer Analyst opening via Morgan Stanley's Students & Graduates page; scholarship application follows from that"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update. Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines (e.g., late June, early October, early November) depending on division/track. Watch morganstanley.com/people-opportunities/students-graduates for the Summer 2027 Analyst postings, likely opening fall 2026.",
+      "applyUrl": "https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program",
+      "category": "black-finance"
+    },
+    {
+      "id": "jpmc-fellowship",
+      "organization": "JPMorganChase Fellowship Program",
+      "description": "Not a cash scholarship, but a paid, five-week summer fellowship for undergraduate sophomores that leads to consideration for a full summer analyst internship the following year. Unlike many bank diversity programs, JPMC states it is open to students of all backgrounds, with tracks spanning Commercial & Investment Bank, Global Markets, Corporate Function, and more.",
+      "requirements": [
+        "Rising sophomore (or current sophomore) at time of application, open to all backgrounds",
+        "Preferred minimum 3.2 GPA",
+        "Open to all majors; finance/business interest fits the Commercial & Investment Bank and Global Markets tracks",
+        "Apply online via JPMorganChase's careers site during the fall application window"
+      ],
+      "deadline": "2027-01-12",
+      "deadlineNote": "New for this update. The 2026 cohort's application deadline was Jan 12-13, 2026 (already closed); Jan 12, 2027 is an estimate for the next cycle based on that pattern. Watch jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship starting around November 2026 for the official 2027 posting.",
+      "applyUrl": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship",
+      "category": "finance-major"
     },
     {
       "id": "socal-personal-injury-lawyer",
