@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:12:19Z",
+  "generatedAt": "2026-10-01T10:10:39Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -34,8 +34,8 @@
         "Reside or attend college in an eligible state (NJ included)",
         "HBCU/HSI track applies directly to Howard students"
       ],
-      "deadline": null,
-      "deadlineNote": "Re-checked Sept 2026: program is still listed closed/tentative with no 2026-2027 dates published; historically opened ~Jan 31. Recheck scholarshipamerica.org/scholarship/american-water/ in Nov/Dec 2026 for a reopening announcement.",
+      "deadline": "2027-03-25",
+      "deadlineNote": "Re-checked Oct 2026: still listed closed/tentative for the next cycle with no official 2026-2027 dates confirmed yet, but search aggregators now cite March 25, 2027 as the expected deadline based on the historical application timeline. Treat as a best estimate and recheck scholarshipamerica.org/scholarship/american-water/ for the official open date (likely ~Jan 31, 2027 per prior years).",
       "applyUrl": "https://scholarshipamerica.org/scholarship/american-water/",
       "category": "howard-hbcu"
     },
@@ -67,7 +67,7 @@
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update. Applications open each January via the School of Business Office of Student Affairs; a faculty/staff committee reviews in spring and awards are decided over the summer for the following academic year. Exact January 2027 open date not yet posted — check business.howard.edu/office-student-affairs/endowed-scholarships starting January 2027 (the org's own site couldn't be fetched directly this session due to network access restrictions, so verify details there before applying).",
+      "deadlineNote": "Re-checked Oct 2026: consistently described as a January-released, spring-reviewed application (apps run roughly January through March), but no single exact deadline date is confirmed across sources — one weak aggregator source suggested April 15, but a more targeted search only confirmed the January/spring pattern without a specific date. Check HU email and business.howard.edu/office-student-affairs/endowed-scholarships starting January 2027 (the org's own site couldn't be fetched directly this session due to network access restrictions).",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -115,7 +115,7 @@
         "Apply through the UNCF online application portal"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update. Search results disagreed on the current-cycle window — one source described a Feb 9–Mar 9 window, another cited an April 25, 2024 deadline for the 2023-24 cycle — so no single date is confident enough to set. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
+      "deadlineNote": "Search results continue to disagree on the current-cycle window — one source described a Feb 9–Mar 9 window, another cited an April 25, 2024 deadline for the 2023-24 cycle — so no single date is confident enough to set. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "finance-major"
     },
@@ -131,7 +131,7 @@
         "Selection weighs academic achievement, leadership, service, and engagement with NABA"
       ],
       "deadline": null,
-      "deadlineNote": "Deadline timing is inconsistent across recent cycles found this round — one source cites a March 15 deadline for the 2024-25 cycle, while an earlier review found deadlines clustering around late June; NABA also reports notifying/awarding around August for the fall semester. A 2026 scholarship listing on NABA's own portal (my.nabainc.org) exists but the site is blocked from direct fetch this session; a search summary of it noted rolling notifications beginning Summer 2026 and enrollment tied to the 2025-2026 academic year, consistent with a spring application window. Re-checked Sept 30, 2026: two more aggregator search summaries (studentscholarships.org, collegescholarships.com listings, both blocked from direct fetch) now cite a Dec 31, 2026 deadline for the current cycle — not added as the confirmed date given how many conflicting dates this program has produced across sessions, but worth prioritizing verification directly on nabainc.org/scholarships/ before that date passes, just in case. Renew NABA student membership — required before applying — well ahead of time regardless.",
+      "deadlineNote": "Deadline timing remains inconsistent across sources found over multiple sessions — March 15 (2024-25 cycle per one source), late June (an earlier review), Dec 31, 2026 (two aggregator listings found Sept 30, 2026), and now Jan 15–Feb 26, 2026 (a fourth set of aggregators — collegexpress, unigo, bigfuture — found Oct 1, 2026, describing a cycle that already closed by this date). Given four different conflicting windows across sessions, still not confident enough to set a date; nabainc.org and my.nabainc.org remain blocked from direct fetch every session. Verify directly on nabainc.org/scholarships/ as soon as the 2027 cycle is announced. Renew NABA student membership — required before applying — well ahead of time regardless.",
       "applyUrl": "https://nabainc.org/scholarships/",
       "category": "black-finance"
     },
@@ -381,10 +381,39 @@
         "Apply only through the online form on the firm's scholarship page",
         "Don't call or contact the firm about the scholarship"
       ],
-      "deadline": "2026-09-30",
-      "deadlineNote": "The firm's posted cutoff is October 1 each year. Submit by 9/30 to be safe. The winner is contacted by phone and announced the following month.",
+      "deadline": "2027-09-30",
+      "deadlineNote": "The 2026 cycle's Sept 30, 2026 deadline has now passed as of this update. The firm's posted cutoff is October 1 each year, so Sept 30, 2027 is the estimated next-cycle deadline based on that recurring pattern. The winner is contacted by phone and announced the following month.",
       "applyUrl": "https://www.socalpersonalinjurylawyer.com/scholarship-application/",
       "category": "general"
+    },
+    {
+      "id": "scfu-hbcu-business",
+      "organization": "Social Change Fund United (SCFU) Scholarship for HBCU Business Students",
+      "description": "A scholarship fund founded by Chris Paul, Dwyane Wade, and Carmelo Anthony that awards $5,000 each to eight HBCU students pursuing business-related majors, centered on economic empowerment and social change in the Black community. A strong, direct match for Mason as an HBCU Finance major.",
+      "requirements": [
+        "Undergraduate or graduate student at a Historically Black College or University (Howard qualifies)",
+        "Enrolled in a business-related major (Finance qualifies)",
+        "Essay on economic empowerment, business innovation, and social equity in underrepresented communities",
+        "No class-year restriction specified"
+      ],
+      "deadline": "2027-06-15",
+      "deadlineNote": "New for this update. The deadline has shifted year to year — Nov 9, 2024; June 2, 2025; June 15, 2026 — so June 15, 2027 is a best estimate based on the two most recent cycles both landing in June, not a confirmed date. Apply via bold.org; recheck thesocialchangefund.org/scfu-highlights/scfu-scholarship closer to the date.",
+      "applyUrl": "https://bold.org/scholarships/SCFU-scholarship-for-HBCU-business-students/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "sia-financial-planning",
+      "organization": "SIA Financial Planning Scholarship (Southwest Investment Advisors, via Bold.org)",
+      "description": "A $1,000 scholarship funded by Southwest Investment Advisors for undergraduate sophomores, juniors, or seniors pursuing a field related to finance, judged on ambition, drive, and impact. Directly matches Mason's class year and major with no race/ethnicity or geographic restriction.",
+      "requirements": [
+        "Sophomore, junior, or senior standing at a U.S. college or university",
+        "Pursuing a field related to finance",
+        "Short essay on passion for finance and how to improve the financial system"
+      ],
+      "deadline": "2027-07-05",
+      "deadlineNote": "New for this update. The 2026 cycle's deadline was July 5, 2026 (already closed, winners announced Aug 6, 2026); July 5, 2027 is an estimate for the next cycle based on that pattern since it recurs annually on Bold.org. Apply at bold.org once the next cycle opens.",
+      "applyUrl": "https://bold.org/scholarships/SIA-financial-planning-scholarship/",
+      "category": "finance-major"
     }
   ]
 }
