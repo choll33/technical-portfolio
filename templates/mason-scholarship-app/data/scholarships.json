@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:10:39Z",
+  "generatedAt": "2026-10-02T14:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -67,7 +67,7 @@
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
       "deadline": null,
-      "deadlineNote": "Re-checked Oct 2026: consistently described as a January-released, spring-reviewed application (apps run roughly January through March), but no single exact deadline date is confirmed across sources — one weak aggregator source suggested April 15, but a more targeted search only confirmed the January/spring pattern without a specific date. Check HU email and business.howard.edu/office-student-affairs/endowed-scholarships starting January 2027 (the org's own site couldn't be fetched directly this session due to network access restrictions).",
+      "deadlineNote": "Re-checked Oct 2026: still no single exact deadline date confirmed across sources — the January-released, spring-reviewed pattern holds, and one weak aggregator still suggests April 15, unconfirmed. New this round: a direct contact was surfaced for current-cycle questions — Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu. Check HU email and business.howard.edu/office-student-affairs/endowed-scholarships starting January 2027 (the org's own site couldn't be fetched directly this session due to network access restrictions).",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -130,8 +130,8 @@
         "Full-time enrollment (12+ semester hours), freshman through first-year senior",
         "Selection weighs academic achievement, leadership, service, and engagement with NABA"
       ],
-      "deadline": null,
-      "deadlineNote": "Deadline timing remains inconsistent across sources found over multiple sessions — March 15 (2024-25 cycle per one source), late June (an earlier review), Dec 31, 2026 (two aggregator listings found Sept 30, 2026), and now Jan 15–Feb 26, 2026 (a fourth set of aggregators — collegexpress, unigo, bigfuture — found Oct 1, 2026, describing a cycle that already closed by this date). Given four different conflicting windows across sessions, still not confident enough to set a date; nabainc.org and my.nabainc.org remain blocked from direct fetch every session. Verify directly on nabainc.org/scholarships/ as soon as the 2027 cycle is announced. Renew NABA student membership — required before applying — well ahead of time regardless.",
+      "deadline": "2027-02-26",
+      "deadlineNote": "Updated Oct 2026: a fifth search (collegexpress, unigo, bigfuture aggregators) again converged on the same Jan 15–Feb 26 window first surfaced Oct 1, 2026 — now the most consistently repeated of the four candidate windows found across sessions (vs. single mentions of Mar 15, late June, and Dec 31). Set to Feb 26, 2027 as a best estimate for the next cycle on that basis, but nabainc.org and my.nabainc.org remain blocked from direct fetch every session without exception — verify directly on nabainc.org/scholarships/ before relying on this date. Renew NABA student membership — required before applying — well ahead of time regardless.",
       "applyUrl": "https://nabainc.org/scholarships/",
       "category": "black-finance"
     },
@@ -181,6 +181,21 @@
       "deadline": null,
       "deadlineNote": "2026 cycle notified award decisions by email on June 5, 2026, implying an application window earlier in spring 2026; 2027 cycle dates not yet published. Still contingent on Mason enrolling in (or Howard offering) a CFP Board Registered Program — confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
       "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/lecount-davis-scholarship",
+      "category": "black-finance"
+    },
+    {
+      "id": "aspiriant-impact-scholarship",
+      "organization": "Aspiriant Impact Scholarship (CFP Board Center for Financial Planning)",
+      "description": "A CFP Board scholarship for students from populations underrepresented in the financial planning profession (including by race/ethnicity) who are enrolled in a CFP Board Registered Program, offering up to $10,000 for undergraduate-level candidates. Runs in parallel to the already-tracked LeCount R. Davis Scholarship but isn't restricted to Black/African American applicants specifically.",
+      "requirements": [
+        "From a population underrepresented in financial planning (by gender, race/ethnicity, disability, or sexual orientation)",
+        "Enrolled in (or committed to enroll within 3 months of winning) a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track",
+        "U.S. citizen or permanent resident; not in final semester at time of application",
+        "Not a prior recipient of a CFP Board Center for Financial Planning scholarship"
+      ],
+      "deadline": "2027-09-30",
+      "deadlineNote": "New for this update. The 2026 cycle's deadline was Sept 30, 2026 (closed just before this review); Sept 30, 2027 is an estimate for the next cycle based on that recurring annual date. Still contingent, like the LeCount R. Davis scholarship, on Mason enrolling in (or Howard offering) a CFP Board Registered Program — confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
+      "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/aspiriant-impact-scholarship",
       "category": "black-finance"
     },
     {
@@ -337,7 +352,7 @@
         "Apply through the Goldman Sachs Careers events portal (450-word essay, 2-minute video, or slide presentation) and secure a GS summer internship offer to receive the award"
       ],
       "deadline": "2027-01-01",
-      "deadlineNote": "New for this update. Confirmed recurring cycle: applications open Nov 1 and close Jan 1, with winners announced Mar 1 — Jan 1, 2027 is the upcoming deadline for the Nov 2026–Jan 2027 window. Exact deadlines can vary slightly by school/recruiting event, so confirm via goldmansachs.com/careers once the portal opens.",
+      "deadlineNote": "Reconfirmed Oct 2026: applications open Nov 1, 2026 and close Jan 1, 2027, unchanged from the prior review. Exact deadlines can vary slightly by school/recruiting event, so confirm via goldmansachs.com/careers once the portal opens.",
       "applyUrl": "https://www.goldmansachs.com/careers",
       "category": "black-finance"
     },
