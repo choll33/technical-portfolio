@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:00:00Z",
+  "generatedAt": "2026-10-03T10:12:15Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -20,7 +20,7 @@
         "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
       ],
       "deadline": "2026-12-01",
-      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Additional sponsor scholarships rotate through the portal — recheck after Dec 1 for a new wave.",
+      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. New this round: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years) is another strong portal match, though its current-wave deadline couldn't be pinned down precisely (sources show a Jan 16, 2026 cutoff for the prior wave) — check the live portal for the open FedEx track. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Additional sponsor scholarships rotate through the portal — recheck after Dec 1 for a new wave.",
       "applyUrl": "https://scholarships.tmcf.org",
       "category": "howard-hbcu"
     },
@@ -66,8 +66,8 @@
         "Apply via Howard's centralized AcademicWorks/Blackbaud scholarship application, released each January",
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
-      "deadline": null,
-      "deadlineNote": "Re-checked Oct 2026: still no single exact deadline date confirmed across sources — the January-released, spring-reviewed pattern holds, and one weak aggregator still suggests April 15, unconfirmed. New this round: a direct contact was surfaced for current-cycle questions — Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu. Check HU email and business.howard.edu/office-student-affairs/endowed-scholarships starting January 2027 (the org's own site couldn't be fetched directly this session due to network access restrictions).",
+      "deadline": "2027-03-06",
+      "deadlineNote": "New this round: a third-party aggregator (collegereadyparent.org) cites a specific 2026-2027 application window of Jan 28, 2027 – Mar 6, 2027, matching the known January-release/spring-review pattern — set as a best estimate but still NOT directly confirmed on Howard's own site (business.howard.edu remains blocked from direct fetch every session due to network access restrictions). A direct contact for current-cycle questions was surfaced last round: Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu — use it to verify before relying on this date. Check HU email starting January 2027.",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -368,7 +368,7 @@
         "Must first apply to a current Summer Analyst opening via Morgan Stanley's Students & Graduates page; scholarship application follows from that"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update. Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines (e.g., late June, early October, early November) depending on division/track. Watch morganstanley.com/people-opportunities/students-graduates for the Summer 2027 Analyst postings, likely opening fall 2026.",
+      "deadlineNote": "Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines (Sept 30, Oct 2, Nov 6, Dec 6, and Feb 15 all appear across different sources/tracks). New caution this round: one source describes eligibility as \"current juniors\" only rather than sophomore-or-junior — this conflicts with other sources and with the program's own general description of sophomore/junior eligibility, so it's unconfirmed whether Mason qualifies yet as a rising sophomore or needs to wait until junior year. Watch morganstanley.com/people-opportunities/students-graduates for the Summer 2027 Analyst postings and verify class-year eligibility directly before investing application time.",
       "applyUrl": "https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program",
       "category": "black-finance"
     },
@@ -429,6 +429,64 @@
       "deadlineNote": "New for this update. The 2026 cycle's deadline was July 5, 2026 (already closed, winners announced Aug 6, 2026); July 5, 2027 is an estimate for the next cycle based on that pattern since it recurs annually on Bold.org. Apply at bold.org once the next cycle opens.",
       "applyUrl": "https://bold.org/scholarships/SIA-financial-planning-scholarship/",
       "category": "finance-major"
+    },
+    {
+      "id": "one-for-2-education-foundation",
+      "organization": "1 for 2 Education Foundation Scholarship",
+      "description": "A scholarship covering tuition remaining after other aid, worth up to $25,000, open to full-time undergraduates with a minimum 3.5 GPA — Mason's 3.7 clears this comfortably. Recipients pledge to one day fund a comparable scholarship for two other people as a \"pay it forward\" condition.",
+      "requirements": [
+        "Full-time undergraduate at a U.S. four-year college or university",
+        "Minimum 3.5 GPA (some sources cite 3.7) — Mason's 3.7 qualifies either way",
+        "Living in the U.S. (citizenship/permanent residency not required)",
+        "Must maintain a 3.0+ GPA each semester to keep the award",
+        "Pledge to fund a comparable scholarship for two unrelated people during one's lifetime"
+      ],
+      "deadline": "2027-02-01",
+      "deadlineNote": "New for this update. Applications typically open in December and close Feb 1 (or Feb 15/after 500 complete applications, whichever comes first) — Feb 1, 2027 reflects this recurring pattern, consistent across multiple aggregator sources. No major restriction, so Finance qualifies.",
+      "applyUrl": "https://www.1for2edu.com/scholarship/",
+      "category": "general"
+    },
+    {
+      "id": "bold-be-bold-no-essay",
+      "organization": "Bold.org \"Be Bold\" No-Essay Scholarship",
+      "description": "A $25,000 no-essay scholarship open to any student, awarded to the applicant with the \"boldest\" Bold.org profile, with rolling monthly deadlines. Bold.org is a vetted 501(c)(3)-backed platform (not a sweepstakes scam) that pays scholarship funds directly to the recipient's school.",
+      "requirements": [
+        "Any U.S. student with a Bold.org profile",
+        "No essay, no GPA minimum, no major restriction",
+        "Rolling monthly application deadlines"
+      ],
+      "deadline": "2026-10-31",
+      "deadlineNote": "New for this update. Current monthly deadline is Oct 31, 2026 with winners announced Dec 1, 2026; the scholarship recurs on a rolling monthly basis, so Mason can re-enter each month regardless of outcome. Low odds given high volume of \"no-essay\" entrants, but zero-cost and takes minutes.",
+      "applyUrl": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
+      "category": "general"
+    },
+    {
+      "id": "niche-40k-no-essay",
+      "organization": "Niche $40,000 \"No Essay\" Scholarship",
+      "description": "A $40,000 no-essay scholarship from Niche (a well-established college-search company) awarded by random drawing, open to any high school or college student headed to or currently in college. One of the largest no-essay awards tracked so far.",
+      "requirements": [
+        "U.S. citizen or valid visa/passport holder",
+        "High school or college student (or planning to attend college/grad school within the next year)",
+        "No essay, one entry per person"
+      ],
+      "deadline": "2026-10-15",
+      "deadlineNote": "New for this update. Current cycle deadline is Oct 15, 2026, winner announced Nov 15, 2026. This is an annually recurring Niche scholarship (prior-year editions exist under the same name), so if this cycle is missed, check niche.com/colleges/scholarships/ again around fall 2027 for the next edition.",
+      "applyUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
+      "category": "general"
+    },
+    {
+      "id": "sofi-scholarship-giveaway",
+      "organization": "SoFi $2,500 Scholarship Giveaway",
+      "description": "A monthly no-essay sweepstakes scholarship from SoFi (a legitimate financial services company) that awards $2,500 to one winner per entry period, open to any enrolled or admitted student at an accredited four-year school.",
+      "requirements": [
+        "U.S. resident, 18 years or older",
+        "Enrolled at or accepted to an accredited nonprofit 4-year college, university, or grad program",
+        "No essay; one entry per person per monthly period"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update. Runs as a rolling monthly sweepstakes (the 2026 cycle runs January 1 – December 31, 2026, with separate monthly entry periods), so there's no single fixed deadline — enter any time at sofi.com/scholarship-giveaway/ and re-enter each month.",
+      "applyUrl": "https://www.sofi.com/scholarship-giveaway/",
+      "category": "general"
     }
   ]
 }
