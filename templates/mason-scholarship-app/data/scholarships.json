@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:12:15Z",
+  "generatedAt": "2026-10-04T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -20,7 +20,7 @@
         "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
       ],
       "deadline": "2026-12-01",
-      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. New this round: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years) is another strong portal match, though its current-wave deadline couldn't be pinned down precisely (sources show a Jan 16, 2026 cutoff for the prior wave) — check the live portal for the open FedEx track. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Additional sponsor scholarships rotate through the portal — recheck after Dec 1 for a new wave.",
+      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Additional sponsor scholarships rotate through the portal — recheck after Dec 1 for a new wave.",
       "applyUrl": "https://scholarships.tmcf.org",
       "category": "howard-hbcu"
     },
@@ -271,6 +271,22 @@
       "category": "nj-resident"
     },
     {
+      "id": "central-nj-mensa-scholarship",
+      "organization": "Central New Jersey Scholarship (Mensa Education and Research Foundation)",
+      "description": "A $600 scholarship for New Jersey residents demonstrating exceptional leadership, open to undergraduates in any major. Despite the Mensa sponsor, Mensa membership is not required to apply — confirmed via the Mensa Foundation's own scholarship FAQ.",
+      "requirements": [
+        "New Jersey resident",
+        "Undergraduate (or high school senior) seeking a certificate, associate, or bachelor's degree — no major restriction",
+        "U.S. citizen or permanent resident",
+        "Demonstrated leadership via extracurricular activities, work, or community involvement",
+        "Essay required; Mensa membership NOT required"
+      ],
+      "deadline": "2027-01-15",
+      "deadlineNote": "New for this update. The 2025-2026 cycle ran Sept 15, 2025 – Jan 15, 2026 (already closed); Jan 15, 2027 is an estimate for the next cycle based on that recurring annual window. Apply via the Mensa Foundation's scholarship portal (bigfuture.collegeboard.org listing or mensafoundation.org) once the next cycle opens.",
+      "applyUrl": "https://www.mensafoundation.org/what-we-do/scholarships/",
+      "category": "nj-resident"
+    },
+    {
       "id": "fpa-diversity",
       "organization": "Financial Planning Association (FPA) Diversity Scholarship",
       "description": "Merit-based scholarship for financial-services students actively promoting diversity within the financial planning profession.",
@@ -368,7 +384,7 @@
         "Must first apply to a current Summer Analyst opening via Morgan Stanley's Students & Graduates page; scholarship application follows from that"
       ],
       "deadline": null,
-      "deadlineNote": "Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines (Sept 30, Oct 2, Nov 6, Dec 6, and Feb 15 all appear across different sources/tracks). New caution this round: one source describes eligibility as \"current juniors\" only rather than sophomore-or-junior — this conflicts with other sources and with the program's own general description of sophomore/junior eligibility, so it's unconfirmed whether Mason qualifies yet as a rising sophomore or needs to wait until junior year. Watch morganstanley.com/people-opportunities/students-graduates for the Summer 2027 Analyst postings and verify class-year eligibility directly before investing application time.",
+      "deadlineNote": "Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines across tracks. Resolved Oct 4, 2026: the prior session's \"current juniors only\" caution is not supported — five independent sources (Baruch, CampusReel, Scholarships.com, Fastweb, Petersons) all confirm sophomore-or-junior standing is eligible, so Mason should qualify as a rising sophomore. One specific matching track, the 2027 Investment Management Sophomore Summer Analyst Program (Private Credit & Equity, for Dec 2028–June 2029 grads — Mason's class year), had an application deadline of Sept 25, 2026, which has just passed as of this update; watch for an equivalent sophomore-track posting to reopen for the 2027-2028 recruiting cycle (typically similar divisions re-post in later summer/fall). Must first apply to an open Summer Analyst position via morganstanley.com/people-opportunities/students-graduates; the Fisher Scholarship application follows from that.",
       "applyUrl": "https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program",
       "category": "black-finance"
     },
@@ -428,6 +444,21 @@
       "deadline": "2027-07-05",
       "deadlineNote": "New for this update. The 2026 cycle's deadline was July 5, 2026 (already closed, winners announced Aug 6, 2026); July 5, 2027 is an estimate for the next cycle based on that pattern since it recurs annually on Bold.org. Apply at bold.org once the next cycle opens.",
       "applyUrl": "https://bold.org/scholarships/SIA-financial-planning-scholarship/",
+      "category": "finance-major"
+    },
+    {
+      "id": "ritchie-jennings-acfe",
+      "organization": "Ritchie-Jennings Memorial Scholarship Program (ACFE Foundation)",
+      "description": "The Association of Certified Fraud Examiners Foundation awards $2,000–$10,000 scholarships to students with a declared major or minor in accounting, business administration, finance, criminal justice, or a similar fraud-related discipline. Finance is explicitly a named eligible major, and sophomores in the second half of their sophomore year qualify, matching Mason's spring 2027 timing.",
+      "requirements": [
+        "Declared major or minor in accounting, business administration, finance, criminal justice, or similar fraud-related discipline (finance qualifies)",
+        "Enrolled full-time (9+ semester hours) at an accredited four-year college or university",
+        "Must be a junior, senior, or at least in the second half of sophomore year when applying, and enrolled through the following academic year",
+        "Official transcript and two letters of recommendation (professor or professional contact) required"
+      ],
+      "deadline": "2027-02-01",
+      "deadlineNote": "New for this update. The 2026-2027 cycle's deadline was Feb 2, 2026 (already closed); Feb 1, 2027 is an estimate for the 2027-2028 cycle based on that recurring early-February pattern. By that date Mason will be in the second half of his sophomore year, which the program explicitly allows. Apply via app.smarterselect.com (ACFE Foundation) or acfe.com/scholarship once the next cycle opens.",
+      "applyUrl": "https://www.acfe.com/scholarship",
       "category": "finance-major"
     },
     {
