@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:00:00Z",
+  "generatedAt": "2026-10-05T10:10:31Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -35,7 +35,7 @@
         "HBCU/HSI track applies directly to Howard students"
       ],
       "deadline": "2027-03-25",
-      "deadlineNote": "Re-checked Oct 2026: still listed closed/tentative for the next cycle with no official 2026-2027 dates confirmed yet, but search aggregators now cite March 25, 2027 as the expected deadline based on the historical application timeline. Treat as a best estimate and recheck scholarshipamerica.org/scholarship/american-water/ for the official open date (likely ~Jan 31, 2027 per prior years).",
+      "deadlineNote": "Re-checked Oct 5, 2026: still listed closed/tentative for the next cycle with no official 2026-2027 dates confirmed yet, but a second independent aggregator (Peterson's) now also cites March 25, 2027, corroborating the prior estimate. Treat as a best estimate and recheck scholarshipamerica.org/scholarship/american-water/ for the official open date (likely ~Jan 31, 2027 per prior years).",
       "applyUrl": "https://scholarshipamerica.org/scholarship/american-water/",
       "category": "howard-hbcu"
     },
@@ -114,8 +114,8 @@
         "Demonstrated leadership involvement",
         "Apply through the UNCF online application portal"
       ],
-      "deadline": null,
-      "deadlineNote": "Search results continue to disagree on the current-cycle window — one source described a Feb 9–Mar 9 window, another cited an April 25, 2024 deadline for the 2023-24 cycle — so no single date is confident enough to set. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
+      "deadline": "2027-01-15",
+      "deadlineNote": "Updated Oct 5, 2026: the 2025-2026 cycle is now independently confirmed by BigFuture/College Board as opening Dec 4, 2025 and closing Jan 15, 2026 (already closed) — this supersedes the previously conflicting Feb 9–Mar 9 and April 25, 2024 reports with a single, more authoritative source. Jan 15, 2027 is set as a best estimate for the next cycle based on this confirmed annual pattern. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "finance-major"
     },
@@ -504,6 +504,22 @@
       "deadlineNote": "New for this update. Current cycle deadline is Oct 15, 2026, winner announced Nov 15, 2026. This is an annually recurring Niche scholarship (prior-year editions exist under the same name), so if this cycle is missed, check niche.com/colleges/scholarships/ again around fall 2027 for the next edition.",
       "applyUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
       "category": "general"
+    },
+    {
+      "id": "scholar-dollars-essay-black-students",
+      "organization": "\"Scholar Dollars\" Essay Scholarship for Black Students (Scholarships360)",
+      "description": "A $1,000 essay scholarship from Scholarships360 open to currently enrolled Black high school, undergraduate, and graduate students, with no major or class-year restriction. Verified free to apply (no application fee, no paid account required), unlike some scholarship-aggregator listings.",
+      "requirements": [
+        "Self-identifies as Black or African American",
+        "Currently enrolled high school, undergraduate, or graduate student (or pursuing career training/certificate)",
+        "U.S. citizen or permanent resident",
+        "Short essay on a figure (historical, personal, or contemporary) who most inspired your educational or personal journey",
+        "Free Scholarships360 account required to apply; no application fee"
+      ],
+      "deadline": "2027-03-01",
+      "deadlineNote": "New for this update. Current cycle deadline is March 1, 2027, per Scholarships360's own listing. Low odds given it's a single $1,000 award with broad eligibility, but zero-cost and quick to enter.",
+      "applyUrl": "https://scholarships360.org/scholarships/search/scholar-dollars-essay-scholarship-for-black-students/",
+      "category": "black-finance"
     },
     {
       "id": "sofi-scholarship-giveaway",
