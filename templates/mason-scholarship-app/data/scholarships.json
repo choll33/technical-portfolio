@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:10:31Z",
+  "generatedAt": "2026-10-06T10:11:52Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -20,7 +20,7 @@
         "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
       ],
       "deadline": "2026-12-01",
-      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Additional sponsor scholarships rotate through the portal — recheck after Dec 1 for a new wave.",
+      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Updated Oct 6, 2026: also confirmed the TMCF | Lowe's Gap Scholarship (up to $5,000, Business OR STEM majors, no class-year restriction) is open now with the same Dec 1, 2026 close as Wells Fargo Gap — a second live, directly-eligible match this wave. The TMCF | CoBank Scholarship (up to $10,250, need-based, explicitly names Finance as an eligible major, sophomores eligible, 3.0+ GPA) looks like the single best-matched sponsor award on paper, but sources only show a Wave 1 deadline of Jan 16, 2026 that's already passed for this cycle — watch for a Wave 2/3 reopening. The TMCF | Sprott Inc. HBCU Scholarship and TMCF | Verisk Scholarship (both name Business/Finance) already closed their Wave 2 window (Mar 9–Apr 24, 2026); Verisk is junior/senior-only going forward anyway. Recheck the portal after Dec 1, 2026 for a new wave.",
       "applyUrl": "https://scholarships.tmcf.org",
       "category": "howard-hbcu"
     },
@@ -534,6 +534,38 @@
       "deadlineNote": "New for this update. Runs as a rolling monthly sweepstakes (the 2026 cycle runs January 1 – December 31, 2026, with separate monthly entry periods), so there's no single fixed deadline — enter any time at sofi.com/scholarship-giveaway/ and re-enter each month.",
       "applyUrl": "https://www.sofi.com/scholarship-giveaway/",
       "category": "general"
+    },
+    {
+      "id": "jpmorgan-launching-leaders",
+      "organization": "J.P. Morgan Launching Leaders Undergraduate Scholarship",
+      "description": "A scholarship of up to $15,000 paired with a guaranteed Summer Analyst internship placement (including Investment Banking, Sales & Trading, CIB Risk, and other CIB tracks) for Black, Hispanic, and Native American students. Distinct from the already-tracked JPMorganChase Fellowship (ABP) — this program is race-specific, pays considerably more, and explicitly covers Investment Banking.",
+      "requirements": [
+        "Black, Hispanic, or Native American identity",
+        "Sophomore or junior standing, any major",
+        "Minimum 3.5 GPA — Mason's 3.7 qualifies",
+        "Interest in financial services; placement spans CIB Risk, Investment Banking, Investor Services, Public Finance, Research, Sales & Trading, or Treasury Services",
+        "Apply via JPMorganChase's careers site during the fall recruiting window"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 6, 2026). Applications run on JPMorgan's fall recruiting cycle each year, same general timeframe as the already-tracked JPMC Fellowship, but an exact 2026-2027 deadline wasn't separately confirmed this round. Watch careers.jpmorganchase.com starting ~November 2026 for the official posting.",
+      "applyUrl": "https://careers.jpmorganchase.com",
+      "category": "black-finance"
+    },
+    {
+      "id": "rothschild-black-leaders",
+      "organization": "Rothschild & Co — Global Advisory Black Leaders Program",
+      "description": "A four-month career-development program in New York for Black/African American college students interested in investment banking, including technical training, mentorship, networking, and a financial award. Explicitly names sophomores as an eligible class year, a direct match for Mason's current standing and finance interest.",
+      "requirements": [
+        "Black or African American identity",
+        "Sophomore (or above) undergraduate standing",
+        "Interest in financial services/investment banking",
+        "Program based in New York; financial award component included",
+        "Apply via Rothschild & Co's careers site"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 6, 2026). Prior cycle was branded \"US 2024/25 Global Advisory | Black Leaders Program\"; a specific 2026-2027 application window/deadline wasn't surfaced this round — check rothschildandco.com/en/careers directly for the current posting.",
+      "applyUrl": "https://rothschildandco.com/en/careers/gaus-202425-global-advisory-black-leaders-program",
+      "category": "black-finance"
     }
   ]
 }
