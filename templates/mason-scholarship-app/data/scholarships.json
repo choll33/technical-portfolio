@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:11:52Z",
+  "generatedAt": "2026-10-07T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -20,7 +20,7 @@
         "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
       ],
       "deadline": "2026-12-01",
-      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Updated Oct 6, 2026: also confirmed the TMCF | Lowe's Gap Scholarship (up to $5,000, Business OR STEM majors, no class-year restriction) is open now with the same Dec 1, 2026 close as Wells Fargo Gap — a second live, directly-eligible match this wave. The TMCF | CoBank Scholarship (up to $10,250, need-based, explicitly names Finance as an eligible major, sophomores eligible, 3.0+ GPA) looks like the single best-matched sponsor award on paper, but sources only show a Wave 1 deadline of Jan 16, 2026 that's already passed for this cycle — watch for a Wave 2/3 reopening. The TMCF | Sprott Inc. HBCU Scholarship and TMCF | Verisk Scholarship (both name Business/Finance) already closed their Wave 2 window (Mar 9–Apr 24, 2026); Verisk is junior/senior-only going forward anyway. Recheck the portal after Dec 1, 2026 for a new wave.",
+      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Updated Oct 6, 2026: also confirmed the TMCF | Lowe's Gap Scholarship (up to $5,000, Business OR STEM majors, no class-year restriction) is open now with the same Dec 1, 2026 close as Wells Fargo Gap — a second live, directly-eligible match this wave. The TMCF | CoBank Scholarship (up to $10,250, need-based, explicitly names Finance/Banking as eligible majors, sophomores eligible, 3.0+ GPA) looks like the single best-matched sponsor award on paper. Updated Oct 7, 2026: confirmed directly via tmcf.org that the 2026-2027 CoBank cycle ran two waves — Wave 1 closed Jan 16, 2026 and Wave 2 closed Apr 24, 2026 — both now passed, with no Wave 3 found; watch for the 2027-2028 cycle to open around the same Jan/Mar pattern. The TMCF | Sprott Inc. HBCU Scholarship and TMCF | Verisk Scholarship (both name Business/Finance) already closed their Wave 2 window (Mar 9–Apr 24, 2026); Verisk is junior/senior-only going forward anyway. Recheck the portal after Dec 1, 2026 for a new wave.",
       "applyUrl": "https://scholarships.tmcf.org",
       "category": "howard-hbcu"
     },
@@ -67,7 +67,7 @@
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
       "deadline": "2027-03-06",
-      "deadlineNote": "New this round: a third-party aggregator (collegereadyparent.org) cites a specific 2026-2027 application window of Jan 28, 2027 – Mar 6, 2027, matching the known January-release/spring-review pattern — set as a best estimate but still NOT directly confirmed on Howard's own site (business.howard.edu remains blocked from direct fetch every session due to network access restrictions). A direct contact for current-cycle questions was surfaced last round: Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu — use it to verify before relying on this date. Check HU email starting January 2027.",
+      "deadlineNote": "New this round: a third-party aggregator (collegereadyparent.org) cites a specific 2026-2027 application window of Jan 28, 2027 – Mar 6, 2027, matching the known January-release/spring-review pattern — set as a best estimate but still NOT directly confirmed on Howard's own site (business.howard.edu remains blocked from direct fetch every session due to network access restrictions). A direct contact for current-cycle questions was surfaced last round: Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu — use it to verify before relying on this date. Updated Oct 7, 2026: found a related but distinct data point — Howard's central Office of Financial Aid (financialservices.howard.edu, a different office from the School of Business's Office of Student Affairs) ran a general 'Donor Scholarship' application for continuing students for the 2026-2027 academic year with a deadline of April 6, 2026, already closed. It's unclear whether this is the same process as the School of Business endowed funds or a separate, broader financial-aid-office program — flagging the discrepancy (Jan 28–Mar 6 estimate vs. this April 6 data point) for a future session to resolve once business.howard.edu is reachable. Check HU email starting January 2027 either way.",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -566,6 +566,56 @@
       "deadlineNote": "New for this update (found Oct 6, 2026). Prior cycle was branded \"US 2024/25 Global Advisory | Black Leaders Program\"; a specific 2026-2027 application window/deadline wasn't surfaced this round — check rothschildandco.com/en/careers directly for the current posting.",
       "applyUrl": "https://rothschildandco.com/en/careers/gaus-202425-global-advisory-black-leaders-program",
       "category": "black-finance"
+    },
+    {
+      "id": "naba-northern-nj-chapter",
+      "organization": "NABA Northern New Jersey Chapter College Scholarship (National Association of Black Accountants)",
+      "description": "A chapter-level NABA scholarship for New Jersey residents studying accounting, finance, or business, open to NABA student members attending any college in any state — a direct geographic complement to the already-tracked NABA National Scholarship, using the same required membership. Up to $5,500, a strong match given Mason's NJ residency and finance major.",
+      "requirements": [
+        "New Jersey resident",
+        "Black or of African descent and a paid NABA member",
+        "Pursuing a bachelor's degree in accounting, finance, or business",
+        "Minimum 3.0 GPA",
+        "At least 6 completed hours of accounting or business credits",
+        "Essay required"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 7, 2026). Only one past-cycle data point was found (2024 cycle: opened Feb 19, 2024, closed Apr 19, 2024) via a BigFuture/College Board listing — not enough to confidently project a 2026-2027 date, so left as null rather than guessing. Renewing/holding NABA student membership (also needed for the National Scholarship) is a prerequisite either way. Contact the chapter directly at nabannj@gmail.com or check community.nabainc.org/northernnewjersey for the current cycle's dates; nabainc.org subdomains remain blocked from direct fetch this session.",
+      "applyUrl": "https://community.nabainc.org/northernnewjersey/studentchapters",
+      "category": "nj-resident"
+    },
+    {
+      "id": "colgate-palmolive-inspire-our-future-commercial",
+      "organization": "Colgate-Palmolive \"Inspire Our Future\" Commercial Scholarship",
+      "description": "A $10,000 scholarship for Black/African American college sophomores or juniors pursuing business, communications, finance, or marketing degrees, administered by Scholarship America. Finance is an explicitly named eligible major, and the program is open to any accredited four-year U.S. college — attendance at one of Colgate-Palmolive's 66 partner schools is only a stated preference, not a requirement, so Howard students without that affiliation can still apply.",
+      "requirements": [
+        "Self-identifies as Black or African American",
+        "Current college sophomore or junior (half of the program's 10 annual awards go to this 'Commercial' track; the other half go to a separate Supply Chain/Engineering track)",
+        "Pursuing a bachelor's degree in business, communications, finance, or marketing (finance qualifies)",
+        "Minimum 2.80 GPA — Mason's 3.7 clears this comfortably",
+        "U.S. resident, full-time enrollment at an accredited four-year college or university",
+        "Application, transcript, resume, and recommendation/reference required"
+      ],
+      "deadline": "2027-04-03",
+      "deadlineNote": "New for this update (found Oct 7, 2026). The only confirmed cycle found ran Feb 1 – Apr 3, 2025 (closed); no 2026 cycle announcement or winner list was found in this round's searches, so Apr 3, 2027 is a rougher estimate than most tracked entries — based on a single prior cycle rather than a multi-year pattern. Verify at scholarshipamerica.org/scholarship/inspire-our-future-commercial-scholarship/ or colgatepalmolive.com once the next cycle is confirmed open (both blocked from direct fetch this session).",
+      "applyUrl": "https://scholarshipamerica.org/scholarship/inspire-our-future-commercial-scholarship/",
+      "category": "black-finance"
+    },
+    {
+      "id": "byron-michelle-johnson-scholarship",
+      "organization": "Byron and Michelle Johnson Scholarship (via Bold.org)",
+      "description": "A donor-funded Bold.org scholarship for high school or undergraduate students at a Historically Black College or University who are underrepresented minorities from New Jersey or Pennsylvania — a direct match on both the HBCU and NJ-residency fronts for Mason. Requires an essay connecting NJ/PA life experience to career goals.",
+      "requirements": [
+        "Enrolled at a Historically Black College or University (Howard qualifies)",
+        "Underrepresented minority",
+        "New Jersey or Pennsylvania resident",
+        "Minimum 2.5 GPA",
+        "400-600 word essay on how living in NJ or PA shaped your views, relationships, and career goals"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 7, 2026). Only one cycle was found (deadline July 22, 2025, winners announced Aug 22, 2025) — not enough history to confirm an annual recurring pattern or project a 2026-2027 date, so left as null. Award amount wasn't surfaced in search results either. bold.org is blocked from direct fetch this session; check bold.org/scholarships/byron-and-michelle-johnson-scholarship/ periodically for a reopened cycle.",
+      "applyUrl": "https://bold.org/scholarships/byron-and-michelle-johnson-scholarship/",
+      "category": "nj-resident"
     }
   ]
 }
