@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:00:00Z",
+  "generatedAt": "2026-10-08T10:11:44Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -616,6 +616,37 @@
       "deadlineNote": "New for this update (found Oct 7, 2026). Only one cycle was found (deadline July 22, 2025, winners announced Aug 22, 2025) — not enough history to confirm an annual recurring pattern or project a 2026-2027 date, so left as null. Award amount wasn't surfaced in search results either. bold.org is blocked from direct fetch this session; check bold.org/scholarships/byron-and-michelle-johnson-scholarship/ periodically for a reopened cycle.",
       "applyUrl": "https://bold.org/scholarships/byron-and-michelle-johnson-scholarship/",
       "category": "nj-resident"
+    },
+    {
+      "id": "lilly-bison-scholarship-howard",
+      "organization": "Lilly Bison Scholarship (Eli Lilly and Company, via Howard University)",
+      "description": "A $1.1 million gift from Eli Lilly and Company funds up to 12 renewable Lilly Bison Scholarships per year, covering tuition and fees up to $10,000, across five Howard schools including the School of Business. Explicitly lists rising sophomores as eligible, a direct match for Mason's class year and school.",
+      "requirements": [
+        "Enrolled at Howard University in an eligible school (School of Business qualifies)",
+        "First-year, rising sophomore, rising junior, or transfer student",
+        "Renewable for up to four academic years if criteria are met",
+        "Specific GPA/need criteria and application process not yet published — contact Howard's Office of Financial Aid or School of Business directly"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 8, 2026). Announced via a Howard University news release (thedig.howard.edu) about Eli Lilly and Company's $1.1 million gift establishing the program; no application portal, deadline, or detailed eligibility criteria were surfaced in search results (thedig.howard.edu and business.howard.edu remain blocked from direct fetch this session, consistent with every prior session). Contact Howard's Office of Financial Aid (financialservices.howard.edu) or the School of Business's Office of Student Affairs to ask whether this is bundled into the general donor-scholarship application already tracked under 'howard-business-endowed' or is a separate process with its own deadline.",
+      "applyUrl": "https://thedig.howard.edu/all-stories/eli-lilly-and-company-donates-11-million-howard-university-multiple-student-scholarships",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "pimco-future-leaders",
+      "organization": "PIMCO Future Leaders Scholarship (PIMCO Foundation, via Scholarship America)",
+      "description": "A $20,000 scholarship for current undergraduate sophomores interested in investment management, administered by Scholarship America. Originally targeted to Black and Hispanic/Latinx students specifically; current published criteria are broader but still give preference to federal financial aid-eligible and first-generation students, which may still favor Mason's profile.",
+      "requirements": [
+        "Current undergraduate sophomore in good academic standing at an accredited U.S. institution",
+        "Expected graduation date must match the specific cycle's targeted window (each cycle targets one graduating class of sophomores)",
+        "Full-time enrollment planned for the entire upcoming academic year",
+        "Interest in investment management/finance career",
+        "Preference given to federal financial aid-eligible and first-generation college students"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 8, 2026). The 2026 cycle (opened ~Dec 1, 2025, closed Feb 9, 2026) already passed and targeted students graduating Dec 2027–June 2028 — one cohort ahead of Mason, who is expected to graduate around 2029 — so that specific cycle wasn't a fit even though its deadline only recently closed. Based on the recurring Dec–Feb annual pattern, the next cycle opening ~Dec 2026 should target the graduation window matching Mason's cohort; watch pimco.com/us/en/about-us/inclusion-diversity/future-leaders-scholarship and scholarshipamerica.org/pimco-future-leaders/ starting December 2026 to confirm eligibility and the exact deadline.",
+      "applyUrl": "https://scholarshipamerica.org/pimco-future-leaders/",
+      "category": "finance-major"
     }
   ]
 }
