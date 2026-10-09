@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T10:11:44Z",
+  "generatedAt": "2026-10-09T10:13:20Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -66,8 +66,8 @@
         "Apply via Howard's centralized AcademicWorks/Blackbaud scholarship application, released each January",
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
-      "deadline": "2027-03-06",
-      "deadlineNote": "New this round: a third-party aggregator (collegereadyparent.org) cites a specific 2026-2027 application window of Jan 28, 2027 – Mar 6, 2027, matching the known January-release/spring-review pattern — set as a best estimate but still NOT directly confirmed on Howard's own site (business.howard.edu remains blocked from direct fetch every session due to network access restrictions). A direct contact for current-cycle questions was surfaced last round: Office of Student Affairs at 202-806-1663, or the Dean's Office at businessdean@howard.edu — use it to verify before relying on this date. Updated Oct 7, 2026: found a related but distinct data point — Howard's central Office of Financial Aid (financialservices.howard.edu, a different office from the School of Business's Office of Student Affairs) ran a general 'Donor Scholarship' application for continuing students for the 2026-2027 academic year with a deadline of April 6, 2026, already closed. It's unclear whether this is the same process as the School of Business endowed funds or a separate, broader financial-aid-office program — flagging the discrepancy (Jan 28–Mar 6 estimate vs. this April 6 data point) for a future session to resolve once business.howard.edu is reachable. Check HU email starting January 2027 either way.",
+      "deadline": "2027-04-06",
+      "deadlineNote": "Updated Oct 9, 2026: re-searched specifically to resolve the standing Jan 28–Mar 6 (collegereadyparent.org estimate) vs. Apr 6 (financialservices.howard.edu) discrepancy flagged in the Oct 7-8 logs. A fresh search again surfaced financialservices.howard.edu's own 'Donor Scholarship Application' page directly (not just a secondhand citation this time): it states the 2026-2027 Donor Scholarship Application is open for continuing Howard University students only (new students are explicitly excluded), submitted via the Blackbaud/AcademicWorks portal at howard.academicworks.com, with a deadline of April 6, 2026 (now closed) and the note 'completing one application considers you for multiple donor scholarships for which you may qualify' — i.e. a single central application likely feeds both general financial-aid-office funds and individual School of Business endowed funds, which resolves the ambiguity: treat Apr 6 as the authoritative annual pattern and the Jan28–Mar6 aggregator figure as superseded/incorrect. Apr 6, 2027 is the best estimate for the 2027-2028 cycle. business.howard.edu itself remains blocked from direct fetch every session; contact sfs@howard.edu (Office of Financial Aid) for current-cycle questions, or Student Affairs at 202-806-1663 / businessdean@howard.edu for School of Business-specific confirmation.",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -647,6 +647,66 @@
       "deadlineNote": "New for this update (found Oct 8, 2026). The 2026 cycle (opened ~Dec 1, 2025, closed Feb 9, 2026) already passed and targeted students graduating Dec 2027–June 2028 — one cohort ahead of Mason, who is expected to graduate around 2029 — so that specific cycle wasn't a fit even though its deadline only recently closed. Based on the recurring Dec–Feb annual pattern, the next cycle opening ~Dec 2026 should target the graduation window matching Mason's cohort; watch pimco.com/us/en/about-us/inclusion-diversity/future-leaders-scholarship and scholarshipamerica.org/pimco-future-leaders/ starting December 2026 to confirm eligibility and the exact deadline.",
       "applyUrl": "https://scholarshipamerica.org/pimco-future-leaders/",
       "category": "finance-major"
+    },
+    {
+      "id": "wellington-hbcu-scholars",
+      "organization": "Wellington Management HBCU Scholars Program",
+      "description": "A major asset-management firm's scholarship for full-time HBCU students, offering up to a $15,000 renewable annual merit-based scholarship applied to junior- and senior-year tuition, plus paid summer internships and a housing stipend. Explicitly open to sophomores and juniors in business, finance, accounting, liberal arts, technology, or STEM majors — a strong match for Mason's school, class year, and major.",
+      "requirements": [
+        "Full-time student at a Historically Black College or University (Howard qualifies)",
+        "Sophomore or junior standing",
+        "Business, finance, accounting, liberal arts, technology, or STEM major",
+        "Renewable toward junior/senior-year tuition if criteria are met",
+        "Paid summer internship component included"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 9, 2026). The most recently confirmed cycle (for the 2025 scholarship class) ran Aug 26 – Sept 27, 2024 at 11:59pm ET; no 2026-2027 window was found in search results, and wellington.com could not be directly verified this session (blocked from direct fetch). Given the Aug/Sept pattern, a 2026 cycle may have already opened and closed earlier this fall, or may not yet be posted — check wellington.com/en/hbcu-scholarship-program/ immediately, or email HBCUscholarship@wellington.com, rather than waiting for the next daily pass.",
+      "applyUrl": "https://www.wellington.com/en/hbcu-scholarship-program/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "milken-hbcu-fellows",
+      "organization": "Milken Institute HBCU Fellows Program",
+      "description": "Not a cash scholarship, but a finance-focused fellowship for HBCU sophomores, pairing an eight-week/eight-course curriculum (with ViableEDU) covering finance fundamentals and capital markets with in-person networking and access to Milken Institute's financial-industry network. Explicitly launched for students entering their sophomore year, a precise match for Mason right now.",
+      "requirements": [
+        "Enrolled at a Historically Black College or University (Howard qualifies)",
+        "Sophomore undergraduate standing",
+        "Interest in finance, capital markets, or asset management",
+        "Competitive application; 20 Fellow positions in a recent cohort"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 9, 2026). Milken's own program page states students from HBCUs are invited to apply to the 2026-2027 Cohort, confirming it is actively recruiting right now, but no exact 2026-2027 deadline was found. The most recent dated reference (a prior cohort) listed an October 13 deadline, which — if the pattern holds — means this may close very soon; check milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship immediately rather than waiting for a future pass.",
+      "applyUrl": "https://milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "momentum-advisors-future-leaders-finance",
+      "organization": "Momentum Advisors Future Leaders in Finance Scholarship",
+      "description": "A $1,000 one-time scholarship from a fiduciary wealth-management firm, open nationally to undergraduates with a declared major in finance, economics, business, or a closely related field, judged on academic record, leadership, and an essay on career aspirations. No race, geography, or class-year restriction, so Mason's Finance major and 3.7 GPA fit directly.",
+      "requirements": [
+        "Enrolled in an accredited undergraduate program in the U.S.",
+        "Declared major in finance, economics, business, or a closely related field",
+        "Strong academic record and demonstrated leadership experience",
+        "Essay on career aspirations and how the scholarship would help"
+      ],
+      "deadline": "2026-12-15",
+      "deadlineNote": "New for this update (found Oct 9, 2026). The inaugural cycle's deadline was Dec 15, 2025 (winner announced Jan 15, 2026). Since the program only launched in 2025, Dec 15, 2026 is a single-cycle estimate for a second annual round rather than a confirmed multi-year pattern — verify at momentumadvisorsscholarship.com before relying on it.",
+      "applyUrl": "https://momentumadvisorsscholarship.com",
+      "category": "finance-major"
+    },
+    {
+      "id": "hps-partners-endowed-scholars-howard",
+      "organization": "HPS Partners Endowed Scholars Program (Howard University School of Business)",
+      "description": "A $10 million gift from global investment firm HPS Investment Partners and The Kapnick Foundation endows annual scholarships covering tuition costs for Howard University School of Business undergraduates, alongside creating the HPS Center for Financial Excellence (investment banking/private investment career prep). Finance is squarely within the School of Business's scope, making this a direct institutional match.",
+      "requirements": [
+        "Enrolled undergraduate at Howard University School of Business (Finance qualifies)",
+        "Specific GPA/selection criteria not published in search results",
+        "No standalone application process was found — likely administered through Howard's general donor-scholarship application (see 'howard-business-endowed' entry)"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 9, 2026), via a Howard news article on the HPS/Kapnick gift rather than a scholarship-aggregator listing. No application portal, eligibility criteria, or deadline specific to this fund were found — thedig.howard.edu and business.howard.edu remain blocked from direct fetch every session. Likely routed through the same centralized Donor Scholarship Application (howard.academicworks.com) as other School of Business endowed funds — ask Howard's Office of Financial Aid (sfs@howard.edu) or the School of Business Office of Student Affairs (202-806-1663) whether this fund requires anything beyond that general application.",
+      "applyUrl": "https://thedig.howard.edu/all-stories/howard-university-announces-10-million-gift-hps-investment-partners-and-kapnick-foundation",
+      "category": "howard-hbcu"
     }
   ]
 }
