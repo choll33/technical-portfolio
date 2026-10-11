@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T10:13:20Z",
+  "generatedAt": "2026-10-11T10:11:04Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -707,6 +707,22 @@
       "deadlineNote": "New for this update (found Oct 9, 2026), via a Howard news article on the HPS/Kapnick gift rather than a scholarship-aggregator listing. No application portal, eligibility criteria, or deadline specific to this fund were found — thedig.howard.edu and business.howard.edu remain blocked from direct fetch every session. Likely routed through the same centralized Donor Scholarship Application (howard.academicworks.com) as other School of Business endowed funds — ask Howard's Office of Financial Aid (sfs@howard.edu) or the School of Business Office of Student Affairs (202-806-1663) whether this fund requires anything beyond that general application.",
       "applyUrl": "https://thedig.howard.edu/all-stories/howard-university-announces-10-million-gift-hps-investment-partners-and-kapnick-foundation",
       "category": "howard-hbcu"
+    },
+    {
+      "id": "alixpartners-uncf",
+      "organization": "AlixPartners/UNCF Scholarship",
+      "description": "A UNCF-administered, need-based award (reported as $4,500–$5,000 depending on source) for African American/Black college juniors with a declared major in accounting, analytics, business, engineering, finance, math, or technology. Finance is explicitly a named eligible major, but the program is restricted to students who are current juniors in the academic year of application — Mason is a rising sophomore, so he is not yet eligible.",
+      "requirements": [
+        "Self-identifies as African American/Black",
+        "Current college junior (by class standing in the application year) — not yet open to sophomores",
+        "Minimum 3.0 GPA",
+        "Declared major in accounting, analytics, business, engineering, finance, math, or technology",
+        "Demonstrated financial need; apply through the UNCF online application portal"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 11, 2026). The 2025-2026 cycle opened Mar 10, 2026 and closed Apr 14, 2026 (already closed, and restricted to students who were current juniors in the 2025-2026 academic year). Mason will be a rising sophomore through the 2026-2027 academic year and won't reach junior standing until Fall 2027, so the earliest cycle he could plausibly apply to is the one opening around March 2028 (when he'd be a current junior) — left deadline null rather than estimate that far out. Revisit in fall 2027. Confirm current eligibility and dates at opportunities.uncf.org (uncf.org direct access blocked this session, consistent with every prior session).",
+      "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
+      "category": "black-finance"
     }
   ]
 }

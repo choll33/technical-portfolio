@@ -1,0 +1,34 @@
+# Scholarship Research for Mason — Update, October 11, 2026
+
+Follow-up to the October 10, 2026 research log. Mason remains a rising sophomore Finance major at Howard University (School of Business), GPA 3.7, NJ resident/hometown. This round focused on: (1) re-chasing the two still-unresolved time-sensitive flags from recent logs (Milken HBCU Fellows, Wellington HBCU Scholars), (2) a fresh sweep for new Howard/HBCU, NJ, and Black-finance scholarships via different search angles, and (3) spot-checking a few existing rolling/no-essay entries whose deadlines were approaching.
+
+**Network note:** tmcf.org, wellington.com, and milkeninstitute.org all failed direct WebFetch again this session with DNS resolution errors, consistent with every prior session's egress-proxy block. WebSearch result summaries (which pull from a different crawl path) were the only source available for these domains.
+
+## Time-sensitive flags — re-checked, still unresolved
+
+- **Milken Institute HBCU Fellows Program**: Milken's own page still confirms the 2026-2027 Cohort is open for applications, but no specific close date surfaced in search results this round either (the "Oct 13" pattern flagged Oct 9 remains uncorroborated). Left `deadline: null` unchanged — still the most time-urgent unresolved item in the tracker; recommend Mason apply now rather than wait for a deadline to post.
+- **Wellington Management HBCU Scholars Program**: No new official 2026-cycle dates found. The only prior-cycle data point (Aug 26–Sept 27, 2024 window, confirmed via a regional Wellington page) and a third-party projection (Extern, expecting a Sept–Oct 2026 window) remain the only evidence, and they still don't reconcile cleanly. Left `deadline: null` unchanged — recommend emailing HBCUscholarship@wellington.com directly, since three consecutive sessions have failed to retrieve Wellington's own current-cycle page via search or direct fetch.
+
+## New-scholarship search angles tried
+
+- **AlixPartners/UNCF Scholarship** — NEW entry added (`alixpartners-uncf`, category `black-finance`). A need-based UNCF-administered award ($4,500–$5,000 depending on source) explicitly naming finance as an eligible major for African American/Black college juniors, 3.0+ GPA. Verified via three independent sources (College Board/BigFuture, Peterson's, JLV College Counseling) that converged on the same Mar 10–Apr 14, 2026 window for the just-closed cycle. **Not yet eligible**: it's restricted to students who are current juniors in the application year, and Mason won't reach junior standing until Fall 2027 — earliest realistic fit is the cycle opening around March 2028. Added now so it isn't re-discovered and re-researched from scratch in a future session; `deadline` left `null` with a note to revisit in fall 2027.
+- **TMCF 2026-2027 open-scholarships list** (Sprott, Verisk, CoBank, FedEx, Lowe's Gap) — re-confirmed via a fresh search; all dates and amounts match what's already recorded in the `tmcf-open-portal` entry's deadlineNote exactly (Lowe's Gap/Wells Fargo Gap still open through Dec 1, 2026; Sprott/Verisk/CoBank closed). No change needed — good independent corroboration of the existing note's accuracy.
+- **Howard University School of Business scholarship search** (fresh angle, "finance sophomore new"): surfaced only the already-tracked Maverick Scholarship (closed, no new cycle info) and unrelated results (summer camp programs, other universities' same-named funds). No new Howard-specific fund found.
+- **New Jersey business/finance scholarship search**: surfaced NJCPA College Scholarship again (already excluded — accounting-only, NJ-college-residency required, Howard doesn't qualify) and the already-tracked NABA Northern NJ chapter scholarship (a BigFuture listing newly confirms it's open to NJ students from sophomore year onward in finance/accounting/business — consistent with, and reinforces confidence in, the existing tracked entry; still no deadline found). No new NJ-specific scholarship found.
+- **Black students + finance + sophomore search**: canvassed TMCF's Alper Skyland (sophomore-eligible but history/English/math/chemistry majors only — not a fit) and the AlixPartners/UNCF Scholarship above (added, but junior-only). No other new matches.
+
+## Rolling/no-essay entries spot-checked
+
+- **Niche $40,000 No-Essay Scholarship**: independently reconfirmed via Scholarships.com that the current cycle deadline is Oct 15, 2026 — exactly matches the already-tracked date. No change, but raises confidence.
+- **Bold.org "Be Bold" No-Essay Scholarship**: search surfaced several conflicting historical deadlines (Aug 31, Sep 30, Apr 30, Mar 1 — likely stale cached pages from different past cycles) rather than a clean current date. Not reliable enough to overwrite the existing Oct 31, 2026 estimate — left unchanged.
+- **NABA National Scholarship**: search surfaced a new, differing deadline claim (Sept 30, 2026, via Unigo) alongside the already-tracked Feb 26, 2027 estimate (independently corroborated across five prior sessions' searches via TUN, CollegeXpress, Unigo-freshman-page, BigFuture, and others). Given the Feb 26 estimate's much broader corroboration, treated the single new Sept 30 claim as the less reliable one and left the existing estimate unchanged — but flagging the conflict for future sessions to watch.
+
+## Previously-excluded list — unchanged (reconfirmed, no new evidence)
+
+No additions beyond the items already documented in the Oct 9–10, 2026 logs (UNCF General Scholarship, NJCPA Scholarship Foundation, PSEG STEM Scholarship, NJ Utilities Association, Toigo Foundation, Jackie Robinson Foundation, Jack and Jill Foundation, Prudential Emerging Visionaries, Coca-Cola/Elks/Ron Brown, NSBE, AABE NJ Chapter, PSEG Foundation via UNCF, Edward Dorsey Jr. Memorial, Credit Suisse Douglas L. Paul, AltFinance Fellowship, Faithful Leaders Scholarship (Notre Dame-only), NJBankers Callas Scholarship (employees only), Wendell E. Mackey/Channing Capital Management Scholarship (Chicago-origin restricted, non-recurring)).
+
+## Summary
+
+- **One change to scholarships.json this round**: added the AlixPartners/UNCF Scholarship (`alixpartners-uncf`) as a documented bookmark for Mason's future junior year — not yet actionable, but worth tracking now that it's been verified real. Updated top-level `generatedAt` to 2026-10-11T10:11:04Z.
+- **No deadline changes** to existing entries — this round's searches either reconfirmed existing dates (TMCF suite, Niche $40K) or surfaced conflicting/less-reliable claims that didn't clear the bar to overwrite better-corroborated estimates (Bold.org Be Bold, NABA National).
+- Most actionable items, carried forward unresolved: **Milken Institute HBCU Fellows** (open now, no deadline found — apply immediately) and **Wellington HBCU Scholars** (ambiguous Sept–Oct window — email the program directly rather than waiting on search).
