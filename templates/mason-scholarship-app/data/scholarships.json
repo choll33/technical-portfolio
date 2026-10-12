@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:11:04Z",
+  "generatedAt": "2026-10-12T14:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -660,7 +660,7 @@
         "Paid summer internship component included"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 9, 2026). The most recently confirmed cycle (for the 2025 scholarship class) ran Aug 26 – Sept 27, 2024 at 11:59pm ET; no 2026-2027 window was found in search results, and wellington.com could not be directly verified this session (blocked from direct fetch). Given the Aug/Sept pattern, a 2026 cycle may have already opened and closed earlier this fall, or may not yet be posted — check wellington.com/en/hbcu-scholarship-program/ immediately, or email HBCUscholarship@wellington.com, rather than waiting for the next daily pass.",
+      "deadlineNote": "Updated Oct 12, 2026: a Scholaroo listing now independently dates the 2025 cycle (for the 2027 scholarship class) as running Aug 28 – Oct 8, 2025, closed — a cleaner, single-source version of the Aug/Sept window other sources had already suggested. Also newly confirmed: the program's minimum GPA is 3.25 (Mason's 3.7 clears this). Wellington's own page states 2025-cycle applications are closed and that 2026-cycle details were expected around September 2025, with offers typically made by mid-November — phrasing that reads like stale cached copy rather than a live 2026 posting. Given the recurring late-Aug-to-early/mid-Oct window, if a 2026 cycle (for the 2028 scholarship class) ran on the same pattern, it has most likely already closed as of today; recommend emailing HBCUscholarship@wellington.com directly to confirm whether a 2026 cycle ran and ask about the 2027 cycle's expected opening (~Aug 2027), rather than relying on further search passes — wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null since no confirmed current-cycle date was found.",
       "applyUrl": "https://www.wellington.com/en/hbcu-scholarship-program/",
       "category": "howard-hbcu"
     },
