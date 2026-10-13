@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:00:00Z",
+  "generatedAt": "2026-10-13T10:11:23Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -339,7 +339,7 @@
         "No essay, no GPA minimum specified"
       ],
       "deadline": null,
-      "deadlineNote": "Confirmed still active and rolling as of Sept 2026, with monthly winners. Apply anytime at scholarships360.org — low odds but no cost.",
+      "deadlineNote": "Updated Oct 13, 2026: corrected a stale status — Scholarships360's own pages confirm the final application date for the 2026 cycle was June 30, 2026 (already closed, winner announced by July 31, 2026), not still-rolling as the prior note assumed. It is also not a pure no-essay award in practice: finalists are interviewed about how they fund their education. No 2027-cycle dates were found yet — recheck scholarships360.org for the next cycle's schedule.",
       "applyUrl": "https://scholarships360.org/scholarships/no-essay-scholarships/",
       "category": "general"
     },
@@ -723,6 +723,39 @@
       "deadlineNote": "New for this update (found Oct 11, 2026). The 2025-2026 cycle opened Mar 10, 2026 and closed Apr 14, 2026 (already closed, and restricted to students who were current juniors in the 2025-2026 academic year). Mason will be a rising sophomore through the 2026-2027 academic year and won't reach junior standing until Fall 2027, so the earliest cycle he could plausibly apply to is the one opening around March 2028 (when he'd be a current junior) — left deadline null rather than estimate that far out. Revisit in fall 2027. Confirm current eligibility and dates at opportunities.uncf.org (uncf.org direct access blocked this session, consistent with every prior session).",
       "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
       "category": "black-finance"
+    },
+    {
+      "id": "hbcu-legacy-excellence-bold",
+      "organization": "HBCU Legacy and Excellence Scholarship (via Bold.org)",
+      "description": "A donor-funded Bold.org scholarship open to freshman, sophomore, or junior undergraduates enrolled at any Historically Black College or University, with no race, geography, or major restriction. A clean match for Mason's HBCU enrollment and class year.",
+      "requirements": [
+        "Undergraduate freshman, sophomore, or junior standing",
+        "Enrolled at a Historically Black College or University (Howard qualifies)",
+        "Minimum 3.0 GPA",
+        "Leadership experience on campus",
+        "Application via Bold.org"
+      ],
+      "deadline": "2026-11-20",
+      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $1,000 award for one winner with an application deadline of Nov 20, 2026. No race or geographic restriction was found in the listed criteria. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
+      "applyUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "1st-gen-college-scholarship-nj",
+      "organization": "1st Gen College Scholarship (via Bold.org)",
+      "description": "A donor-funded Bold.org scholarship for BIPOC, first-generation college students who are New Jersey residents pursuing a four-year degree, judged on ambition, drive, and the challenges overcome. Matches Mason's NJ residency and 3.7 GPA, but is contingent on first-generation college student status, which hasn't been confirmed.",
+      "requirements": [
+        "BIPOC identity",
+        "First-generation college student (neither parent completed a 4-year degree) — confirm this applies to Mason before investing time",
+        "New Jersey resident",
+        "Pursuing a four-year undergraduate degree",
+        "Minimum 3.5 GPA — Mason's 3.7 qualifies",
+        "Application via Bold.org describing challenges overcome and academic goals"
+      ],
+      "deadline": "2026-10-23",
+      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $13,500 award for one winner with an application deadline of Oct 23, 2026 and winners announced Nov 24, 2026 — a tight window, so flag to Mason immediately if he is in fact a first-generation college student. If not first-gen, this entry isn't a fit and can be dropped next update. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
+      "applyUrl": "https://bold.org/scholarships/1st-gen-college-scholarship/",
+      "category": "nj-resident"
     }
   ]
 }
