@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:11:23Z",
+  "generatedAt": "2026-10-14T10:12:53Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -184,6 +184,22 @@
       "category": "black-finance"
     },
     {
+      "id": "goldman-scholars-cfp",
+      "organization": "The Goldman Scholars (CFP Board Center for Financial Planning)",
+      "description": "A CFP Board program funded by a $500,000 gift from Charles and Judy Goldman, selecting one senior and four juniors each year from groups underrepresented in financial planning (by gender, race/ethnicity, disability, sexual orientation, or veteran status) and/or with demonstrated financial need, pursuing CFP certification through a CFP Board Registered Program. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year.",
+      "requirements": [
+        "College junior or senior in good academic standing — not yet open to sophomores",
+        "Enrolled in (or seeking) a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track",
+        "From a population underrepresented in financial planning (gender, race/ethnicity, disability, sexual orientation, veteran status) and/or demonstrated financial need",
+        "U.S. citizen or permanent resident; not a prior CFP Board Center for Financial Planning scholarship recipient",
+        "Up to $5,625/year, paid to the student's school"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 14, 2026). CFP Board's own page references a Sept. 18 online-registration close for the current cohort (one senior, four juniors selected for 2026) but doesn't explicitly tie that date to this scholarship by name; the 2024 inaugural cycle ran Aug 27-Oct 7, 2024. Like the already-tracked LeCount R. Davis and Aspiriant Impact scholarships, this is contingent on Howard having (or Mason later enrolling in) a CFP Board Registered Program -- still unconfirmed, though a new data point this round is suggestive: a 2022 Charles Schwab Foundation gift to Howard's School of Business was earmarked partly to build out a CFP curriculum within its wealth management program (per thedig.howard.edu), which hints Howard may be working toward or already hold CFP Board registration, but no source directly confirms registered-program status either way. Not yet eligible as a rising sophomore regardless -- revisit for junior year (~2027-2028) and resolve the CFP program question with Howard's finance department before then (same open question as the LeCount Davis and Aspiriant entries).",
+      "applyUrl": "https://www.cfp.net/candidate-tools-and-resources/apply-for-a-scholarship/the-goldman-scholars",
+      "category": "black-finance"
+    },
+    {
       "id": "aspiriant-impact-scholarship",
       "organization": "Aspiriant Impact Scholarship (CFP Board Center for Financial Planning)",
       "description": "A CFP Board scholarship for students from populations underrepresented in the financial planning profession (including by race/ethnicity) who are enrolled in a CFP Board Registered Program, offering up to $10,000 for undergraduate-level candidates. Runs in parallel to the already-tracked LeCount R. Davis Scholarship but isn't restricted to Black/African American applicants specifically.",
@@ -197,6 +213,22 @@
       "deadlineNote": "New for this update. The 2026 cycle's deadline was Sept 30, 2026 (closed just before this review); Sept 30, 2027 is an estimate for the next cycle based on that recurring annual date. Still contingent, like the LeCount R. Davis scholarship, on Mason enrolling in (or Howard offering) a CFP Board Registered Program — confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
       "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/aspiriant-impact-scholarship",
       "category": "black-finance"
+    },
+    {
+      "id": "schwab-ria-talent-advantage",
+      "organization": "Charles Schwab Advisor Services — RIA Talent Advantage (RIATA) Student Scholarship",
+      "description": "A national scholarship from Schwab Advisor Services and the Charles Schwab Foundation supporting students interested in a financial-advising/wealth-management career, open to freshmen, sophomores, and juniors at any accredited four-year institution with no CFP-program requirement. 2026 recipients received $15,000 each, and about half of awards go to students from underrepresented groups — a clean, nationally-open match for Mason's major and class year with none of the CFP Board Registered Program ambiguity attached to the other CFP-adjacent entries tracked here.",
+      "requirements": [
+        "Freshman, sophomore, or junior in good standing at an accredited four-year college or university (Mason qualifies as a rising sophomore)",
+        "Interest in pursuing a career as a financial advisor or in wealth management",
+        "No declared-major or CFP-Board-Registered-Program restriction found",
+        "About half of awards reserved for students from underrepresented groups",
+        "One-time, non-renewable award ($15,000 for the 2026 cohort of 15 recipients)"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 14, 2026). The 2026 cycle opened March 3, 2026 and closed May 4, 2026 (already closed); the 15 recipients were announced August 13, 2026. No 2027 dates are published yet — based on the recurring March-May window, expect the next cycle to open around March 2027. Recheck advisorservices.schwab.com/riata-student-scholarship starting early 2027.",
+      "applyUrl": "https://advisorservices.schwab.com/riata-student-scholarship",
+      "category": "finance-major"
     },
     {
       "id": "seo-career",
