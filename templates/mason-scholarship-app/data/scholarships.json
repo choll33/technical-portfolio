@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:12:53Z",
+  "generatedAt": "2026-10-16T10:11:17Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -532,8 +532,8 @@
         "High school or college student (or planning to attend college/grad school within the next year)",
         "No essay, one entry per person"
       ],
-      "deadline": "2026-10-15",
-      "deadlineNote": "New for this update. Current cycle deadline is Oct 15, 2026, winner announced Nov 15, 2026. This is an annually recurring Niche scholarship (prior-year editions exist under the same name), so if this cycle is missed, check niche.com/colleges/scholarships/ again around fall 2027 for the next edition.",
+      "deadline": "2027-10-15",
+      "deadlineNote": "Updated Oct 16, 2026: the Oct 15, 2026 cycle deadline confirmed in the prior update has now passed (winner announcement expected ~Nov 15, 2026); no 2027-cycle application page was found yet. Oct 15, 2027 is a best estimate based on this being an annually recurring Niche scholarship under the same name — recheck niche.com/colleges/scholarships/ starting fall 2027 for the actual next-cycle page and deadline.",
       "applyUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
       "category": "general"
     },
@@ -692,7 +692,7 @@
         "Paid summer internship component included"
       ],
       "deadline": null,
-      "deadlineNote": "Updated Oct 12, 2026: a Scholaroo listing now independently dates the 2025 cycle (for the 2027 scholarship class) as running Aug 28 – Oct 8, 2025, closed — a cleaner, single-source version of the Aug/Sept window other sources had already suggested. Also newly confirmed: the program's minimum GPA is 3.25 (Mason's 3.7 clears this). Wellington's own page states 2025-cycle applications are closed and that 2026-cycle details were expected around September 2025, with offers typically made by mid-November — phrasing that reads like stale cached copy rather than a live 2026 posting. Given the recurring late-Aug-to-early/mid-Oct window, if a 2026 cycle (for the 2028 scholarship class) ran on the same pattern, it has most likely already closed as of today; recommend emailing HBCUscholarship@wellington.com directly to confirm whether a 2026 cycle ran and ask about the 2027 cycle's expected opening (~Aug 2027), rather than relying on further search passes — wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null since no confirmed current-cycle date was found.",
+      "deadlineNote": "Updated Oct 16, 2026: Wellington's own page (per search summary) still shows the 2025 window closed with 2026-opportunity details not yet posted, consistent with the stale-copy read from the Oct 12 review. A third-party guide (Extern, updated July 2026) separately projects the next HBCU-adjacent Wellington cycle opening ~September 2026 and closing late October 2026 — an unconfirmed projection, not an official date, and it contradicts itself on exact days across its own tables, plus it describes Wellington's general internship program rather than the HBCU Scholars Program specifically. If accurate, this window may already be closing within days of this review. No official current-cycle deadline found yet. Recommend emailing HBCUscholarship@wellington.com directly to confirm the live 2026-2027 window rather than relying on further search passes — wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null.",
       "applyUrl": "https://www.wellington.com/en/hbcu-scholarship-program/",
       "category": "howard-hbcu"
     },
@@ -770,6 +770,23 @@
       "deadline": "2026-11-20",
       "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $1,000 award for one winner with an application deadline of Nov 20, 2026. No race or geographic restriction was found in the listed criteria. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
       "applyUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "tmcf-enterprise-access-hbcu",
+      "organization": "TMCF | Enterprise Access HBCU Scholarship (Thurgood Marshall College Fund)",
+      "description": "A need-based TMCF award funded by Enterprise, open to full-time undergraduates at any TMCF member HBCU (Howard qualifies) in any major, with 81 scholarships of up to $15,000 each in the current cycle. Currently open: the 2027-2028 cycle application window runs Aug 3, 2026 through Jan 8, 2027, confirmed directly on TMCF's own page via search summary.",
+      "requirements": [
+        "Full-time undergraduate at a TMCF member HBCU (Howard qualifies)",
+        "Minimum 2.75 cumulative GPA",
+        "Demonstrated financial need; FAFSA on file by selection",
+        "U.S. citizen or legal permanent resident",
+        "Open to all majors (Finance qualifies)",
+        "Two-minute video application (no written essay) on how the applicant plans to use their education to change the world"
+      ],
+      "deadline": "2027-01-08",
+      "deadlineNote": "New for this update (found Oct 16, 2026). Confirmed via search summary of TMCF's own page: the 2026-2027 cycle (applications Sept 15, 2025 – Jan 16, 2026) already closed, but the next cycle, labeled 2027-2028, is open now (Aug 3, 2026 – Jan 8, 2027, 11:59pm EST). This is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal' — listed as its own entry here because it has a long, currently-open window and a confirmed deadline, unlike most other individual TMCF sponsor awards reviewed so far. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "applyUrl": "https://tmcf.org/open-scholarships/",
       "category": "howard-hbcu"
     },
     {
