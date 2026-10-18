@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:11:17Z",
+  "generatedAt": "2026-10-18T10:05:38Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -805,6 +805,22 @@
       "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $13,500 award for one winner with an application deadline of Oct 23, 2026 and winners announced Nov 24, 2026 — a tight window, so flag to Mason immediately if he is in fact a first-generation college student. If not first-gen, this entry isn't a fit and can be dropped next update. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
       "applyUrl": "https://bold.org/scholarships/1st-gen-college-scholarship/",
       "category": "nj-resident"
+    },
+    {
+      "id": "mlt-career-prep",
+      "organization": "Management Leadership for Tomorrow (MLT) — Career Prep Program, Financial Services Track",
+      "description": "A free, multi-year career-accelerator program pairing a virtual bootcamp with coaching, employer access, and recruiting support for college sophomores targeting finance careers. MLT recruits sophomores graduating Fall 2028–Summer 2029 for this cycle, which matches Mason's class year exactly, and the program historically serves Black, Latinx, and Native American students though MLT states it is open to all who meet its criteria.",
+      "requirements": [
+        "Current college sophomore graduating Fall 2028, Spring 2029, or Summer 2029 (matches Mason's class year)",
+        "Interest in a finance/financial-services career; open to all majors",
+        "No fixed minimum GPA published, though a 3.0+ GPA is typical among competitive applicants",
+        "U.S. citizen or permanent resident",
+        "Apply online for the Financial Services track at mlt.org — do not mail or email materials"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 18, 2026). The Financial Services track's priority deadline for the 2026-2027 recruiting season was Aug 1, 2026, which has already passed as of this review, but MLT's prior cycle (2025-2026) ran additional rounds after its priority deadline (Oct 1, Nov 1, Dec 1) plus a Jan 15 final deadline, so a later round is likely still open now — left deadline null rather than guess a specific date. Apply directly and promptly at mlt.org/career-prep/apply-to-career-prep to confirm the current round and deadline; contact cp-recruiting@mlt.org with questions.",
+      "applyUrl": "https://mlt.org/career-prep/apply-to-career-prep",
+      "category": "black-finance"
     }
   ]
 }
