@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:05:38Z",
+  "generatedAt": "2026-10-19T10:05:25Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -821,6 +821,38 @@
       "deadlineNote": "New for this update (found Oct 18, 2026). The Financial Services track's priority deadline for the 2026-2027 recruiting season was Aug 1, 2026, which has already passed as of this review, but MLT's prior cycle (2025-2026) ran additional rounds after its priority deadline (Oct 1, Nov 1, Dec 1) plus a Jan 15 final deadline, so a later round is likely still open now — left deadline null rather than guess a specific date. Apply directly and promptly at mlt.org/career-prep/apply-to-career-prep to confirm the current round and deadline; contact cp-recruiting@mlt.org with questions.",
       "applyUrl": "https://mlt.org/career-prep/apply-to-career-prep",
       "category": "black-finance"
+    },
+    {
+      "id": "crum-forster-uncf-hbcu-business",
+      "organization": "Crum & Forster Scholarship (via UNCF)",
+      "description": "A UNCF-administered, merit-based scholarship of up to $5,000 for business-related majors at any four-year accredited HBCU. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF and NBMBAA entries.",
+      "requirements": [
+        "Full-time undergraduate junior or senior (not yet open to sophomores)",
+        "Enrolled at a four-year accredited HBCU (Howard qualifies)",
+        "Business-related major (finance qualifies)",
+        "Minimum 3.0 cumulative GPA",
+        "Apply through the UNCF online scholarship portal"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle's deadline was Feb 16, 2026 (already closed), per UNCF's own 'Scholarships for February' listing. A separate 2023 Crum & Forster/New Jersey City University internship-linked award is a distinct, non-HBCU-restricted program and not the same scholarship. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF bookmark. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "uncf-element-fleet",
+      "organization": "UNCF Element Fleet Scholarship",
+      "description": "A need- and merit-based UNCF award of up to $2,500 for juniors and seniors in a business-related major (marketing, finance, sales, or HR are all explicitly named), with preference given to students at four-year HBCUs. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year.",
+      "requirements": [
+        "Full-time undergraduate junior or senior at an accredited four-year U.S. institution (not yet open to sophomores)",
+        "Business-related major, including finance (explicitly named)",
+        "Minimum 3.5 cumulative GPA",
+        "U.S. citizen or permanent resident with FAFSA on file; demonstrated unmet financial need",
+        "Preference given to students at four-year HBCUs and to residents of, or students at schools in, Maryland, Minnesota, or Washington, D.C."
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle opened Feb 2, 2026 and closed Mar 3, 2026 (already closed), per a College Board BigFuture listing; other past cycles have closed as early as mid-December, so the annual window appears to vary year to year. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF and Crum & Forster bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "finance-major"
     }
   ]
 }
