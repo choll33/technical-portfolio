@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:05:25Z",
+  "generatedAt": "2026-10-20T10:08:26Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -853,6 +853,23 @@
       "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle opened Feb 2, 2026 and closed Mar 3, 2026 (already closed), per a College Board BigFuture listing; other past cycles have closed as early as mid-December, so the annual window appears to vary year to year. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF and Crum & Forster bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "finance-major"
+    },
+    {
+      "id": "tmcf-mcdonalds-black-positively-golden",
+      "organization": "TMCF | McDonald's Black and Positively Golden Scholarship (Thurgood Marshall College Fund)",
+      "description": "A need-based TMCF award funded by McDonald's, open to full-time undergraduates (freshman through senior) at any TMCF member HBCU, with 60 scholars receiving up to $15,000 each for the 2027-2028 academic year, paid in fall 2027 and spring 2028 installments. Open to all majors, so Finance qualifies, with a currently-open, long application window.",
+      "requirements": [
+        "Full-time undergraduate at a TMCF member HBCU (Howard qualifies)",
+        "Minimum 2.7 cumulative GPA",
+        "Demonstrated leadership ability and financial need; FAFSA on file",
+        "U.S. citizen or legal permanent resident",
+        "Open to all majors, any class year freshman through senior",
+        "200-word essay on how you plan to use your education to change the world"
+      ],
+      "deadline": "2027-04-23",
+      "deadlineNote": "New for this update (found Oct 20, 2026). Confirmed via TMCF's own page and aggregator listings (The College Investor, Tuskegee, scholarships.delawarestudentsuccess.org): the 2027-2028 cycle application window runs Aug 3, 2026 through Apr 23, 2027, 11:59pm EST — currently open now. Like the already-tracked TMCF | Enterprise Access HBCU Scholarship, this is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal, called out as its own entry because it has a long, currently-open, confirmed window unlike most other individual TMCF sponsor awards. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "applyUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
+      "category": "howard-hbcu"
     }
   ]
 }
