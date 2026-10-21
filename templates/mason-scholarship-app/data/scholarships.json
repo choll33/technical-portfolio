@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:08:26Z",
+  "generatedAt": "2026-10-21T10:07:23Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -869,6 +869,23 @@
       "deadline": "2027-04-23",
       "deadlineNote": "New for this update (found Oct 20, 2026). Confirmed via TMCF's own page and aggregator listings (The College Investor, Tuskegee, scholarships.delawarestudentsuccess.org): the 2027-2028 cycle application window runs Aug 3, 2026 through Apr 23, 2027, 11:59pm EST — currently open now. Like the already-tracked TMCF | Enterprise Access HBCU Scholarship, this is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal, called out as its own entry because it has a long, currently-open, confirmed window unlike most other individual TMCF sponsor awards. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
       "applyUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "tmcf-molsoncoors",
+      "organization": "TMCF | Molson Coors Scholarship (Thurgood Marshall College Fund)",
+      "description": "A need-based TMCF award funded by Molson Coors, open to full-time undergraduates (freshman through senior) at any TMCF member HBCU in any major, with 6 scholars receiving up to $8,200 each. Open to all majors, so Finance qualifies, with a video application in place of a written essay.",
+      "requirements": [
+        "Full-time undergraduate at a TMCF member HBCU (Howard qualifies)",
+        "Minimum 3.0 cumulative GPA",
+        "Demonstrated financial need; FAFSA on file",
+        "U.S. citizen or permanent resident",
+        "Open to all majors, any class year freshman through senior",
+        "Two-minute video application (no written essay) on what unique perspective, passion, or curiosity drives your academic interests"
+      ],
+      "deadline": "2027-01-08",
+      "deadlineNote": "New for this update (found Oct 21, 2026). Prior cycle's official eligibility (via NCCU's academicworks listing, open to all majors, 3.0+ GPA, need-based, video prompt) corroborated by a third-party aggregator (The College Investor) citing a 2027-2028 cycle deadline of Jan 8, 2027, 11:59pm EST -- the same confirmed closing date as the already-tracked TMCF | Enterprise Access HBCU Scholarship, which strengthens confidence in this date even though tmcf.org itself remains blocked from direct fetch this session. Called out as its own entry (rather than folded into 'tmcf-open-portal') because, like Enterprise Access HBCU and McDonald's, it has a clean, all-majors, currently-open window with a corroborated date.",
+      "applyUrl": "https://tmcf.org/open-scholarships/",
       "category": "howard-hbcu"
     }
   ]
