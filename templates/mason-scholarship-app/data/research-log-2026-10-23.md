@@ -1,0 +1,58 @@
+# Scholarship Research for Mason — Update, October 23, 2026
+
+Follow-up to the October 22, 2026 research log. Mason remains a rising sophomore Finance major at Howard University (School of Business), GPA 3.7, NJ resident/hometown. Tracker holds 57 entries entering this round.
+
+This round focused on: (1) re-checking the standing unresolved deadline questions (Wellington HBCU Scholars, Milken HBCU Fellows, NABA National's conflicting dates), (2) resolving the JPMorganChase Fellowship Program naming-discrepancy flag raised in the Oct 22 log, and (3) a fresh sweep of major banks/asset managers not yet checked by name for HBCU- or finance-specific scholarships: Capital One, Truist, Visa, Mastercard, BlackRock, Northwestern Mutual, State Street, Edward Jones, US Bank, PNC, plus a general sweep for new NJ-resident and no-essay/rolling scholarships open to sophomores.
+
+## No new entries added, no deadlines changed
+
+Nothing found this round rose to the bar of "new, currently-open, and eligible" or "confirmed deadline correction." Tracker stays at 57 entries; `scholarships.json` is unchanged today (no commit made to it).
+
+## Re-checked standing open questions — no change
+
+- **Wellington Management HBCU Scholars Program** (`wellington-hbcu-scholars`): Re-searched. Official pages (wellington.com) still show stale 2025-cycle copy ("check back August 2025 for 2026 opportunities"). The same third-party Extern projection cited in the Oct 21-22 logs (window opening ~Sept 2026, closing late Oct 2026, based on the 2025 cycle running Sept 10–Oct 21, 2025) is the only 2026-2027 estimate available — unconfirmed, and it describes Wellington's general internship program rather than the HBCU track specifically. No official deadline found. Left deadline null, unchanged. Standing recommendation to email HBCUscholarship@wellington.com directly still stands.
+- **Milken Institute HBCU Fellows Program** (`milken-hbcu-fellows`): Re-searched; still "Deadline: Unspecified" per Opportunity Desk/Grants Database listings, consistent with every prior session. The 2024 cohort's deadline was Oct 13 — if that pattern holds, a 2026-2027 deadline may already have passed as of today, Oct 23. No official current-cycle deadline confirmed either way. No change — standing recommendation to apply immediately via milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship rather than wait.
+- **NABA National Scholarship Program** (`naba-national`): Re-searched; the same cluster of conflicting third-party dates persists (TUN: Feb 26, 2026; Unigo listings: Aug 31, Sept 30, June 30, 2026 — all already passed as of today), still none sourced from nabainc.org itself, which remains unreachable from this session every time it's tried. Existing Feb 26, 2027 estimate left in place as the most-repeated figure; confidence remains low. No change to tracker.
+
+## Resolved: JPMorganChase Fellowship Program naming question (from Oct 22 log)
+
+The Oct 22 log flagged uncertainty over whether the JPMC Fellowship (also marketed as the "Advancing Black Pathways Fellowship Program") is actually race-restricted despite the tracked entry (`jpmc-fellowship`) describing it as "open to students of all backgrounds." This round found several 2025-cycle job postings (Markets, Asset Management, U.S. Private Bank, Chase Leadership Development, Global Private Bank tracks) whose eligibility language states the program "welcomes all sophomore students interested in the Fellowship Program, regardless of background... including, without limitation, Black students" to apply. **This confirms the already-tracked entry's description is accurate — no JSON change needed.** The "Advancing Black Pathways" branding reflects the program's origin/sponsorship, not a formal race restriction on eligibility. Flag resolved; no further action needed on this question.
+
+## New leads investigated and ruled out (1 this round)
+
+- **College Board BigFuture Scholarships**: A monthly-drawing scholarship program ($500–$40,000) surfaced in a general "no-essay, rolling deadline" sweep for sophomores/juniors. Investigated eligibility directly: it is restricted to **current high school students** (the "Class of 2028" cohort, i.e., current 10th graders) building a college list through bigfuture.org — not open to students already enrolled in college. Mason, a current college sophomore, does not qualify. **Ruled out — high-school-only eligibility, not a fit for a continuing undergraduate.**
+
+## Other searches this round — nothing new to add
+
+Also searched and found nothing eligible or actionable:
+- **Capital One**: The only HBCU-specific award found (Capital One Scholarship, "HBCU Week X") is restricted to **incoming freshmen** and its last confirmed cycle closed Feb 2024 with no newer cycle found. A separate "Build to Best" HBCU Early Talent Program (with TMCF) is a career-readiness program for rising sophomores, not a scholarship. Not added.
+- **Truist**: No current (2026) finance-specific scholarship found. The Truist/TMCF partnership (up to $10,000/year, 45 scholars) and the Henry Louis Aaron Fund are older (2021-2023) announcements with no evidence of an active current cycle; a separate $2.5M grant to Georgia State is institutional support, not a student award. Not added.
+- **Visa / Mastercard**: Visa's Black Scholars and Jobs Program (via TMCF, up to $20,000/year) targets **high school seniors** choosing a college, not current HBCU undergraduates, and no 2026 cycle was confirmed. Mastercard has no dedicated scholarship — only broader HBCU financial-literacy and entrepreneurship-center programming. Not added. (The TMCF | Sprott Inc. HBCU Scholarship that also surfaced here is already covered and ruled out as closed in the Oct 22 log.)
+- **BlackRock**: The BlackRock Founders Scholarship is restricted to **college seniors** (summer-internship-linked, $20,000, deadline July 31, 2026) — not a fit for a sophomore. The 2021 BlackRock/TMCF partnership announcement doesn't describe an individual scholarship Mason could apply to directly. Not added.
+- **Northwestern Mutual**: The HBCU Connection Scholarship ($7,500/year, freshman + sophomore years) is restricted to students from the **Milwaukee area** — Mason has no connection there. Not added.
+- **State Street / Edward Jones / US Bank**: No HBCU- or finance-specific national scholarship found for any of the three. US Bank results were limited to a small, expired, Minnesota-college-specific award. Not added.
+- **PNC Foundation**: PNC's HBCU work (including a 2026 Howard University PNC Entrepreneurship Empowerment Summit pitch competition) is grant/program funding and competition-based, not an individually-applicable student scholarship open to Mason. Not added.
+- **NJCPA College Scholarship**: Re-confirmed yet again as accounting-majors-only (not finance) — consistent with the long-standing ruled-out status; no change.
+- **TMCF | FedEx HBCU Scholarship (next cycle)**: No 2027-2028 application page found yet; a third-party aggregator's "expected March 2027" open date is explicitly an unconfirmed estimate. Already noted in the `tmcf-open-portal` entry's deadlineNote as closed with no new wave found — no change needed.
+- **"Howard University Trustee Scholarship"**: No such specifically-named, sophomore-eligible School of Business program was found. Searches surfaced only the already-tracked general donor-scholarship portal (`howard-business-endowed`) and Maverick Scholarship (`maverick-scholarship-howard`), plus unrelated freshman- and senior-specific funds at other schools. Not added as a separate entry.
+- **PIMCO Future Leaders Scholarship** (`pimco-future-leaders`, already tracked): Re-confirmed no 2027 cycle dates published yet; the 2026 cycle (opened Dec 1, 2025, closed Feb 9, 2026) remains the most recent reference point, consistent with the existing deadlineNote. No change.
+
+## Previously-excluded list — unchanged, with one addition
+
+No changes to the long-standing ruled-out list (UNCF General Scholarship, NJCPA Scholarship Foundation, PSEG STEM Scholarship, NJ Utilities Association, Toigo Foundation, Jackie Robinson Foundation, Jack and Jill Foundation, Prudential Emerging Visionaries, Coca-Cola/Elks/Ron Brown, NSBE, AABE NJ Chapter, PSEG Foundation via UNCF, Edward Dorsey Jr. Memorial, Credit Suisse Douglas L. Paul, AltFinance Fellowship, Faithful Leaders — Notre Dame-only, NJBankers Callas Scholarship, Wendell E. Mackey/Channing Capital Management Scholarship, TMCF NRG HBCU Excellence in Education, Hormel Inspired Scholars Program, TMCF Deloitte Foundation Accounting Scholarship, Wanda McLaurin HBCU Scholarship, Fund the Future, the unverifiable "Delta Sigma Theta" Unigo listing, ESOF Academic Scholarship, OceanFirst Foundation NJ, Cornerstone Bank NJ, J.P. Morgan/UNCF Wealth Management Scholarship, Wintrust/Middlebury diversity scholarships, Hugh R. Boyd Legacy Scholarship, Point Foundation BIPOC Scholarship, ScottMadden Inspire Scholarship, Project Prosperity Scholarship, the Citi scholarship, the Maurice Geyen Business Scholarship Fund, HBCUConnect Student/Minority Scholarship, American College of Financial Services HBCU scholarship, New Jersey Educational Opportunity Fund, Fidelity Scholars Program/Invest in My Education, TMCF Sprott Inc. HBCU Scholarship, TMCF Acushnet Company Scholarship, TMCF Keith R. Johnson Memorial Scholarship, TMCF Eastern Area Links Finish Line Scholarship, TMCF Bridging the Dream Scholarship). **New this round: College Board BigFuture Scholarships — ruled out, high-school-only eligibility; see above.** `byron-michelle-johnson-scholarship` and `naba-northern-nj-chapter` remain standing *active* tracked entries (not ruled out).
+
+## Summary
+
+- **No scholarships added, no scholarships removed, no deadlines corrected.** `scholarships.json` is unchanged from the Oct 22, 2026 version — no commit made to it today.
+- **One new lead ruled out this round**: College Board BigFuture Scholarships (high-school-only eligibility).
+- **One standing open question resolved**: JPMorganChase Fellowship Program ("Advancing Black Pathways") confirmed open to all backgrounds per multiple 2025-cycle postings — the tracked entry's description was already accurate; no JSON change needed.
+- **Most actionable items right now** (unchanged from prior logs):
+  1. **TMCF | Lowe's Gap / Wells Fargo Gap Scholarships** — both close Dec 1, 2026 via the TMCF Open Scholarships Portal.
+  2. **TMCF | Enterprise Access HBCU Scholarship** and **TMCF | Molson Coors Scholarship** — both open now through Jan 8, 2027.
+  3. **TMCF | McDonald's Black and Positively Golden Scholarship** — open now through Apr 23, 2027, long window, no rush.
+  4. **Wellington HBCU Scholars Program** — may be open and closing imminently per the standing unconfirmed projection; email HBCUscholarship@wellington.com now if not already done.
+  5. **Milken HBCU Fellows Program** — open now with no stated deadline (and may close very soon based on historical pattern); apply immediately.
+  6. **Momentum Advisors Future Leaders in Finance Scholarship** — closes Dec 15, 2026.
+  7. **HBCU Legacy and Excellence Scholarship (Bold.org)** — closes Nov 20, 2026.
+  8. **Bold.org "Be Bold" No-Essay Scholarship** — monthly deadline Oct 31, 2026, re-enterable every month.
+- Standing recommendations from prior logs remain unactioned and still the highest-leverage next steps: (1) a direct email to Howard's financial aid office or School of Business Student Affairs on the CFP Board Registered Program question and on the HPS Partners Endowed Scholars/Lilly Bison Scholarship application processes, and (2) the Wellington outreach noted above.
