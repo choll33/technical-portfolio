@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:07:23Z",
+  "generatedAt": "2026-10-24T10:06:33Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -801,8 +801,8 @@
         "Minimum 3.5 GPA — Mason's 3.7 qualifies",
         "Application via Bold.org describing challenges overcome and academic goals"
       ],
-      "deadline": "2026-10-23",
-      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $13,500 award for one winner with an application deadline of Oct 23, 2026 and winners announced Nov 24, 2026 — a tight window, so flag to Mason immediately if he is in fact a first-generation college student. If not first-gen, this entry isn't a fit and can be dropped next update. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
+      "deadline": null,
+      "deadlineNote": "Updated Oct 24, 2026: the tracked Oct 23, 2026 deadline (winners announced Nov 24, 2026) has now passed. Only two historical cycle dates have been found across sessions — July 22, 2025 and Oct 23, 2026 — three months apart, not evidence of a clean annual pattern, so left as null rather than guess a next date. Recheck bold.org/scholarships/1st-gen-college-scholarship/ periodically for a reopened cycle. Still contingent on Mason being a first-generation college student (neither parent completed a 4-year degree) — confirm this before investing time either way. bold.org is blocked from direct fetch this session.",
       "applyUrl": "https://bold.org/scholarships/1st-gen-college-scholarship/",
       "category": "nj-resident"
     },
@@ -886,6 +886,22 @@
       "deadline": "2027-01-08",
       "deadlineNote": "New for this update (found Oct 21, 2026). Prior cycle's official eligibility (via NCCU's academicworks listing, open to all majors, 3.0+ GPA, need-based, video prompt) corroborated by a third-party aggregator (The College Investor) citing a 2027-2028 cycle deadline of Jan 8, 2027, 11:59pm EST -- the same confirmed closing date as the already-tracked TMCF | Enterprise Access HBCU Scholarship, which strengthens confidence in this date even though tmcf.org itself remains blocked from direct fetch this session. Called out as its own entry (rather than folded into 'tmcf-open-portal') because, like Enterprise Access HBCU and McDonald's, it has a clean, all-majors, currently-open window with a corroborated date.",
       "applyUrl": "https://tmcf.org/open-scholarships/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "uncf-metlife-legacy-endowed",
+      "organization": "MetLife Foundation Legacy Endowed Scholarship (via UNCF)",
+      "description": "A UNCF-administered, need-based scholarship funded by a $1 million MetLife Foundation grant, open to college juniors at four-year HBCUs pursuing STEM, business, finance, or accounting degrees. Finance is explicitly a named eligible major and Howard qualifies as an HBCU, but the program is restricted to juniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet entries.",
+      "requirements": [
+        "Full-time undergraduate junior (not yet open to sophomores) at a four-year HBCU (Howard qualifies)",
+        "STEM, business, finance, or accounting major (finance qualifies)",
+        "Minimum GPA cited as 2.75-3.0 depending on source — Mason's 3.7 clears either",
+        "U.S. citizen or permanent resident; demonstrated unmet financial need per FAFSA",
+        "Essay required; apply through the UNCF online scholarship portal"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 24, 2026). The 2025-2026 cycle ran roughly Oct 16-Nov 5, 2025 (sources disagree slightly, Nov 2 vs Nov 5 close); awards are approximately $7,300 each, renewable for senior year, for three cohorts of 20 students. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "applyUrl": "https://scholarships.uncf.org",
       "category": "howard-hbcu"
     }
   ]
