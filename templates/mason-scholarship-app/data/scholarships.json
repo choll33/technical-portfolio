@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:06:33Z",
+  "generatedAt": "2026-10-25T10:05:25Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -256,8 +256,8 @@
         "INROADS-formatted resume, unofficial transcript",
         "Completion of INROADS Interview Guidance and Preparation Session (IGPS)"
       ],
-      "deadline": "2026-11-01",
-      "deadlineNote": "Rolling admissions overall, but priority consideration goes to complete applications submitted by Nov 1 (fall-cycle applicants) or Mar 1 (spring-cycle applicants); applications after those dates are still accepted on a rolling basis. Apply directly at inroads.org for current regional/corporate-partner openings.",
+      "deadline": "2027-03-31",
+      "deadlineNote": "Corrected Oct 25, 2026: the prior Nov 1/Mar 1 fall-and-spring-cycle claim does not match INROADS' own current internship FAQ, which multiple sources (students.inroads.org, inroads.org/internships-program/faqs/) quote directly: \"INROADS accepts applications year round. However, for priority consideration, students should complete the application and all required steps by March 31st to compete for the upcoming summer.\" Updated to reflect March 31 (next occurrence: March 31, 2027, for Summer 2027 placement) as the correct priority date, with rolling admissions continuing afterward. inroads.org remains blocked from direct fetch this session (DNS failure) — corroborated instead via WebSearch AI-summarized quotes from the official FAQ page.",
       "applyUrl": "https://inroads.org/apply/",
       "category": "black-finance"
     },
@@ -902,6 +902,37 @@
       "deadline": null,
       "deadlineNote": "New for this update (found Oct 24, 2026). The 2025-2026 cycle ran roughly Oct 16-Nov 5, 2025 (sources disagree slightly, Nov 2 vs Nov 5 close); awards are approximately $7,300 each, renewable for senior year, for three cohorts of 20 students. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
       "applyUrl": "https://scholarships.uncf.org",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "stout-diverse-emerging-leaders",
+      "organization": "Stout Diverse Emerging Leaders Scholarship",
+      "description": "A $2,500 scholarship from Stout (a global investment banking and advisory firm) specifically for sophomore students from an underrepresented population pursuing a bachelor's degree in Finance, Economics, Accounting, or a business-related field — Mason's major, class year, and 3.7 GPA are a precise match for its stated criteria.",
+      "requirements": [
+        "Current college sophomore (class-year-specific, unlike most other sophomore-eligible entries which also allow juniors/seniors)",
+        "From an underrepresented population",
+        "Pursuing a bachelor's degree in Finance, Economics, Accounting, or a business-related field (Finance qualifies directly)",
+        "Minimum 3.2 cumulative GPA — Mason's 3.7 clears this",
+        "Five $2,500 awards given in recent cycles (2024 and 2025)"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 25, 2026). Confirmed via Stout's own news releases (stout.com/en/news/) naming sophomore eligibility, major, and GPA criteria for the 2023-2025 cycles, and via stout.com/en/careers/student listing it among Stout's sophomore scholarships at the same $2,500 figure. Exact cycle timing has varied: the 2024 cycle's application window closed September 29, 2024, with winners announced in January for the 2025 cycle; no 2026 application-open announcement was found yet in this search round, so left deadline null rather than guess a date not yet confirmed for this year. Recheck stout.com/en/careers/student and stout.com/en/news/ in late summer 2027 (or sooner) for the next open cycle.",
+      "applyUrl": "https://stout.com/en/careers/student",
+      "category": "finance-major"
+    },
+    {
+      "id": "gm-financial-sophomore-leadership",
+      "organization": "GM Financial Sophomore Leadership Internship Program",
+      "description": "Not a cash scholarship, but a paid, eight-week immersive internship in the automotive finance industry aimed at rising college sophomores or juniors, run as part of GM Financial's participation in the Congressional Bipartisan HBCU Caucus's HBCU Partnership Challenge. A close match for Mason's HBCU enrollment, finance interest, and exact class year.",
+      "requirements": [
+        "Rising sophomore or junior (\"still figuring out your future career path\")",
+        "HBCU Partnership Challenge focus — program originated with Prairie View A&M and UT Arlington, later cohorts included Texas Southern University students",
+        "Paid, eight-week immersive job-shadowing experience in automotive finance",
+        "Apply via GM Financial's careers site/university recruiting channels"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 25, 2026). Confirmed as a real, recurring program via GM Financial's own newsroom pages (gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html and its interview-series follow-up) describing the 2021 pilot launch and at least a third cohort by 2023. No 2026 or 2027 application window, deadline, or current HBCU-partner list was found in this round's searches — the program's continued operation into 2026-2027 is unconfirmed, not disproven. Check GM Financial's careers portal or contact its university recruiting team directly to confirm whether a current cycle is open; Howard isn't confirmed as one of the partner HBCUs, so also worth asking whether the program has expanded beyond its original partner schools.",
+      "applyUrl": "https://gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html",
       "category": "howard-hbcu"
     }
   ]
