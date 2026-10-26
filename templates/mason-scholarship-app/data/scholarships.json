@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:05:25Z",
+  "generatedAt": "2026-10-26T10:06:43Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -817,8 +817,8 @@
         "U.S. citizen or permanent resident",
         "Apply online for the Financial Services track at mlt.org — do not mail or email materials"
       ],
-      "deadline": null,
-      "deadlineNote": "New for this update (found Oct 18, 2026). The Financial Services track's priority deadline for the 2026-2027 recruiting season was Aug 1, 2026, which has already passed as of this review, but MLT's prior cycle (2025-2026) ran additional rounds after its priority deadline (Oct 1, Nov 1, Dec 1) plus a Jan 15 final deadline, so a later round is likely still open now — left deadline null rather than guess a specific date. Apply directly and promptly at mlt.org/career-prep/apply-to-career-prep to confirm the current round and deadline; contact cp-recruiting@mlt.org with questions.",
+      "deadline": "2027-01-15",
+      "deadlineNote": "Updated Oct 26, 2026: a Tufts University Career Services posting (June 2026) for the 2026-2027 recruiting season confirms applications are open now with a final deadline of January 15, 2027 across all tracks (including Financial Services), after the Financial Services-specific priority deadline of Aug 1, 2026 (guaranteeing a bootcamp spot) already passed. Jan 15, 2027 is therefore a real, sourced final-round deadline rather than an estimate, though apply as soon as possible since priority consideration has already closed. Apply directly at mlt.org/career-prep/apply-to-career-prep; contact cp-recruiting@mlt.org with questions.",
       "applyUrl": "https://mlt.org/career-prep/apply-to-career-prep",
       "category": "black-finance"
     },
@@ -934,6 +934,22 @@
       "deadlineNote": "New for this update (found Oct 25, 2026). Confirmed as a real, recurring program via GM Financial's own newsroom pages (gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html and its interview-series follow-up) describing the 2021 pilot launch and at least a third cohort by 2023. No 2026 or 2027 application window, deadline, or current HBCU-partner list was found in this round's searches — the program's continued operation into 2026-2027 is unconfirmed, not disproven. Check GM Financial's careers portal or contact its university recruiting team directly to confirm whether a current cycle is open; Howard isn't confirmed as one of the partner HBCUs, so also worth asking whether the program has expanded beyond its original partner schools.",
       "applyUrl": "https://gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html",
       "category": "howard-hbcu"
+    },
+    {
+      "id": "citi-early-id-program",
+      "organization": "Citi Early ID Program",
+      "description": "Not a cash scholarship, but a three-week virtual pre-internship experience for undergraduate sophomores at Citi, covering mentorship, training webinars, networking, and interview preparation for a Banking or Markets track. Open to all majors and explicitly stated as open to all students, with a preferred 3.3+ GPA that Mason's 3.7 clears; prior cycles have also run a separate HBCU Leadership affinity track, which may be a further fit given Mason's Howard enrollment.",
+      "requirements": [
+        "Current sophomore enrolled in a four-year baccalaureate degree program at an accredited U.S. institution",
+        "Open to all majors and all students; 3.3+ GPA preferred (Mason's 3.7 clears this)",
+        "Choose one of two tracks per cycle: Banking or Markets (up to two applications total, one per track)",
+        "Apply via jobs.citi.com during the Fall or Spring application window",
+        "Strong performers may be fast-tracked toward Citi's Summer Analyst recruiting process"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 26, 2026). The Fall 2026 cycle's postings on jobs.citi.com closed October 23, 2026 (just before this review), but Citi runs this as a recurring Fall-and-Spring program — a separate guide cites a Spring cycle opening around February. Left deadline null rather than guess the exact Spring 2027 open/close dates; watch jobs.citi.com/early-career-programs-pre-internships starting ~January/February 2027 for the next posting, and ask whether an HBCU Leadership track (seen in 2025 postings alongside Banking/Markets) is offered that cycle.",
+      "applyUrl": "https://jobs.citi.com/early-career-programs-pre-internships",
+      "category": "finance-major"
     }
   ]
 }
