@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:06:43Z",
+  "generatedAt": "2026-10-28T10:07:43Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -949,6 +949,37 @@
       "deadline": null,
       "deadlineNote": "New for this update (found Oct 26, 2026). The Fall 2026 cycle's postings on jobs.citi.com closed October 23, 2026 (just before this review), but Citi runs this as a recurring Fall-and-Spring program — a separate guide cites a Spring cycle opening around February. Left deadline null rather than guess the exact Spring 2027 open/close dates; watch jobs.citi.com/early-career-programs-pre-internships starting ~January/February 2027 for the next posting, and ask whether an HBCU Leadership track (seen in 2025 postings alongside Banking/Markets) is offered that cycle.",
       "applyUrl": "https://jobs.citi.com/early-career-programs-pre-internships",
+      "category": "finance-major"
+    },
+    {
+      "id": "tmcf-deloitte-foundation-accounting",
+      "organization": "TMCF | Deloitte Foundation Accounting Scholarship Program (Thurgood Marshall College Fund) — Cohort 5",
+      "description": "A renewable (2026-2029) TMCF award funded by the Deloitte Foundation for full-time HBCU students in a business, finance, accounting, or economics major, with 71 scholars receiving $8,000 each for the 2026-2027 academic year. Explicitly open to freshmen and sophomores in 4-year programs (and juniors in 5-year programs), with finance named alongside accounting as an eligible major.",
+      "requirements": [
+        "Full-time undergraduate at a TMCF member HBCU (Howard qualifies)",
+        "Freshman or sophomore standing in a 4-year program, or junior in a 5-year program — matches Mason's current year",
+        "Declared or intended major in business, finance, accounting, or economics",
+        "Minimum 3.0 cumulative GPA (3.3+ preferred) — Mason's 3.7 clears this",
+        "Renewable 2026-2029 if criteria are maintained; apply via the TMCF Open Scholarships Portal"
+      ],
+      "deadline": "2027-04-24",
+      "deadlineNote": "New for this update (found Oct 28, 2026). The 2026-2027 cycle (Cohort 5) ran March 9 – April 24, 2026 and has already closed, but TMCF has run this as an annual, numbered cohort program (Cohort 1 through Cohort 5 so far), so a Cohort 6 cycle opening around March 2027 and closing around April 24, 2027 is a reasonable estimate based on that pattern — not yet confirmed. This is a separate, named sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal', called out on its own because, unlike most individual sponsor awards reviewed so far, it explicitly admits freshmen/sophomores rather than requiring junior+ standing. tmcf.org remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "applyUrl": "https://tmcf.org/open-scholarships/",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "northwestern-mutual-annual-business-scholarship",
+      "organization": "Northwestern Mutual Annual Business Scholarship",
+      "description": "A national scholarship (amount varies, commonly cited around $2,500) for undergraduates majoring in business, finance, accounting, marketing, management, information technology, or economics, open to students who will be juniors or seniors. No race, geography, or HBCU restriction — a bookmark for Mason's rising-junior year rather than right now.",
+      "requirements": [
+        "Will be a junior or senior in the fall semester (not yet open to sophomores)",
+        "Majoring in business, finance, accounting, marketing, management, information technology, or economics (finance qualifies)",
+        "Preference given to a GPA of 3.0 or higher — Mason's 3.7 clears this",
+        "Apply via scholarship-aggregator listings tied to Northwestern Mutual (e.g., Peterson's, Scholarship America/Scholly) once the next cycle opens"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 28, 2026). Aggregator listings (Peterson's, Sallie/Scholly) cite a recurring deadline around early September each year (Sept 5, 2026 for the cycle that just closed), but neither is an official Northwestern Mutual page, so left as null rather than guessing a specific 2027 date. Mason won't reach junior standing until Fall 2027 anyway — revisit then alongside the other junior-year bookmarks (AlixPartners/UNCF, Crum & Forster/UNCF, UNCF Element Fleet, UNCF MetLife Legacy, NBMBAA).",
+      "applyUrl": "https://www.sallie.com/scholarships/scholly/northwestern-mutual-annual-business-scholarship",
       "category": "finance-major"
     }
   ]
