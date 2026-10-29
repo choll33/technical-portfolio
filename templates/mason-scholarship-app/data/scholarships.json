@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:07:43Z",
+  "generatedAt": "2026-10-29T10:07:15Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -981,6 +981,37 @@
       "deadlineNote": "New for this update (found Oct 28, 2026). Aggregator listings (Peterson's, Sallie/Scholly) cite a recurring deadline around early September each year (Sept 5, 2026 for the cycle that just closed), but neither is an official Northwestern Mutual page, so left as null rather than guessing a specific 2027 date. Mason won't reach junior standing until Fall 2027 anyway — revisit then alongside the other junior-year bookmarks (AlixPartners/UNCF, Crum & Forster/UNCF, UNCF Element Fleet, UNCF MetLife Legacy, NBMBAA).",
       "applyUrl": "https://www.sallie.com/scholarships/scholly/northwestern-mutual-annual-business-scholarship",
       "category": "finance-major"
+    },
+    {
+      "id": "altfinance-fellowship",
+      "organization": "AltFinance Fellowship (Management Leadership for Tomorrow, with Howard as a founding-partner HBCU)",
+      "description": "A need-based fellowship (not a loan) built to pipeline Black students into alternative-investment careers (private equity, credit, real assets), run by MLT with Howard University as one of four founding-partner HBCUs (alongside Morehouse, Spelman, and Clark Atlanta). The program centers on the sophomore and junior years and provides need-based funding each year a fellow stays in the program, historically up to $10,000 for sophomores — a direct, Howard-specific match for Mason's exact class year.",
+      "requirements": [
+        "Enrolled at a founding-partner HBCU (Howard, Morehouse, Spelman, or Clark Atlanta)",
+        "Sophomore or junior standing — the fellowship is structured around these two years",
+        "U.S. citizen, permanent resident, or DACA recipient",
+        "Need-based funding renewed each year retained in the program",
+        "Apply via MLT's AltFinance Fellowship application"
+      ],
+      "deadline": "2027-04-15",
+      "deadlineNote": "New for this update (found Oct 29, 2026). The 2026-2027 cycle's application deadline was April 15, 2026 (already closed; decisions by May 31, 2026) — confirmed via a third-party-hosted application form rather than AltFinance's or MLT's own page directly, so treat with appropriate caution. April 15, 2027 is a single-cycle estimate for the next round, not yet a confirmed multi-year pattern. Award figures cited here (up to $10,000 for sophomores) are from 2022-2023 reporting and may have changed. Apply via mlt.org/altfinancefellowship or contact fellowship@altfinance.com to confirm the next cycle's exact dates and current terms.",
+      "applyUrl": "https://mlt.org/altfinancefellowship",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "evercore-diversity-scholarship",
+      "organization": "Evercore Rising Junior Diversity Scholarship",
+      "description": "A $15,000 scholarship from Evercore (an independent investment bank) paired with a Summer Analyst investment-banking internship offer, aimed at current sophomores from backgrounds underrepresented in finance (Black, Hispanic/Latinx, Native American, female, veteran, and/or LGBTQ+). Confirmed as a recurring program on Evercore's own careers page, with applications opening each spring — a strong fit for Mason's class year, major interest, and background, though it is gated behind completing Evercore's interview process and securing an internship offer.",
+      "requirements": [
+        "Current college sophomore at the time of application",
+        "From a background underrepresented in investment banking (Black, Hispanic/Latinx, Native American, female, veteran, and/or LGBTQ+)",
+        "Must complete Evercore's interview process and receive a Summer Analyst Investment Banking offer to receive the award",
+        "Resume, cover letter, and short essay (e.g., on a banking transaction or market trend) typically required"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 29, 2026). Evercore's own careers page confirms it runs a diversity scholarship application each spring alongside undergraduate diversity events, but no 2026-2027-specific deadline was found this round — the most recently confirmed cycle (2023) opened March 1 with a March 16 target date. Left null rather than guess; watch evercore.com/careers starting ~February 2027 for the next posting. Like the already-tracked Morgan Stanley Fisher and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst internship offer, not a standalone cash-award application.",
+      "applyUrl": "https://www.evercore.com/?p=300",
+      "category": "black-finance"
     }
   ]
 }
