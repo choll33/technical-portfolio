@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:07:15Z",
+  "generatedAt": "2026-10-30T10:06:38Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -1012,6 +1012,36 @@
       "deadlineNote": "New for this update (found Oct 29, 2026). Evercore's own careers page confirms it runs a diversity scholarship application each spring alongside undergraduate diversity events, but no 2026-2027-specific deadline was found this round — the most recently confirmed cycle (2023) opened March 1 with a March 16 target date. Left null rather than guess; watch evercore.com/careers starting ~February 2027 for the next posting. Like the already-tracked Morgan Stanley Fisher and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst internship offer, not a standalone cash-award application.",
       "applyUrl": "https://www.evercore.com/?p=300",
       "category": "black-finance"
+    },
+    {
+      "id": "edward-dorsey-audrey-dorsey-scholarship",
+      "organization": "Edward Dorsey, Jr. and Audrey Dorsey Memorial Scholarship (via Bold.org)",
+      "description": "A donor-funded Bold.org scholarship created specifically to help a Black student pursue an education in business and/or finance — a direct, narrowly-matched fit for Mason's major and background, though it's a small, single-winner award. The only confirmed cycle closed its application window in August 2025, so recurrence isn't yet established.",
+      "requirements": [
+        "Self-identifies as Black or African American",
+        "Pursuing a degree in business administration or finance (Finance qualifies directly)",
+        "Minimum GPA cited inconsistently as 2.7-2.75 on the scholarship's own page — Mason's 3.7 clears either",
+        "Application via Bold.org"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 30, 2026). The only confirmed cycle's deadline was Aug 29, 2025 (winners announced Sept 29, 2025) — a single data point, not enough to confirm an annual recurring pattern, so left as null rather than guess a 2026 or 2027 date. The donor profile on Bold.org indicates the scholarship has already been awarded for that cycle. bold.org itself is blocked from direct fetch this session, consistent with every prior session — check bold.org/scholarships/edward-dorsey-jr-memorial-scholarship/ periodically for a reopened cycle.",
+      "applyUrl": "https://bold.org/scholarships/edward-dorsey-jr-memorial-scholarship/",
+      "category": "black-finance"
+    },
+    {
+      "id": "raymond-james-supernova-scholars",
+      "organization": "Raymond James × Supernova Scholars Program",
+      "description": "Not a cash scholarship alone, but a combined scholarship, mentorship, and paid summer internship program for HBCU students, built by the nonprofit Supernova Scholars in partnership with Raymond James, aimed at building careers in financial services. Participants can pipeline into Raymond James's Advisory Mastery Program (AMP), a 24-month training track for new financial advisors — a strong structural fit for Mason's HBCU enrollment and finance interest, though class-year eligibility, award amount, and application deadline weren't confirmed this round.",
+      "requirements": [
+        "Enrolled at a Historically Black College or University (Howard qualifies)",
+        "Interest in a financial-services/financial-advising career",
+        "Program includes mentorship, a summer internship, soft-skills training, and a yearly stipend tied to grades and program rules",
+        "Specific class-year, GPA, and deadline criteria not published in search results — confirm directly with the program"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 30, 2026). Confirmed as real via Raymond James's own careers page (raymondjames.com) announcing the partnership, and Supernova Scholars' own homepage (supernovascholars.org) describing the program structure — but neither page surfaced a specific class-year requirement, award amount, or application deadline in this round's searches. Both sites are blocked from direct fetch this session (network access restrictions) — contact Supernova Scholars directly or check supernovascholars.org and raymondjames.com/careers/all-access/our-firm/raymond-james-announces-a-partnership-with-supernova for current application details.",
+      "applyUrl": "https://supernovascholars.org/",
+      "category": "howard-hbcu"
     }
   ]
 }
