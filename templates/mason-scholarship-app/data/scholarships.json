@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:06:38Z",
+  "generatedAt": "2026-10-31T10:06:26Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -518,8 +518,8 @@
         "No essay, no GPA minimum, no major restriction",
         "Rolling monthly application deadlines"
       ],
-      "deadline": "2026-10-31",
-      "deadlineNote": "New for this update. Current monthly deadline is Oct 31, 2026 with winners announced Dec 1, 2026; the scholarship recurs on a rolling monthly basis, so Mason can re-enter each month regardless of outcome. Low odds given high volume of \"no-essay\" entrants, but zero-cost and takes minutes.",
+      "deadline": "2026-11-30",
+      "deadlineNote": "Updated Oct 31, 2026: the previously-tracked Oct 31, 2026 cycle closes today, with winners announced Dec 1, 2026 (confirmed on bold.org's own page and corroborated by Scholarships360). Nov 30, 2026 is the estimated next monthly close based on the recurring rolling-monthly pattern, though third-party aggregators disagree on the exact day each cycle closes (some cite the 1st of the month, others the last day) -- confirm the live date on bold.org before the end of November. Mason can re-enter each month regardless of outcome; low odds given high entrant volume, but zero-cost and takes minutes.",
       "applyUrl": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
       "category": "general"
     },
@@ -1042,6 +1042,37 @@
       "deadlineNote": "New for this update (found Oct 30, 2026). Confirmed as real via Raymond James's own careers page (raymondjames.com) announcing the partnership, and Supernova Scholars' own homepage (supernovascholars.org) describing the program structure — but neither page surfaced a specific class-year requirement, award amount, or application deadline in this round's searches. Both sites are blocked from direct fetch this session (network access restrictions) — contact Supernova Scholars directly or check supernovascholars.org and raymondjames.com/careers/all-access/our-firm/raymond-james-announces-a-partnership-with-supernova for current application details.",
       "applyUrl": "https://supernovascholars.org/",
       "category": "howard-hbcu"
+    },
+    {
+      "id": "santander-open-scholarships",
+      "organization": "Santander Open Scholarships (Santander US, via uAspire)",
+      "description": "A national scholarship initiative from Santander US, administered with the nonprofit uAspire, offering awards up to $20,000 to U.S. undergraduates based on academic merit and financial need. The first window was explicitly open to rising freshmen, sophomores, and juniors, with no race, major, or state restriction, making it a broad national match for Mason's class year and GPA.",
+      "requirements": [
+        "U.S. citizen or eligible non-citizen",
+        "Full-time undergraduate student at any accredited 2- or 4-year U.S. institution",
+        "First confirmed window covered rising freshman, sophomore, and junior applicants for the 2025-2026 school year",
+        "No major restriction found; need and merit both considered",
+        "Apply through uAspire/Santander Open Academy once the next window opens"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 31, 2026). The first window ran Aug 1 - Dec 1, 2025 for the 2025-2026 school year; a second window (adding incoming Fall 2026 freshmen) closed Apr 30, 2026. Both have passed and no 2026-2027 window has been announced yet in search results. Since only two data points exist so far and they don't yet show a clean annual pattern, left deadline null rather than estimate. Watch uaspire.org and santanderus.com for the next cycle's announcement; confirm whether continuing sophomores remain eligible in that cycle.",
+      "applyUrl": "https://www.uaspire.org/news-events/santander-us-launches-new-scholarship-initiative-to-expand-access-to-higher-education-nationwide",
+      "category": "general"
+    },
+    {
+      "id": "pgim-ron-andrews-diversity-scholarship",
+      "organization": "Ron Andrews Diversity Scholarship Program (PGIM, Prudential Financial's asset-management arm)",
+      "description": "A scholarship tied to securing a paid PGIM summer internship offer, open to students who identify as Black, Latinx, Native American, LGBTQ+, Differently Abled, and/or first-generation college students. Winners receive a 529 Savings Plan funded at $10,000 plus mentorship and professional development -- similar in structure to the already-tracked Evercore, Goldman Sachs SFE, and Morgan Stanley Fisher scholarships, with the added fit that PGIM/Prudential is headquartered in Newark, New Jersey, Mason's home state.",
+      "requirements": [
+        "Must apply to and accept an offer for a PGIM summer internship (e.g. PGIM Fixed Income, Real Estate, or Investments) to receive the award",
+        "Self-identifies as Black, Latinx, Native American, LGBTQ+, Differently Abled, and/or first-generation college student",
+        "Opt in to the diversity scholarship track when applying to a specific PGIM internship posting",
+        "Enrolled in an accredited bachelor's (or 5th-year master's) program; exact class-year cutoffs vary by posting and weren't confirmed for sophomores specifically"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Oct 31, 2026). Confirmed real via PGIM's own diversity-equity-and-inclusion page (pgim.com/award/ron-andrews-diversity-scholarship-program), though the posted program description still references the 2023-2024 intern cohort. PGIM's 2027 internship postings (via jobs.pgim.com/The Muse) show investment-professional roles opening July 17-Aug 14, 2026 and other roles from Sept 1, 2026, with rolling review -- those windows may already be underway or closing. Sophomore eligibility for the scholarship itself was not explicitly confirmed; some 2027 postings cite bachelor's programs graduating Dec 2027-May 2028, one cohort ahead of Mason, so verify directly with PGIM's DEI team or jobs.pgim.com whether a track exists for Mason's expected ~2029 graduation before investing significant time.",
+      "applyUrl": "https://www.pgim.com/award/ron-andrews-diversity-scholarship-program",
+      "category": "black-finance"
     }
   ]
 }
