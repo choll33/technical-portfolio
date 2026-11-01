@@ -1,0 +1,51 @@
+# Scholarship Research for Mason — Update, November 1, 2026
+
+Follow-up to the October 31, 2026 research log. Mason remains a rising sophomore Finance major at Howard University (School of Business), GPA 3.7, NJ resident/hometown. Tracker held 69 entries entering this round.
+
+This round focused on (a) re-checking several standing follow-ups with uncertain or unpublished deadlines (Wellington HBCU Scholars, Milken HBCU Fellows, Raymond James × Supernova Scholars, NJ Bankers Education Foundation, PGIM Ron Andrews, Santander Open Scholarships, HBCU Legacy and Excellence Scholarship), and (b) a fresh sweep for new scholarships not yet tracked, surfaced via broad searches for Black/finance-major and NJ-resident sophomore-eligible awards.
+
+## Two new entries added
+
+- **`donald-katz-cnjm-scholarship`** (category: `nj-resident`): the Donald Katz-CNJM Scholarship, a need-based award for Central New Jersey residents administered by the Central New Jersey Mensa chapter (cnj.us.mensa.org), open to any major including college sophomores, no Mensa membership required. Confirmed as a distinct fund from the already-tracked `central-nj-mensa-scholarship` (a separate, smaller Mensa Foundation award) — verified via a direct search that the Central NJ Mensa chapter's own scholarship page lists a "Donald Katz CNJM Scholarship" winner separately from its other named funds. Only one historical cycle was found (Sept 15, 2024 – Jan 15, 2025), so Jan 15, 2027 is an estimate based on that single data point plus the sister scholarship's similar annual window.
+- **`cme-group-foundation-scholars`** (category: `finance-major`): the CME Group Foundation Scholars Program (via Scholarship America), a renewable award up to $20,000 for undergraduates in finance or computer science, paired with a mandatory one-day market-education day at CME Group in Chicago. Historically targeted Black and Latinx finance students (a strong fit for Mason), but Scholarship America's current live page now describes eligibility as first-generation, low-income students in finance/CS — flagged this discrepancy explicitly in the entry's `deadlineNote` since it's unclear which criteria will govern the next cycle. Application is currently closed (2026 cycle closed March 2, 2026); deadline left `null` pending reopening.
+
+## New leads investigated and ruled out (4 this round)
+
+- **Charles Schwab Foundation Scholars in Financial Planning**: investigated specifically to resolve whether Howard is a partner school (a prior log flagged a 2022 Schwab gift to Howard's wealth-management program as a possible connection). Confirmed via search that this *scholarship* program's seven partner universities are Arizona State, University of Arizona, Purdue, Temple, Texas Tech, University of Akron, and Virginia Tech — Howard is not among them. Howard's 2022 Schwab gift was a separate grant to build out its CFP/RIA curriculum, not enrollment in this scholarship program. **Ruled out — Howard is not a partner school for this specific award** (the already-tracked CFP Board scholarships — LeCount Davis, Goldman Scholars, Aspiriant — remain the right CFP-adjacent entries to watch).
+- **New Jersey Educational Opportunity Fund (EOF) Scholarship**: investigated as a possible NJ-resident match. Confirmed the EOF program funds only the ~40 participating New Jersey colleges/universities (Rutgers, Montclair State, HCCC, etc.); Howard is in Washington, D.C. and is not a participating institution. **Ruled out — Howard students are not eligible for NJ EOF funding regardless of Mason's NJ residency.**
+- **TMCF | NRG HBCU Excellence in Education Scholarship Program**: investigated as a possible new TMCF sponsor award. Confirmed via tmcf.org/Prairie View A&M listings that this award is restricted specifically to undergraduates at Prairie View A&M University and Texas Southern University, and further restricted to juniors/seniors. **Ruled out — not open to Howard students, and not Mason's class year either way.**
+- **Crown Castle Opportunity Scholarship**: surfaced in a broad search as a strong-sounding match ($20,000, Black sophomores, finance-eligible). Confirmed it is geographically restricted to current residents of the Atlanta, Boston, or Raleigh-Durham-Chapel Hill metro areas. **Ruled out — Mason is a New Jersey resident/Howard (DC) student, no connection to any of the three eligible metro areas.**
+
+## Checked but not added (insufficient information, not a confirmed ruling-out)
+
+- **TMCF | Sprott Inc. HBCU Scholarship**: confirmed real via tmcf.org, but no deadline or major restriction was found in this round's searches. Since it's already generally covered under the broad `tmcf-open-portal` entry and lacks the confirmed, standalone details (deadline, all-majors eligibility) that justified calling out Enterprise Access HBCU, McDonald's, Molson Coors, and Deloitte Foundation as their own entries, it was not added separately this round. Revisit if a specific deadline surfaces.
+
+## Follow-ups re-checked, no change
+
+- **Wellington Management HBCU Scholars Program**: re-searched; Wellington's own pages remain stale (pointing to the already-closed 2025 window). A third-party guide (Extern) now projects the 2027 cycle opening mid-September 2026 with a late-October close — if accurate, this window may already be closing or closed, but it is an unconfirmed projection describing Wellington's general internship process, not the HBCU program specifically. No change — left deadline `null`; standing recommendation to email HBCUscholarship@wellington.com stands.
+- **Milken Institute HBCU Fellows Program**: re-searched; still actively recruiting for the 2026-2027 Cohort per Milken's own page, with no specific deadline found. No change — left deadline `null`.
+- **Raymond James × Supernova Scholars Program**: re-searched; found no new information — results returned unrelated programs (Drexel's SuperNova Research Fellows, a different Raymond James Charitable scholarship). No change — left deadline `null`.
+- **New Jersey Bankers Education Foundation Scholarship**: re-searched again; still only a directory listing pointing to njbankers.com with no deadline or application details surfaced. **Still not added, per the "never fabricate" rule** — carry forward again.
+- **PGIM Ron Andrews Diversity Scholarship Program**: re-searched for sophomore-specific eligibility; found additional 2027 PGIM internship posting windows (Real Estate Agency: June 7–Aug 13, 2027; Private Credit: targets Dec 2027–May 2028 grads, one cohort ahead of Mason) but nothing that confirms or denies a track matching Mason's ~2029 graduation. No change — left deadline `null`.
+- **Santander Open Scholarships**: re-searched; no 2026-2027 window announcement found yet. No change — left deadline `null`.
+- **HBCU Legacy and Excellence Scholarship (Bold.org)**: re-confirmed the tracked Nov 20, 2026 deadline is still accurate per Bold.org's own listing. No change needed.
+
+## Summary
+
+- **Two scholarships added** this round: `donald-katz-cnjm-scholarship` (nj-resident) and `cme-group-foundation-scholars` (finance-major). No entries removed.
+- **No deadline changes** to existing entries this round — all re-checked follow-ups came back consistent with prior findings.
+- **Four new leads investigated this round, all ruled out**: Charles Schwab Foundation Scholars in Financial Planning (Howard not a partner school), NJ Educational Opportunity Fund (Howard not a participating NJ institution), TMCF NRG HBCU Excellence (restricted to Prairie View A&M/Texas Southern juniors+ only), and Crown Castle Opportunity Scholarship (geo-restricted to Atlanta/Boston/Raleigh-Durham residents).
+- **One lead checked but not added for lack of detail**: TMCF | Sprott Inc. HBCU Scholarship (no confirmed deadline or major restriction; already covered generally by the `tmcf-open-portal` entry).
+- Tracker now holds **71 entries**.
+- **Most actionable items right now** (in deadline order, carried forward and updated):
+  1. **HBCU Legacy and Excellence Scholarship (Bold.org)** — closes Nov 20, 2026.
+  2. **Bold.org "Be Bold" No-Essay Scholarship** — rolling monthly, estimated next close Nov 30, 2026.
+  3. **TMCF | Lowe's Gap / Wells Fargo Gap Scholarships** — close Dec 1, 2026 via the TMCF Open Scholarships Portal.
+  4. **P&G HBCYOU Scholarship (via UNCF)** and **Momentum Advisors Future Leaders in Finance Scholarship** — both estimated to close ~Dec 15, 2026.
+  5. **MLT Career Prep (Financial Services track)** — final deadline Jan 15, 2027; apply ASAP since priority consideration already closed.
+  6. **TMCF | Enterprise Access HBCU Scholarship** and **TMCF | Molson Coors Scholarship** — close Jan 8, 2027.
+  7. **Donald Katz-CNJM Scholarship** (new this round) — estimated close Jan 15, 2027.
+  8. **TMCF | McDonald's Black and Positively Golden Scholarship** — open now through Apr 23, 2027, long window, no rush.
+  9. **Milken Institute HBCU Fellows Program**, **Wellington HBCU Scholars Program**, and **Raymond James × Supernova Scholars** — all plausibly actively recruiting now with no posted deadline; apply/reach out soon given no indication of how long any window stays open.
+  10. **CME Group Foundation Scholars Program** (new this round) — watch scholarshipamerica.org/scholarship/cme-scholars/ for reopening; confirm eligibility criteria once posted.
+- Standing recommendations from prior logs remain unactioned and still the highest-leverage next steps: (1) a direct email to Howard's financial aid office or School of Business Student Affairs on the CFP Board Registered Program question and the HPS Partners Endowed Scholars/Lilly Bison Scholarship application processes, (2) the Wellington outreach (HBCUscholarship@wellington.com), (3) following up with GM Financial's university recruiting team on Howard's partner-school status for the Sophomore Leadership Internship Program, (4) a direct check of njbankers.com for the New Jersey Bankers Education Foundation Scholarship's official terms, (5) contacting Supernova Scholars directly for the Raymond James partnership's actual eligibility and deadline, and (6) contacting PGIM's DEI team to confirm whether the Ron Andrews Diversity Scholarship has a track matching Mason's ~2029 graduation cohort.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:06:26Z",
+  "generatedAt": "2026-11-01T10:05:49Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -1073,6 +1073,38 @@
       "deadlineNote": "New for this update (found Oct 31, 2026). Confirmed real via PGIM's own diversity-equity-and-inclusion page (pgim.com/award/ron-andrews-diversity-scholarship-program), though the posted program description still references the 2023-2024 intern cohort. PGIM's 2027 internship postings (via jobs.pgim.com/The Muse) show investment-professional roles opening July 17-Aug 14, 2026 and other roles from Sept 1, 2026, with rolling review -- those windows may already be underway or closing. Sophomore eligibility for the scholarship itself was not explicitly confirmed; some 2027 postings cite bachelor's programs graduating Dec 2027-May 2028, one cohort ahead of Mason, so verify directly with PGIM's DEI team or jobs.pgim.com whether a track exists for Mason's expected ~2029 graduation before investing significant time.",
       "applyUrl": "https://www.pgim.com/award/ron-andrews-diversity-scholarship-program",
       "category": "black-finance"
+    },
+    {
+      "id": "donald-katz-cnjm-scholarship",
+      "organization": "Donald Katz-CNJM Scholarship (Central New Jersey Mensa chapter, via Mensa Education and Research Foundation)",
+      "description": "A need-based scholarship for Central New Jersey residents, open to high school seniors and current undergraduates (college sophomores explicitly included) in any major, administered by the Central New Jersey Mensa chapter. Distinct from the already-tracked Central New Jersey Scholarship — a separate, smaller Mensa Foundation fund — and Mensa membership is not required to apply.",
+      "requirements": [
+        "Resident of Central New Jersey",
+        "High school senior, undergraduate, or graduate student pursuing a certificate, associate, bachelor's, or graduate degree — no major restriction; College Sophomore explicitly listed as an eligible level",
+        "U.S. citizen or permanent resident",
+        "Not merit-based; need-based criteria apply",
+        "Essay required; Mensa membership NOT required"
+      ],
+      "deadline": "2027-01-15",
+      "deadlineNote": "New for this update (found Nov 1, 2026). The only confirmed cycle ran Sept 15, 2024 - Jan 15, 2025 (already closed); Jan 15, 2027 is an estimate for the next cycle based on that single data point plus the similar recurring Sept-Jan window used by the already-tracked, same-foundation Central New Jersey Mensa Scholarship. Confirm the live window directly at cnj.us.mensa.org before applying.",
+      "applyUrl": "https://bigfuture.collegeboard.org/scholarships/donald-katz-cnjm-scholarship",
+      "category": "nj-resident"
+    },
+    {
+      "id": "cme-group-foundation-scholars",
+      "organization": "CME Group Foundation Scholars Program (via Scholarship America)",
+      "description": "A renewable scholarship of up to $20,000 for undergraduates studying finance or computer science, paired with a mandatory one-day market-education program at CME Group in Chicago. Historically targeted Black and Latinx students in finance-related majors (a direct fit for Mason's major), though Scholarship America's current program page describes eligibility as first-generation, low-income students in finance or computer science — confirm which criteria govern the next open cycle before investing time.",
+      "requirements": [
+        "Undergraduate sophomore, junior, or senior (historically; confirm current class-year rules once reopened)",
+        "Finance major (computer science also eligible)",
+        "Current Scholarship America page cites first-generation, low-income background; past cycles targeted Black and Latinx students specifically — verify which criteria apply to the next cycle",
+        "Willing to attend a mandatory one-day market-education program at CME Group in Chicago (typically August)",
+        "Apply through the Scholarship America Student Hub once the application reopens"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 1, 2026). Scholarship America's own program page confirms the 2026-2027 application is currently closed ('tentative and subject to change'), with a 'Remind Me' signup for reopening; the prior cycle closed March 2, 2026. Left deadline null since the reopening date and current eligibility criteria (first-gen/low-income vs. the historical Black/Latinx criteria) aren't yet confirmed. Watch scholarshipamerica.org/scholarship/cme-scholars/ and sign up for the reminder.",
+      "applyUrl": "https://scholarshipamerica.org/scholarship/cme-scholars/",
+      "category": "finance-major"
     }
   ]
 }
