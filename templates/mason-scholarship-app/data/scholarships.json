@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:05:49Z",
+  "generatedAt": "2026-11-02T10:07:09Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -1105,6 +1105,21 @@
       "deadlineNote": "New for this update (found Nov 1, 2026). Scholarship America's own program page confirms the 2026-2027 application is currently closed ('tentative and subject to change'), with a 'Remind Me' signup for reopening; the prior cycle closed March 2, 2026. Left deadline null since the reopening date and current eligibility criteria (first-gen/low-income vs. the historical Black/Latinx criteria) aren't yet confirmed. Watch scholarshipamerica.org/scholarship/cme-scholars/ and sign up for the reminder.",
       "applyUrl": "https://scholarshipamerica.org/scholarship/cme-scholars/",
       "category": "finance-major"
+    },
+    {
+      "id": "bofa-gbam-scholarship-of-distinction",
+      "organization": "Bank of America — Global Banking & Markets (GBAM) Scholarship of Distinction",
+      "description": "A scholarship recognizing top campus talent from groups historically underrepresented in financial services, paying up to $15,000 directly to the recipient's school for tuition and academic expenses. The award is unlocked only after securing an offer through one of Bank of America's Global Banking & Markets Summer Analyst Programs (Investment Banking, Global Markets Sales & Trading, or Global Capital Markets), which run sophomore-specific tracks alongside the standard junior/rising-senior ones — a similar structure to the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships.",
+      "requirements": [
+        "From a group historically underrepresented in financial services; Bank of America states all eligible students are encouraged to apply regardless of background",
+        "Must first secure an offer through a Bank of America Global Banking & Markets Summer Analyst Program — sophomore-specific tracks exist in Investment Banking, Global Markets Sales & Trading, and Global Capital Markets",
+        "Scholarship application (resume plus short written responses) follows only after receiving a Summer Analyst offer",
+        "Award paid directly to the recipient's school toward tuition and academic expenses"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 2, 2026). Confirmed real via Bank of America's own campus careers site (careers.bankofamerica.com) and corroborated by third-party recruiting aggregators describing the scholarship's purpose, $15,000 award, and summer-analyst-offer requirement, though the only dated scholarship-application reference found (Aug 15, 2023, tied to 2024 Summer Analyst Programs) is stale. BofA's sophomore Summer Analyst postings for Global Markets and Investment Banking have historically opened in the fall with closes the following summer (e.g., a 2023 Global Capital Markets sophomore posting closed July 2023) — no 2026-2027 posting was found yet. Like the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst offer first, not a standalone cash-award application. Watch careers.bankofamerica.com/en-us/students starting ~fall 2026 for the current sophomore Summer Analyst postings.",
+      "applyUrl": "https://careers.bankofamerica.com/en-us/students",
+      "category": "black-finance"
     }
   ]
 }
