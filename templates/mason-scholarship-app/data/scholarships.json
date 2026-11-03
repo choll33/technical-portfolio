@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:07:09Z",
+  "generatedAt": "2026-11-03T10:07:33Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -11,16 +11,16 @@
   "scholarships": [
     {
       "id": "tmcf-open-portal",
-      "organization": "Thurgood Marshall College Fund (TMCF) — Open Scholarships Portal",
+      "organization": "Thurgood Marshall College Fund (TMCF) \u2014 Open Scholarships Portal",
       "description": "Howard is a TMCF member school, so Mason can create a TMCF Scholar profile and get auto-matched to dozens of corporate-sponsored scholarships (Wells Fargo Access/Gap Scholarships, Acushnet Company Scholarship, and more) that rotate through TMCF's portal each cycle.",
       "requirements": [
         "Attend a TMCF member HBCU (Howard qualifies)",
         "Create a profile on the TMCF Scholarship Portal",
-        "Individual sponsor awards vary — filter by business/finance and sophomore standing once logged in",
-        "GPA thresholds vary by sponsor, typically 2.5–3.0+ (Mason's 3.7 clears most)"
+        "Individual sponsor awards vary \u2014 filter by business/finance and sophomore standing once logged in",
+        "GPA thresholds vary by sponsor, typically 2.5\u20133.0+ (Mason's 3.7 clears most)"
       ],
       "deadline": "2026-12-01",
-      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman–senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 — the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1–July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed — estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16–Apr 24, 2026) — bookmark for a spring 2027 reopening. Updated Oct 6, 2026: also confirmed the TMCF | Lowe's Gap Scholarship (up to $5,000, Business OR STEM majors, no class-year restriction) is open now with the same Dec 1, 2026 close as Wells Fargo Gap — a second live, directly-eligible match this wave. The TMCF | CoBank Scholarship (up to $10,250, need-based, explicitly names Finance/Banking as eligible majors, sophomores eligible, 3.0+ GPA) looks like the single best-matched sponsor award on paper. Updated Oct 7, 2026: confirmed directly via tmcf.org that the 2026-2027 CoBank cycle ran two waves — Wave 1 closed Jan 16, 2026 and Wave 2 closed Apr 24, 2026 — both now passed, with no Wave 3 found; watch for the 2027-2028 cycle to open around the same Jan/Mar pattern. The TMCF | Sprott Inc. HBCU Scholarship and TMCF | Verisk Scholarship (both name Business/Finance) already closed their Wave 2 window (Mar 9–Apr 24, 2026); Verisk is junior/senior-only going forward anyway. Recheck the portal after Dec 1, 2026 for a new wave.",
+      "deadlineNote": "Confirmed: the 2026-2027 Wells Fargo Gap Scholarship (need-based, all majors, freshman\u2013senior, 2.75+ GPA, up to $1,000) is open now and closes Dec 1, 2026 \u2014 the best current match since it isn't STEM-restricted. The separate Wells Fargo Access Scholarship (up to $10,000) opened June 1\u2013July 17, 2026 but is STEM-majors-only, so not a fit for Finance. Updated Oct 4, 2026: the TMCF | FedEx HBCU Scholarship track (up to $9,600, business majors specifically, 2.75+ GPA, all class years, TMCF member school required) had a confirmed 2026-2027 deadline of July 17, 2026, which has now passed \u2014 estimate ~July 2027 for the next wave. The TMCF | MUFG Scholarship ($11,500, 3.0+ GPA, all majors, need-based, 2-minute video essay) already closed for this academic year (window was March 16\u2013Apr 24, 2026) \u2014 bookmark for a spring 2027 reopening. Updated Oct 6, 2026: also confirmed the TMCF | Lowe's Gap Scholarship (up to $5,000, Business OR STEM majors, no class-year restriction) is open now with the same Dec 1, 2026 close as Wells Fargo Gap \u2014 a second live, directly-eligible match this wave. The TMCF | CoBank Scholarship (up to $10,250, need-based, explicitly names Finance/Banking as eligible majors, sophomores eligible, 3.0+ GPA) looks like the single best-matched sponsor award on paper. Updated Oct 7, 2026: confirmed directly via tmcf.org that the 2026-2027 CoBank cycle ran two waves \u2014 Wave 1 closed Jan 16, 2026 and Wave 2 closed Apr 24, 2026 \u2014 both now passed, with no Wave 3 found; watch for the 2027-2028 cycle to open around the same Jan/Mar pattern. The TMCF | Sprott Inc. HBCU Scholarship and TMCF | Verisk Scholarship (both name Business/Finance) already closed their Wave 2 window (Mar 9\u2013Apr 24, 2026); Verisk is junior/senior-only going forward anyway. Recheck the portal after Dec 1, 2026 for a new wave.",
       "applyUrl": "https://scholarships.tmcf.org",
       "category": "howard-hbcu"
     },
@@ -52,14 +52,14 @@
         "Essays, video prompts, business case responses, transcript, recommendation letter, resume"
       ],
       "deadline": "2027-03-01",
-      "deadlineNote": "Annual deadline is typically March 1 (2026 cycle closed March 1, 2026, per the last review). The 2027-specific date wasn't separately re-confirmed this round — treat March 1, 2027 as the best estimate and watch elcscholarships.elcinfo.com for the official open date.",
+      "deadlineNote": "Annual deadline is typically March 1 (2026 cycle closed March 1, 2026, per the last review). The 2027-specific date wasn't separately re-confirmed this round \u2014 treat March 1, 2027 as the best estimate and watch elcscholarships.elcinfo.com for the official open date.",
       "applyUrl": "https://elcscholarships.elcinfo.com/",
       "category": "howard-hbcu"
     },
     {
       "id": "howard-business-endowed",
-      "organization": "Howard University School of Business — Endowed Scholarships",
-      "description": "Howard's own School of Business administers 30+ donor-endowed scholarship funds (roughly $500–$10,000) for currently enrolled students, judged on financial need, academic excellence, and contribution to the field of study. This is a direct, Howard-specific opportunity in Mason's own school.",
+      "organization": "Howard University School of Business \u2014 Endowed Scholarships",
+      "description": "Howard's own School of Business administers 30+ donor-endowed scholarship funds (roughly $500\u2013$10,000) for currently enrolled students, judged on financial need, academic excellence, and contribution to the field of study. This is a direct, Howard-specific opportunity in Mason's own school.",
       "requirements": [
         "Currently enrolled Howard University School of Business student (Finance qualifies)",
         "FAFSA on file for financial-need consideration",
@@ -67,7 +67,7 @@
         "Selection criteria vary by individual fund: need, GPA, essays, and field-of-study contribution"
       ],
       "deadline": "2027-04-06",
-      "deadlineNote": "Updated Oct 9, 2026: re-searched specifically to resolve the standing Jan 28–Mar 6 (collegereadyparent.org estimate) vs. Apr 6 (financialservices.howard.edu) discrepancy flagged in the Oct 7-8 logs. A fresh search again surfaced financialservices.howard.edu's own 'Donor Scholarship Application' page directly (not just a secondhand citation this time): it states the 2026-2027 Donor Scholarship Application is open for continuing Howard University students only (new students are explicitly excluded), submitted via the Blackbaud/AcademicWorks portal at howard.academicworks.com, with a deadline of April 6, 2026 (now closed) and the note 'completing one application considers you for multiple donor scholarships for which you may qualify' — i.e. a single central application likely feeds both general financial-aid-office funds and individual School of Business endowed funds, which resolves the ambiguity: treat Apr 6 as the authoritative annual pattern and the Jan28–Mar6 aggregator figure as superseded/incorrect. Apr 6, 2027 is the best estimate for the 2027-2028 cycle. business.howard.edu itself remains blocked from direct fetch every session; contact sfs@howard.edu (Office of Financial Aid) for current-cycle questions, or Student Affairs at 202-806-1663 / businessdean@howard.edu for School of Business-specific confirmation.",
+      "deadlineNote": "Updated Oct 9, 2026: re-searched specifically to resolve the standing Jan 28\u2013Mar 6 (collegereadyparent.org estimate) vs. Apr 6 (financialservices.howard.edu) discrepancy flagged in the Oct 7-8 logs. A fresh search again surfaced financialservices.howard.edu's own 'Donor Scholarship Application' page directly (not just a secondhand citation this time): it states the 2026-2027 Donor Scholarship Application is open for continuing Howard University students only (new students are explicitly excluded), submitted via the Blackbaud/AcademicWorks portal at howard.academicworks.com, with a deadline of April 6, 2026 (now closed) and the note 'completing one application considers you for multiple donor scholarships for which you may qualify' \u2014 i.e. a single central application likely feeds both general financial-aid-office funds and individual School of Business endowed funds, which resolves the ambiguity: treat Apr 6 as the authoritative annual pattern and the Jan28\u2013Mar6 aggregator figure as superseded/incorrect. Apr 6, 2027 is the best estimate for the 2027-2028 cycle. business.howard.edu itself remains blocked from direct fetch every session; contact sfs@howard.edu (Office of Financial Aid) for current-cycle questions, or Student Affairs at 202-806-1663 / businessdean@howard.edu for School of Business-specific confirmation.",
       "applyUrl": "https://business.howard.edu/office-student-affairs/endowed-scholarships",
       "category": "howard-hbcu"
     },
@@ -83,14 +83,14 @@
         "Essay on how your education will drive positive impact, plus a file showcasing a recent project"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update. Most recent cycle's deadline was April 5, 2026 (already closed, winners announced May 5, 2026). As a donor-funded Bold.org award, it's unclear whether it recurs on a fixed annual schedule — check bold.org/scholarships/maverick-scholarship/ periodically for a reopened cycle (bold.org couldn't be fetched directly this session due to network access restrictions).",
+      "deadlineNote": "New for this update. Most recent cycle's deadline was April 5, 2026 (already closed, winners announced May 5, 2026). As a donor-funded Bold.org award, it's unclear whether it recurs on a fixed annual schedule \u2014 check bold.org/scholarships/maverick-scholarship/ periodically for a reopened cycle (bold.org couldn't be fetched directly this session due to network access restrictions).",
       "applyUrl": "https://bold.org/scholarships/maverick-scholarship/",
       "category": "howard-hbcu"
     },
     {
       "id": "pg-hbcyou",
       "organization": "Procter & Gamble HBCYOU Scholarship Program (via UNCF)",
-      "description": "P&G-funded, UNCF-administered need-based award of up to $2,500 for full-time undergraduates at any accredited four-year HBCU in the U.S. — eligibility is tied to HBCU status generally, not UNCF member-school status, so Howard qualifies even though it isn't a UNCF member school. Open to all class years including sophomores.",
+      "description": "P&G-funded, UNCF-administered need-based award of up to $2,500 for full-time undergraduates at any accredited four-year HBCU in the U.S. \u2014 eligibility is tied to HBCU status generally, not UNCF member-school status, so Howard qualifies even though it isn't a UNCF member school. Open to all class years including sophomores.",
       "requirements": [
         "Full-time undergraduate at any U.S. accredited four-year HBCU (Howard qualifies)",
         "Minimum 3.0 cumulative GPA",
@@ -99,14 +99,14 @@
         "Apply through the UNCF online application portal"
       ],
       "deadline": "2026-12-15",
-      "deadlineNote": "New for this update. The 2025-2026 cycle deadline was Dec 15, 2025 at 5:00pm ET, and the program has run on this same Dec 15 date across the last several cycles — Dec 15, 2026 is a confident estimate for the next cycle, but confirm on the UNCF portal once it opens (uncf.org direct access blocked this session; found via UNCF-hosted program pages and aggregator listings).",
+      "deadlineNote": "New for this update. The 2025-2026 cycle deadline was Dec 15, 2025 at 5:00pm ET, and the program has run on this same Dec 15 date across the last several cycles \u2014 Dec 15, 2026 is a confident estimate for the next cycle, but confirm on the UNCF portal once it opens (uncf.org direct access blocked this session; found via UNCF-hosted program pages and aggregator listings).",
       "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
       "category": "howard-hbcu"
     },
     {
       "id": "pg-general-scholarship",
       "organization": "Procter & Gamble General Scholarship (via UNCF)",
-      "description": "A $5,000 UNCF-administered award for undergraduates pursuing business, IT, or public-relations degrees — finance is explicitly a named eligible major. Open to all class years (freshman through senior/5th-year), a direct match for Mason's major even though it isn't HBCU-restricted.",
+      "description": "A $5,000 UNCF-administered award for undergraduates pursuing business, IT, or public-relations degrees \u2014 finance is explicitly a named eligible major. Open to all class years (freshman through senior/5th-year), a direct match for Mason's major even though it isn't HBCU-restricted.",
       "requirements": [
         "Undergraduate pursuing a bachelor's degree in business, IT, or public relations (finance qualifies)",
         "Minimum 3.0 GPA",
@@ -115,29 +115,29 @@
         "Apply through the UNCF online application portal"
       ],
       "deadline": "2027-01-15",
-      "deadlineNote": "Updated Oct 5, 2026: the 2025-2026 cycle is now independently confirmed by BigFuture/College Board as opening Dec 4, 2025 and closing Jan 15, 2026 (already closed) — this supersedes the previously conflicting Feb 9–Mar 9 and April 25, 2024 reports with a single, more authoritative source. Jan 15, 2027 is set as a best estimate for the next cycle based on this confirmed annual pattern. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
+      "deadlineNote": "Updated Oct 5, 2026: the 2025-2026 cycle is now independently confirmed by BigFuture/College Board as opening Dec 4, 2025 and closing Jan 15, 2026 (already closed) \u2014 this supersedes the previously conflicting Feb 9\u2013Mar 9 and April 25, 2024 reports with a single, more authoritative source. Jan 15, 2027 is set as a best estimate for the next cycle based on this confirmed annual pattern. Confirm the live window directly at scholarships.uncf.org (blocked from direct fetch this session).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "finance-major"
     },
     {
       "id": "naba-national",
       "organization": "NABA National Scholarship Program (National Association of Black Accountants)",
-      "description": "NABA's foundation funds 150+ scholarships a year ($2,500–$10,000) for Black/minority undergraduates in accounting, finance, or business — one of the best-matched programs for Mason's major.",
+      "description": "NABA's foundation funds 150+ scholarships a year ($2,500\u2013$10,000) for Black/minority undergraduates in accounting, finance, or business \u2014 one of the best-matched programs for Mason's major.",
       "requirements": [
         "Ethnic minority undergraduate business major (finance qualifies)",
         "Paid NABA member for the current fiscal year",
-        "Overall GPA of 3.3+ (3.5 for accounting majors) — Mason's 3.7 clears this",
+        "Overall GPA of 3.3+ (3.5 for accounting majors) \u2014 Mason's 3.7 clears this",
         "Full-time enrollment (12+ semester hours), freshman through first-year senior",
         "Selection weighs academic achievement, leadership, service, and engagement with NABA"
       ],
       "deadline": "2027-02-26",
-      "deadlineNote": "Updated Oct 2026: a fifth search (collegexpress, unigo, bigfuture aggregators) again converged on the same Jan 15–Feb 26 window first surfaced Oct 1, 2026 — now the most consistently repeated of the four candidate windows found across sessions (vs. single mentions of Mar 15, late June, and Dec 31). Set to Feb 26, 2027 as a best estimate for the next cycle on that basis, but nabainc.org and my.nabainc.org remain blocked from direct fetch every session without exception — verify directly on nabainc.org/scholarships/ before relying on this date. Renew NABA student membership — required before applying — well ahead of time regardless.",
+      "deadlineNote": "Updated Oct 2026: a fifth search (collegexpress, unigo, bigfuture aggregators) again converged on the same Jan 15\u2013Feb 26 window first surfaced Oct 1, 2026 \u2014 now the most consistently repeated of the four candidate windows found across sessions (vs. single mentions of Mar 15, late June, and Dec 31). Set to Feb 26, 2027 as a best estimate for the next cycle on that basis, but nabainc.org and my.nabainc.org remain blocked from direct fetch every session without exception \u2014 verify directly on nabainc.org/scholarships/ before relying on this date. Renew NABA student membership \u2014 required before applying \u2014 well ahead of time regardless.",
       "applyUrl": "https://nabainc.org/scholarships/",
       "category": "black-finance"
     },
     {
       "id": "cbcf-spouses",
-      "organization": "Congressional Black Caucus Foundation — CBC Spouses Education Scholarship",
+      "organization": "Congressional Black Caucus Foundation \u2014 CBC Spouses Education Scholarship",
       "description": "CBCF's flagship undergraduate award for academically talented Black/African American students. Howard/DC sits in a CBC member's district (Rep. Eleanor Holmes Norton), which likely satisfies the district-residency requirement.",
       "requirements": [
         "U.S. citizen or legal permanent resident",
@@ -148,14 +148,14 @@
         "2-part online application, 3-minute video statement, 1 recommendation letter, transcript, resume"
       ],
       "deadline": "2027-03-27",
-      "deadlineNote": "2027 cycle deadline found via search aggregators as March 27, 2027, matching the recurring Jan–Mar window (2026 cycle ran Jan 5–Mar 27, 2026). CBCF's own site (cbcfinc.org) could not be directly verified this session due to network access restrictions — double-check there closer to the date.",
+      "deadlineNote": "2027 cycle deadline found via search aggregators as March 27, 2027, matching the recurring Jan\u2013Mar window (2026 cycle ran Jan 5\u2013Mar 27, 2026). CBCF's own site (cbcfinc.org) could not be directly verified this session due to network access restrictions \u2014 double-check there closer to the date.",
       "applyUrl": "https://www.cbcfinc.org/programs/scholarships/",
       "category": "black-finance"
     },
     {
       "id": "nbmbaa",
       "organization": "National Black MBA Association (NBMBAA) Scholarship Program",
-      "description": "Funds undergraduate and MBA scholarships ($1,000–$10,000) for Black students in business fields. Likely requires junior standing, so this is a bookmark for Mason's 2027-28 junior year rather than right now.",
+      "description": "Funds undergraduate and MBA scholarships ($1,000\u2013$10,000) for Black students in business fields. Likely requires junior standing, so this is a bookmark for Mason's 2027-28 junior year rather than right now.",
       "requirements": [
         "Paid NBMBAA membership",
         "College junior, senior, or MBA student (rising sophomores likely not yet eligible)",
@@ -164,14 +164,14 @@
         "Community service/leadership involvement"
       ],
       "deadline": null,
-      "deadlineNote": "Not yet eligible as a rising sophomore — revisit for junior year; 2026 deadline was May 29. Checked again this round: some individual NBMBAA chapters (e.g., Atlanta, Los Angeles) run their own undergraduate scholarships that do accept college sophomores, but those are geographically tied to their chapter regions, which Mason has no connection to — not added. Worth revisiting if a NJ/DC-area NBMBAA chapter turns out to run a similar local program.",
+      "deadlineNote": "Not yet eligible as a rising sophomore \u2014 revisit for junior year; 2026 deadline was May 29. Checked again this round: some individual NBMBAA chapters (e.g., Atlanta, Los Angeles) run their own undergraduate scholarships that do accept college sophomores, but those are geographically tied to their chapter regions, which Mason has no connection to \u2014 not added. Worth revisiting if a NJ/DC-area NBMBAA chapter turns out to run a similar local program.",
       "applyUrl": "https://nbmbaa.org/colleges-scholarships/",
       "category": "black-finance"
     },
     {
       "id": "lecount-davis-cfp",
-      "organization": "LeCount R. Davis, CFP® Endowed Scholarship (CFP Board Center for Financial Planning)",
-      "description": "A scholarship specifically for Black/African American students pursuing CFP® certification. Requires enrollment in a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track before applying.",
+      "organization": "LeCount R. Davis, CFP\u00ae Endowed Scholarship (CFP Board Center for Financial Planning)",
+      "description": "A scholarship specifically for Black/African American students pursuing CFP\u00ae certification. Requires enrollment in a CFP Board Registered Program \u2014 confirm whether Howard's finance curriculum has this track before applying.",
       "requirements": [
         "Self-identifies as Black or African American",
         "Enrolled in (or seeking) a CFP Board Registered Program",
@@ -179,17 +179,17 @@
         "Committed to pursuing CFP certification and a financial planning career"
       ],
       "deadline": null,
-      "deadlineNote": "2026 cycle notified award decisions by email on June 5, 2026, implying an application window earlier in spring 2026; 2027 cycle dates not yet published. Still contingent on Mason enrolling in (or Howard offering) a CFP Board Registered Program — confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
+      "deadlineNote": "2026 cycle notified award decisions by email on June 5, 2026, implying an application window earlier in spring 2026; 2027 cycle dates not yet published. Still contingent on Mason enrolling in (or Howard offering) a CFP Board Registered Program \u2014 confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
       "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/lecount-davis-scholarship",
       "category": "black-finance"
     },
     {
       "id": "goldman-scholars-cfp",
       "organization": "The Goldman Scholars (CFP Board Center for Financial Planning)",
-      "description": "A CFP Board program funded by a $500,000 gift from Charles and Judy Goldman, selecting one senior and four juniors each year from groups underrepresented in financial planning (by gender, race/ethnicity, disability, sexual orientation, or veteran status) and/or with demonstrated financial need, pursuing CFP certification through a CFP Board Registered Program. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year.",
+      "description": "A CFP Board program funded by a $500,000 gift from Charles and Judy Goldman, selecting one senior and four juniors each year from groups underrepresented in financial planning (by gender, race/ethnicity, disability, sexual orientation, or veteran status) and/or with demonstrated financial need, pursuing CFP certification through a CFP Board Registered Program. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore \u2014 tracked as a bookmark for his 2027-2028 junior year.",
       "requirements": [
-        "College junior or senior in good academic standing — not yet open to sophomores",
-        "Enrolled in (or seeking) a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track",
+        "College junior or senior in good academic standing \u2014 not yet open to sophomores",
+        "Enrolled in (or seeking) a CFP Board Registered Program \u2014 confirm whether Howard's finance curriculum has this track",
         "From a population underrepresented in financial planning (gender, race/ethnicity, disability, sexual orientation, veteran status) and/or demonstrated financial need",
         "U.S. citizen or permanent resident; not a prior CFP Board Center for Financial Planning scholarship recipient",
         "Up to $5,625/year, paid to the student's school"
@@ -205,19 +205,19 @@
       "description": "A CFP Board scholarship for students from populations underrepresented in the financial planning profession (including by race/ethnicity) who are enrolled in a CFP Board Registered Program, offering up to $10,000 for undergraduate-level candidates. Runs in parallel to the already-tracked LeCount R. Davis Scholarship but isn't restricted to Black/African American applicants specifically.",
       "requirements": [
         "From a population underrepresented in financial planning (by gender, race/ethnicity, disability, or sexual orientation)",
-        "Enrolled in (or committed to enroll within 3 months of winning) a CFP Board Registered Program — confirm whether Howard's finance curriculum has this track",
+        "Enrolled in (or committed to enroll within 3 months of winning) a CFP Board Registered Program \u2014 confirm whether Howard's finance curriculum has this track",
         "U.S. citizen or permanent resident; not in final semester at time of application",
         "Not a prior recipient of a CFP Board Center for Financial Planning scholarship"
       ],
       "deadline": "2027-09-30",
-      "deadlineNote": "New for this update. The 2026 cycle's deadline was Sept 30, 2026 (closed just before this review); Sept 30, 2027 is an estimate for the next cycle based on that recurring annual date. Still contingent, like the LeCount R. Davis scholarship, on Mason enrolling in (or Howard offering) a CFP Board Registered Program — confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
+      "deadlineNote": "New for this update. The 2026 cycle's deadline was Sept 30, 2026 (closed just before this review); Sept 30, 2027 is an estimate for the next cycle based on that recurring annual date. Still contingent, like the LeCount R. Davis scholarship, on Mason enrolling in (or Howard offering) a CFP Board Registered Program \u2014 confirm with Howard's finance department before investing time. cfp.net could not be directly verified this session due to network access restrictions.",
       "applyUrl": "https://www.cfp.net/cfp-board-center-for-financial-planning/get-involved/ways-to-give/scholarships/aspiriant-impact-scholarship",
       "category": "black-finance"
     },
     {
       "id": "schwab-ria-talent-advantage",
-      "organization": "Charles Schwab Advisor Services — RIA Talent Advantage (RIATA) Student Scholarship",
-      "description": "A national scholarship from Schwab Advisor Services and the Charles Schwab Foundation supporting students interested in a financial-advising/wealth-management career, open to freshmen, sophomores, and juniors at any accredited four-year institution with no CFP-program requirement. 2026 recipients received $15,000 each, and about half of awards go to students from underrepresented groups — a clean, nationally-open match for Mason's major and class year with none of the CFP Board Registered Program ambiguity attached to the other CFP-adjacent entries tracked here.",
+      "organization": "Charles Schwab Advisor Services \u2014 RIA Talent Advantage (RIATA) Student Scholarship",
+      "description": "A national scholarship from Schwab Advisor Services and the Charles Schwab Foundation supporting students interested in a financial-advising/wealth-management career, open to freshmen, sophomores, and juniors at any accredited four-year institution with no CFP-program requirement. 2026 recipients received $15,000 each, and about half of awards go to students from underrepresented groups \u2014 a clean, nationally-open match for Mason's major and class year with none of the CFP Board Registered Program ambiguity attached to the other CFP-adjacent entries tracked here.",
       "requirements": [
         "Freshman, sophomore, or junior in good standing at an accredited four-year college or university (Mason qualifies as a rising sophomore)",
         "Interest in pursuing a career as a financial advisor or in wealth management",
@@ -226,7 +226,7 @@
         "One-time, non-renewable award ($15,000 for the 2026 cohort of 15 recipients)"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 14, 2026). The 2026 cycle opened March 3, 2026 and closed May 4, 2026 (already closed); the 15 recipients were announced August 13, 2026. No 2027 dates are published yet — based on the recurring March-May window, expect the next cycle to open around March 2027. Recheck advisorservices.schwab.com/riata-student-scholarship starting early 2027.",
+      "deadlineNote": "New for this update (found Oct 14, 2026). The 2026 cycle opened March 3, 2026 and closed May 4, 2026 (already closed); the 15 recipients were announced August 13, 2026. No 2027 dates are published yet \u2014 based on the recurring March-May window, expect the next cycle to open around March 2027. Recheck advisorservices.schwab.com/riata-student-scholarship starting early 2027.",
       "applyUrl": "https://advisorservices.schwab.com/riata-student-scholarship",
       "category": "finance-major"
     },
@@ -241,14 +241,14 @@
         "Competitive application: resume, interviews, assessments"
       ],
       "deadline": null,
-      "deadlineNote": "Confirmed rolling, year-round admissions — no fixed deadline. Apply directly at career.seo-usa.org; earlier is better since cohorts fill on a rolling basis.",
+      "deadlineNote": "Confirmed rolling, year-round admissions \u2014 no fixed deadline. Apply directly at career.seo-usa.org; earlier is better since cohorts fill on a rolling basis.",
       "applyUrl": "https://www.seo-usa.org/our-programs/",
       "category": "black-finance"
     },
     {
       "id": "inroads",
       "organization": "INROADS Internship Program",
-      "description": "A paid internship (not a scholarship) placing Black, Hispanic, and Native American college students into corporate roles, with many finance/business placements — a useful funding complement now that Mason is internship-eligible as a rising sophomore.",
+      "description": "A paid internship (not a scholarship) placing Black, Hispanic, and Native American college students into corporate roles, with many finance/business placements \u2014 a useful funding complement now that Mason is internship-eligible as a rising sophomore.",
       "requirements": [
         "Full-time undergraduate with at least one summer remaining before graduation",
         "Minimum cumulative GPA of 2.8",
@@ -257,40 +257,40 @@
         "Completion of INROADS Interview Guidance and Preparation Session (IGPS)"
       ],
       "deadline": "2027-03-31",
-      "deadlineNote": "Corrected Oct 25, 2026: the prior Nov 1/Mar 1 fall-and-spring-cycle claim does not match INROADS' own current internship FAQ, which multiple sources (students.inroads.org, inroads.org/internships-program/faqs/) quote directly: \"INROADS accepts applications year round. However, for priority consideration, students should complete the application and all required steps by March 31st to compete for the upcoming summer.\" Updated to reflect March 31 (next occurrence: March 31, 2027, for Summer 2027 placement) as the correct priority date, with rolling admissions continuing afterward. inroads.org remains blocked from direct fetch this session (DNS failure) — corroborated instead via WebSearch AI-summarized quotes from the official FAQ page.",
+      "deadlineNote": "Corrected Oct 25, 2026: the prior Nov 1/Mar 1 fall-and-spring-cycle claim does not match INROADS' own current internship FAQ, which multiple sources (students.inroads.org, inroads.org/internships-program/faqs/) quote directly: \"INROADS accepts applications year round. However, for priority consideration, students should complete the application and all required steps by March 31st to compete for the upcoming summer.\" Updated to reflect March 31 (next occurrence: March 31, 2027, for Summer 2027 placement) as the correct priority date, with rolling admissions continuing afterward. inroads.org remains blocked from direct fetch this session (DNS failure) \u2014 corroborated instead via WebSearch AI-summarized quotes from the official FAQ page.",
       "applyUrl": "https://inroads.org/apply/",
       "category": "black-finance"
     },
     {
       "id": "100-black-men",
-      "organization": "100 Black Men of America — National Scholarship Program",
-      "description": "Awards of $1,000–$5,000 for full-time college undergraduates. Eligibility appears restricted to 100 Black Men mentees, Collegiate 100® members, or program affiliates — worth connecting with a local NJ chapter to qualify.",
+      "organization": "100 Black Men of America \u2014 National Scholarship Program",
+      "description": "Awards of $1,000\u2013$5,000 for full-time college undergraduates. Eligibility appears restricted to 100 Black Men mentees, Collegiate 100\u00ae members, or program affiliates \u2014 worth connecting with a local NJ chapter to qualify.",
       "requirements": [
         "100 Black Men mentee, Collegiate 100 member, or affiliate",
         "Full-time college undergraduate",
         "Minimum 2.5 GPA"
       ],
       "deadline": null,
-      "deadlineNote": "National program historically reopens each January with a deadline the following February (the 2025-26 cycle followed this pattern); exact 2026-27 dates not yet published. Award access is chapter-gated — Mason would need to affiliate with a local 100 Black Men chapter or Collegiate 100 chapter (check chapters near his NJ hometown) before applying.",
+      "deadlineNote": "National program historically reopens each January with a deadline the following February (the 2025-26 cycle followed this pattern); exact 2026-27 dates not yet published. Award access is chapter-gated \u2014 Mason would need to affiliate with a local 100 Black Men chapter or Collegiate 100 chapter (check chapters near his NJ hometown) before applying.",
       "applyUrl": "https://100blackmen.org/four-for-the-future/education/national-scholarship-program/",
       "category": "black-finance"
     },
     {
       "id": "huac-nj",
       "organization": "Howard University Alumni Club of New Jersey (HUAC-NJ)",
-      "description": "The Howard alumni club serving New Jersey runs mentorship and scholarship efforts for Bison students — a natural, high-affinity fit given Mason is both an NJ resident and a Howard student.",
+      "description": "The Howard alumni club serving New Jersey runs mentorship and scholarship efforts for Bison students \u2014 a natural, high-affinity fit given Mason is both an NJ resident and a Howard student.",
       "requirements": [
         "Likely NJ residency and/or Howard enrollment",
-        "Specific criteria not published — contact the club directly"
+        "Specific criteria not published \u2014 contact the club directly"
       ],
       "deadline": null,
-      "deadlineNote": "Unknown — reach out to the club directly for current opportunities. No new information found this round; still worth a direct outreach attempt.",
+      "deadlineNote": "Unknown \u2014 reach out to the club directly for current opportunities. No new information found this round; still worth a direct outreach attempt.",
       "applyUrl": "https://www.facebook.com/HUACNJ/",
       "category": "nj-resident"
     },
     {
       "id": "cfnj-universal",
-      "organization": "Community Foundation of New Jersey — Scholarship Universal Application",
+      "organization": "Community Foundation of New Jersey \u2014 Scholarship Universal Application",
       "description": "CFNJ administers roughly 140 separate scholarship funds for NJ students through one universal application; some funds support business/finance-track or continuing (non-senior) students.",
       "requirements": [
         "Typically requires NJ residency or NJ high school graduation",
@@ -298,23 +298,23 @@
         "Some funds are renewable/open to continuing college students"
       ],
       "deadline": null,
-      "deadlineNote": "Varies by fund — CFNJ's universal application portal typically opens each spring for the coming award cycle. No specific 2027 dates were published as of Sept 2026 (cfnj.org could not be directly verified this session due to network access restrictions) — recheck cfnj.org/find-scholarships/ in early 2027.",
+      "deadlineNote": "Varies by fund \u2014 CFNJ's universal application portal typically opens each spring for the coming award cycle. No specific 2027 dates were published as of Sept 2026 (cfnj.org could not be directly verified this session due to network access restrictions) \u2014 recheck cfnj.org/find-scholarships/ in early 2027.",
       "applyUrl": "https://cfnj.org/find-scholarships/",
       "category": "nj-resident"
     },
     {
       "id": "central-nj-mensa-scholarship",
       "organization": "Central New Jersey Scholarship (Mensa Education and Research Foundation)",
-      "description": "A $600 scholarship for New Jersey residents demonstrating exceptional leadership, open to undergraduates in any major. Despite the Mensa sponsor, Mensa membership is not required to apply — confirmed via the Mensa Foundation's own scholarship FAQ.",
+      "description": "A $600 scholarship for New Jersey residents demonstrating exceptional leadership, open to undergraduates in any major. Despite the Mensa sponsor, Mensa membership is not required to apply \u2014 confirmed via the Mensa Foundation's own scholarship FAQ.",
       "requirements": [
         "New Jersey resident",
-        "Undergraduate (or high school senior) seeking a certificate, associate, or bachelor's degree — no major restriction",
+        "Undergraduate (or high school senior) seeking a certificate, associate, or bachelor's degree \u2014 no major restriction",
         "U.S. citizen or permanent resident",
         "Demonstrated leadership via extracurricular activities, work, or community involvement",
         "Essay required; Mensa membership NOT required"
       ],
       "deadline": "2027-01-15",
-      "deadlineNote": "New for this update. The 2025-2026 cycle ran Sept 15, 2025 – Jan 15, 2026 (already closed); Jan 15, 2027 is an estimate for the next cycle based on that recurring annual window. Apply via the Mensa Foundation's scholarship portal (bigfuture.collegeboard.org listing or mensafoundation.org) once the next cycle opens.",
+      "deadlineNote": "New for this update. The 2025-2026 cycle ran Sept 15, 2025 \u2013 Jan 15, 2026 (already closed); Jan 15, 2027 is an estimate for the next cycle based on that recurring annual window. Apply via the Mensa Foundation's scholarship portal (bigfuture.collegeboard.org listing or mensafoundation.org) once the next cycle opens.",
       "applyUrl": "https://www.mensafoundation.org/what-we-do/scholarships/",
       "category": "nj-resident"
     },
@@ -325,7 +325,7 @@
       "requirements": [
         "Financial services student or professional",
         "Demonstrated engagement raising awareness of financial planning in diverse communities, or expanding opportunities for underrepresented groups in the field",
-        "GPA/class-year requirements not detailed — verify on FPA's site"
+        "GPA/class-year requirements not detailed \u2014 verify on FPA's site"
       ],
       "deadline": null,
       "deadlineNote": "No new deadline information found this round; recent recognitions occurred in September, suggesting a mid-year cycle. Confirm current dates directly on financialplanningassociation.org.",
@@ -335,56 +335,56 @@
     {
       "id": "cfa-institute",
       "organization": "CFA Institute Student Scholarship",
-      "description": "Not a cash scholarship, but a significant CFA Program exam fee reduction (from roughly $1,200+ down to $600) for university students — useful to know about now for when Mason eventually pursues the CFA charter.",
+      "description": "Not a cash scholarship, but a significant CFA Program exam fee reduction (from roughly $1,200+ down to $600) for university students \u2014 useful to know about now for when Mason eventually pursues the CFA charter.",
       "requirements": [
         "Current full-time or part-time university student",
         "Must meet CFA Program enrollment requirements",
         "Not currently registered for a CFA exam, not awaiting results"
       ],
       "deadline": "2027-07-15",
-      "deadlineNote": "Confirmed: the Student Scholarship application window opens Sept 1, 2026 and closes July 15, 2027 (long open window, apply anytime before then). A separate, need-based Access Scholarship runs quarterly windows tied to each exam sitting (e.g., the Aug 2027 exam window opens Nov 3, 2026 and closes Nov 23, 2026) — check cfainstitute.org for whichever fits when Mason is ready to sit for Level I.",
+      "deadlineNote": "Confirmed: the Student Scholarship application window opens Sept 1, 2026 and closes July 15, 2027 (long open window, apply anytime before then). A separate, need-based Access Scholarship runs quarterly windows tied to each exam sitting (e.g., the Aug 2027 exam window opens Nov 3, 2026 and closes Nov 23, 2026) \u2014 check cfainstitute.org for whichever fits when Mason is ready to sit for Level I.",
       "applyUrl": "https://www.cfainstitute.org/programs/cfa-program/scholarships/student",
       "category": "finance-major"
     },
     {
       "id": "horatio-alger",
       "organization": "Horatio Alger National Scholarship",
-      "description": "A large, well-established scholarship ($25,000 awards) for students demonstrating financial need and resilience. Eligibility for currently-enrolled sophomores versus only incoming freshmen is ambiguous in published materials — verify directly before applying.",
+      "description": "A large, well-established scholarship ($25,000 awards) for students demonstrating financial need and resilience. Eligibility for currently-enrolled sophomores versus only incoming freshmen is ambiguous in published materials \u2014 verify directly before applying.",
       "requirements": [
-        "Household AGI roughly $55,000–$65,000 or lower (varies by source)",
+        "Household AGI roughly $55,000\u2013$65,000 or lower (varies by source)",
         "Minimum 2.0 GPA",
         "U.S. citizen",
         "Co-curricular/community service involvement, demonstrated integrity and perseverance",
-        "Verify whether continuing college sophomores qualify — some tracks may be HS-senior-entry only"
+        "Verify whether continuing college sophomores qualify \u2014 some tracks may be HS-senior-entry only"
       ],
       "deadline": null,
-      "deadlineNote": "Re-checked this round: the main National Scholarship's continuing-sophomore eligibility remains unconfirmed (materials still read as HS-junior/senior entry, Dec 1–Mar 1 window). A separate Horatio Alger Career & Technical Scholarship does explicitly list \"College Sophomore\" as eligible, but it's restricted to certificate/trade/associate-degree career-technical programs, not four-year business/finance bachelor's degrees — confirmed not a fit for Mason and not added separately. Contact horatioalger.org directly to ask whether the main National Scholarship has any continuing-student track.",
+      "deadlineNote": "Re-checked this round: the main National Scholarship's continuing-sophomore eligibility remains unconfirmed (materials still read as HS-junior/senior entry, Dec 1\u2013Mar 1 window). A separate Horatio Alger Career & Technical Scholarship does explicitly list \"College Sophomore\" as eligible, but it's restricted to certificate/trade/associate-degree career-technical programs, not four-year business/finance bachelor's degrees \u2014 confirmed not a fit for Mason and not added separately. Contact horatioalger.org directly to ask whether the main National Scholarship has any continuing-student track.",
       "applyUrl": "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
       "category": "general"
     },
     {
       "id": "scholarships360-no-essay",
       "organization": "Scholarships360 $10,000 No-Essay Scholarship",
-      "description": "Easy-entry scholarship open to any student, no essay required, with rolling monthly winners — low odds but zero-cost and takes minutes to enter.",
+      "description": "Easy-entry scholarship open to any student, no essay required, with rolling monthly winners \u2014 low odds but zero-cost and takes minutes to enter.",
       "requirements": [
         "Any U.S. student",
         "No essay, no GPA minimum specified"
       ],
       "deadline": null,
-      "deadlineNote": "Updated Oct 13, 2026: corrected a stale status — Scholarships360's own pages confirm the final application date for the 2026 cycle was June 30, 2026 (already closed, winner announced by July 31, 2026), not still-rolling as the prior note assumed. It is also not a pure no-essay award in practice: finalists are interviewed about how they fund their education. No 2027-cycle dates were found yet — recheck scholarships360.org for the next cycle's schedule.",
+      "deadlineNote": "Updated Oct 13, 2026: corrected a stale status \u2014 Scholarships360's own pages confirm the final application date for the 2026 cycle was June 30, 2026 (already closed, winner announced by July 31, 2026), not still-rolling as the prior note assumed. It is also not a pure no-essay award in practice: finalists are interviewed about how they fund their education. No 2027-cycle dates were found yet \u2014 recheck scholarships360.org for the next cycle's schedule.",
       "applyUrl": "https://scholarships360.org/scholarships/no-essay-scholarships/",
       "category": "general"
     },
     {
       "id": "sallie-sophomore",
       "organization": "Sallie Monthly Scholarship for College Sophomores",
-      "description": "A $2,000 monthly scholarship specifically open to college sophomores — directly matches Mason's current class year, no essay or profile required beyond simple entry.",
+      "description": "A $2,000 monthly scholarship specifically open to college sophomores \u2014 directly matches Mason's current class year, no essay or profile required beyond simple entry.",
       "requirements": [
         "Enrolled college sophomore",
         "No essay required"
       ],
       "deadline": null,
-      "deadlineNote": "Confirmed active as of Sept 2026; the current program cycle runs through 12/31/2026 with monthly drawings. Apply anytime at sallie.com — takes only a couple of minutes.",
+      "deadlineNote": "Confirmed active as of Sept 2026; the current program cycle runs through 12/31/2026 with monthly drawings. Apply anytime at sallie.com \u2014 takes only a couple of minutes.",
       "applyUrl": "https://www.sallie.com/scholarships/states/new-jersey",
       "category": "general"
     },
@@ -416,7 +416,7 @@
         "Must first apply to a current Summer Analyst opening via Morgan Stanley's Students & Graduates page; scholarship application follows from that"
       ],
       "deadline": null,
-      "deadlineNote": "Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date — sources cite differing round deadlines across tracks. Resolved Oct 4, 2026: the prior session's \"current juniors only\" caution is not supported — five independent sources (Baruch, CampusReel, Scholarships.com, Fastweb, Petersons) all confirm sophomore-or-junior standing is eligible, so Mason should qualify as a rising sophomore. One specific matching track, the 2027 Investment Management Sophomore Summer Analyst Program (Private Credit & Equity, for Dec 2028–June 2029 grads — Mason's class year), had an application deadline of Sept 25, 2026, which has just passed as of this update; watch for an equivalent sophomore-track posting to reopen for the 2027-2028 recruiting cycle (typically similar divisions re-post in later summer/fall). Must first apply to an open Summer Analyst position via morganstanley.com/people-opportunities/students-graduates; the Fisher Scholarship application follows from that.",
+      "deadlineNote": "Tied to Morgan Stanley's rolling Summer Analyst recruiting windows rather than one fixed date \u2014 sources cite differing round deadlines across tracks. Resolved Oct 4, 2026: the prior session's \"current juniors only\" caution is not supported \u2014 five independent sources (Baruch, CampusReel, Scholarships.com, Fastweb, Petersons) all confirm sophomore-or-junior standing is eligible, so Mason should qualify as a rising sophomore. One specific matching track, the 2027 Investment Management Sophomore Summer Analyst Program (Private Credit & Equity, for Dec 2028\u2013June 2029 grads \u2014 Mason's class year), had an application deadline of Sept 25, 2026, which has just passed as of this update; watch for an equivalent sophomore-track posting to reopen for the 2027-2028 recruiting cycle (typically similar divisions re-post in later summer/fall). Must first apply to an open Summer Analyst position via morganstanley.com/people-opportunities/students-graduates; the Fisher Scholarship application follows from that.",
       "applyUrl": "https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program",
       "category": "black-finance"
     },
@@ -460,7 +460,7 @@
         "No class-year restriction specified"
       ],
       "deadline": "2027-06-15",
-      "deadlineNote": "New for this update. The deadline has shifted year to year — Nov 9, 2024; June 2, 2025; June 15, 2026 — so June 15, 2027 is a best estimate based on the two most recent cycles both landing in June, not a confirmed date. Apply via bold.org; recheck thesocialchangefund.org/scfu-highlights/scfu-scholarship closer to the date.",
+      "deadlineNote": "New for this update. The deadline has shifted year to year \u2014 Nov 9, 2024; June 2, 2025; June 15, 2026 \u2014 so June 15, 2027 is a best estimate based on the two most recent cycles both landing in June, not a confirmed date. Apply via bold.org; recheck thesocialchangefund.org/scfu-highlights/scfu-scholarship closer to the date.",
       "applyUrl": "https://bold.org/scholarships/SCFU-scholarship-for-HBCU-business-students/",
       "category": "howard-hbcu"
     },
@@ -481,7 +481,7 @@
     {
       "id": "ritchie-jennings-acfe",
       "organization": "Ritchie-Jennings Memorial Scholarship Program (ACFE Foundation)",
-      "description": "The Association of Certified Fraud Examiners Foundation awards $2,000–$10,000 scholarships to students with a declared major or minor in accounting, business administration, finance, criminal justice, or a similar fraud-related discipline. Finance is explicitly a named eligible major, and sophomores in the second half of their sophomore year qualify, matching Mason's spring 2027 timing.",
+      "description": "The Association of Certified Fraud Examiners Foundation awards $2,000\u2013$10,000 scholarships to students with a declared major or minor in accounting, business administration, finance, criminal justice, or a similar fraud-related discipline. Finance is explicitly a named eligible major, and sophomores in the second half of their sophomore year qualify, matching Mason's spring 2027 timing.",
       "requirements": [
         "Declared major or minor in accounting, business administration, finance, criminal justice, or similar fraud-related discipline (finance qualifies)",
         "Enrolled full-time (9+ semester hours) at an accredited four-year college or university",
@@ -496,16 +496,16 @@
     {
       "id": "one-for-2-education-foundation",
       "organization": "1 for 2 Education Foundation Scholarship",
-      "description": "A scholarship covering tuition remaining after other aid, worth up to $25,000, open to full-time undergraduates with a minimum 3.5 GPA — Mason's 3.7 clears this comfortably. Recipients pledge to one day fund a comparable scholarship for two other people as a \"pay it forward\" condition.",
+      "description": "A scholarship covering tuition remaining after other aid, worth up to $25,000, open to full-time undergraduates with a minimum 3.5 GPA \u2014 Mason's 3.7 clears this comfortably. Recipients pledge to one day fund a comparable scholarship for two other people as a \"pay it forward\" condition.",
       "requirements": [
         "Full-time undergraduate at a U.S. four-year college or university",
-        "Minimum 3.5 GPA (some sources cite 3.7) — Mason's 3.7 qualifies either way",
+        "Minimum 3.5 GPA (some sources cite 3.7) \u2014 Mason's 3.7 qualifies either way",
         "Living in the U.S. (citizenship/permanent residency not required)",
         "Must maintain a 3.0+ GPA each semester to keep the award",
         "Pledge to fund a comparable scholarship for two unrelated people during one's lifetime"
       ],
       "deadline": "2027-02-01",
-      "deadlineNote": "New for this update. Applications typically open in December and close Feb 1 (or Feb 15/after 500 complete applications, whichever comes first) — Feb 1, 2027 reflects this recurring pattern, consistent across multiple aggregator sources. No major restriction, so Finance qualifies.",
+      "deadlineNote": "New for this update. Applications typically open in December and close Feb 1 (or Feb 15/after 500 complete applications, whichever comes first) \u2014 Feb 1, 2027 reflects this recurring pattern, consistent across multiple aggregator sources. No major restriction, so Finance qualifies.",
       "applyUrl": "https://www.1for2edu.com/scholarship/",
       "category": "general"
     },
@@ -533,7 +533,7 @@
         "No essay, one entry per person"
       ],
       "deadline": "2027-10-15",
-      "deadlineNote": "Updated Oct 16, 2026: the Oct 15, 2026 cycle deadline confirmed in the prior update has now passed (winner announcement expected ~Nov 15, 2026); no 2027-cycle application page was found yet. Oct 15, 2027 is a best estimate based on this being an annually recurring Niche scholarship under the same name — recheck niche.com/colleges/scholarships/ starting fall 2027 for the actual next-cycle page and deadline.",
+      "deadlineNote": "Updated Oct 16, 2026: the Oct 15, 2026 cycle deadline confirmed in the prior update has now passed (winner announcement expected ~Nov 15, 2026); no 2027-cycle application page was found yet. Oct 15, 2027 is a best estimate based on this being an annually recurring Niche scholarship under the same name \u2014 recheck niche.com/colleges/scholarships/ starting fall 2027 for the actual next-cycle page and deadline.",
       "applyUrl": "https://www.niche.com/colleges/scholarships/40k-no-essay-scholarship-2026/",
       "category": "general"
     },
@@ -563,18 +563,18 @@
         "No essay; one entry per person per monthly period"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update. Runs as a rolling monthly sweepstakes (the 2026 cycle runs January 1 – December 31, 2026, with separate monthly entry periods), so there's no single fixed deadline — enter any time at sofi.com/scholarship-giveaway/ and re-enter each month.",
+      "deadlineNote": "New for this update. Runs as a rolling monthly sweepstakes (the 2026 cycle runs January 1 \u2013 December 31, 2026, with separate monthly entry periods), so there's no single fixed deadline \u2014 enter any time at sofi.com/scholarship-giveaway/ and re-enter each month.",
       "applyUrl": "https://www.sofi.com/scholarship-giveaway/",
       "category": "general"
     },
     {
       "id": "jpmorgan-launching-leaders",
       "organization": "J.P. Morgan Launching Leaders Undergraduate Scholarship",
-      "description": "A scholarship of up to $15,000 paired with a guaranteed Summer Analyst internship placement (including Investment Banking, Sales & Trading, CIB Risk, and other CIB tracks) for Black, Hispanic, and Native American students. Distinct from the already-tracked JPMorganChase Fellowship (ABP) — this program is race-specific, pays considerably more, and explicitly covers Investment Banking.",
+      "description": "A scholarship of up to $15,000 paired with a guaranteed Summer Analyst internship placement (including Investment Banking, Sales & Trading, CIB Risk, and other CIB tracks) for Black, Hispanic, and Native American students. Distinct from the already-tracked JPMorganChase Fellowship (ABP) \u2014 this program is race-specific, pays considerably more, and explicitly covers Investment Banking.",
       "requirements": [
         "Black, Hispanic, or Native American identity",
         "Sophomore or junior standing, any major",
-        "Minimum 3.5 GPA — Mason's 3.7 qualifies",
+        "Minimum 3.5 GPA \u2014 Mason's 3.7 qualifies",
         "Interest in financial services; placement spans CIB Risk, Investment Banking, Investor Services, Public Finance, Research, Sales & Trading, or Treasury Services",
         "Apply via JPMorganChase's careers site during the fall recruiting window"
       ],
@@ -585,7 +585,7 @@
     },
     {
       "id": "rothschild-black-leaders",
-      "organization": "Rothschild & Co — Global Advisory Black Leaders Program",
+      "organization": "Rothschild & Co \u2014 Global Advisory Black Leaders Program",
       "description": "A four-month career-development program in New York for Black/African American college students interested in investment banking, including technical training, mentorship, networking, and a financial award. Explicitly names sophomores as an eligible class year, a direct match for Mason's current standing and finance interest.",
       "requirements": [
         "Black or African American identity",
@@ -595,14 +595,14 @@
         "Apply via Rothschild & Co's careers site"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 6, 2026). Prior cycle was branded \"US 2024/25 Global Advisory | Black Leaders Program\"; a specific 2026-2027 application window/deadline wasn't surfaced this round — check rothschildandco.com/en/careers directly for the current posting.",
+      "deadlineNote": "Re-checked Nov 3, 2026: no confirmed 2026-2027 Black Leaders Program posting or deadline found again this round. A related but distinct listing was found instead -- Rothschild & Co's \"US Global Advisory 2027 Sophomore Leadership Program\" (a general, not explicitly Black-specific, second-year immersion program) has a confirmed deadline of Nov 15, 2026, 11:55pm ET, open to undergraduates graduating no later than May 2029 (matches Mason's expected graduation). It's unclear from search results whether this general program has absorbed/replaced the Black Leaders Program or is a separate track running in parallel -- worth asking Rothschild's campus recruiting contact directly. Given the Nov 15 deadline is only 12 days out, Mason should check rothschildandco.com/careers immediately regardless of which track turns out to be the right fit.",
       "applyUrl": "https://rothschildandco.com/en/careers/gaus-202425-global-advisory-black-leaders-program",
       "category": "black-finance"
     },
     {
       "id": "naba-northern-nj-chapter",
       "organization": "NABA Northern New Jersey Chapter College Scholarship (National Association of Black Accountants)",
-      "description": "A chapter-level NABA scholarship for New Jersey residents studying accounting, finance, or business, open to NABA student members attending any college in any state — a direct geographic complement to the already-tracked NABA National Scholarship, using the same required membership. Up to $5,500, a strong match given Mason's NJ residency and finance major.",
+      "description": "A chapter-level NABA scholarship for New Jersey residents studying accounting, finance, or business, open to NABA student members attending any college in any state \u2014 a direct geographic complement to the already-tracked NABA National Scholarship, using the same required membership. Up to $5,500, a strong match given Mason's NJ residency and finance major.",
       "requirements": [
         "New Jersey resident",
         "Black or of African descent and a paid NABA member",
@@ -612,31 +612,31 @@
         "Essay required"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 7, 2026). Only one past-cycle data point was found (2024 cycle: opened Feb 19, 2024, closed Apr 19, 2024) via a BigFuture/College Board listing — not enough to confidently project a 2026-2027 date, so left as null rather than guessing. Renewing/holding NABA student membership (also needed for the National Scholarship) is a prerequisite either way. Contact the chapter directly at nabannj@gmail.com or check community.nabainc.org/northernnewjersey for the current cycle's dates; nabainc.org subdomains remain blocked from direct fetch this session.",
+      "deadlineNote": "New for this update (found Oct 7, 2026). Only one past-cycle data point was found (2024 cycle: opened Feb 19, 2024, closed Apr 19, 2024) via a BigFuture/College Board listing \u2014 not enough to confidently project a 2026-2027 date, so left as null rather than guessing. Renewing/holding NABA student membership (also needed for the National Scholarship) is a prerequisite either way. Contact the chapter directly at nabannj@gmail.com or check community.nabainc.org/northernnewjersey for the current cycle's dates; nabainc.org subdomains remain blocked from direct fetch this session.",
       "applyUrl": "https://community.nabainc.org/northernnewjersey/studentchapters",
       "category": "nj-resident"
     },
     {
       "id": "colgate-palmolive-inspire-our-future-commercial",
       "organization": "Colgate-Palmolive \"Inspire Our Future\" Commercial Scholarship",
-      "description": "A $10,000 scholarship for Black/African American college sophomores or juniors pursuing business, communications, finance, or marketing degrees, administered by Scholarship America. Finance is an explicitly named eligible major, and the program is open to any accredited four-year U.S. college — attendance at one of Colgate-Palmolive's 66 partner schools is only a stated preference, not a requirement, so Howard students without that affiliation can still apply.",
+      "description": "A $10,000 scholarship for Black/African American college sophomores or juniors pursuing business, communications, finance, or marketing degrees, administered by Scholarship America. Finance is an explicitly named eligible major, and the program is open to any accredited four-year U.S. college \u2014 attendance at one of Colgate-Palmolive's 66 partner schools is only a stated preference, not a requirement, so Howard students without that affiliation can still apply.",
       "requirements": [
         "Self-identifies as Black or African American",
         "Current college sophomore or junior (half of the program's 10 annual awards go to this 'Commercial' track; the other half go to a separate Supply Chain/Engineering track)",
         "Pursuing a bachelor's degree in business, communications, finance, or marketing (finance qualifies)",
-        "Minimum 2.80 GPA — Mason's 3.7 clears this comfortably",
+        "Minimum 2.80 GPA \u2014 Mason's 3.7 clears this comfortably",
         "U.S. resident, full-time enrollment at an accredited four-year college or university",
         "Application, transcript, resume, and recommendation/reference required"
       ],
       "deadline": "2027-04-03",
-      "deadlineNote": "New for this update (found Oct 7, 2026). The only confirmed cycle found ran Feb 1 – Apr 3, 2025 (closed); no 2026 cycle announcement or winner list was found in this round's searches, so Apr 3, 2027 is a rougher estimate than most tracked entries — based on a single prior cycle rather than a multi-year pattern. Verify at scholarshipamerica.org/scholarship/inspire-our-future-commercial-scholarship/ or colgatepalmolive.com once the next cycle is confirmed open (both blocked from direct fetch this session).",
+      "deadlineNote": "New for this update (found Oct 7, 2026). The only confirmed cycle found ran Feb 1 \u2013 Apr 3, 2025 (closed); no 2026 cycle announcement or winner list was found in this round's searches, so Apr 3, 2027 is a rougher estimate than most tracked entries \u2014 based on a single prior cycle rather than a multi-year pattern. Verify at scholarshipamerica.org/scholarship/inspire-our-future-commercial-scholarship/ or colgatepalmolive.com once the next cycle is confirmed open (both blocked from direct fetch this session).",
       "applyUrl": "https://scholarshipamerica.org/scholarship/inspire-our-future-commercial-scholarship/",
       "category": "black-finance"
     },
     {
       "id": "byron-michelle-johnson-scholarship",
       "organization": "Byron and Michelle Johnson Scholarship (via Bold.org)",
-      "description": "A donor-funded Bold.org scholarship for high school or undergraduate students at a Historically Black College or University who are underrepresented minorities from New Jersey or Pennsylvania — a direct match on both the HBCU and NJ-residency fronts for Mason. Requires an essay connecting NJ/PA life experience to career goals.",
+      "description": "A donor-funded Bold.org scholarship for high school or undergraduate students at a Historically Black College or University who are underrepresented minorities from New Jersey or Pennsylvania \u2014 a direct match on both the HBCU and NJ-residency fronts for Mason. Requires an essay connecting NJ/PA life experience to career goals.",
       "requirements": [
         "Enrolled at a Historically Black College or University (Howard qualifies)",
         "Underrepresented minority",
@@ -645,7 +645,7 @@
         "400-600 word essay on how living in NJ or PA shaped your views, relationships, and career goals"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 7, 2026). Only one cycle was found (deadline July 22, 2025, winners announced Aug 22, 2025) — not enough history to confirm an annual recurring pattern or project a 2026-2027 date, so left as null. Award amount wasn't surfaced in search results either. bold.org is blocked from direct fetch this session; check bold.org/scholarships/byron-and-michelle-johnson-scholarship/ periodically for a reopened cycle.",
+      "deadlineNote": "New for this update (found Oct 7, 2026). Only one cycle was found (deadline July 22, 2025, winners announced Aug 22, 2025) \u2014 not enough history to confirm an annual recurring pattern or project a 2026-2027 date, so left as null. Award amount wasn't surfaced in search results either. bold.org is blocked from direct fetch this session; check bold.org/scholarships/byron-and-michelle-johnson-scholarship/ periodically for a reopened cycle.",
       "applyUrl": "https://bold.org/scholarships/byron-and-michelle-johnson-scholarship/",
       "category": "nj-resident"
     },
@@ -657,7 +657,7 @@
         "Enrolled at Howard University in an eligible school (School of Business qualifies)",
         "First-year, rising sophomore, rising junior, or transfer student",
         "Renewable for up to four academic years if criteria are met",
-        "Specific GPA/need criteria and application process not yet published — contact Howard's Office of Financial Aid or School of Business directly"
+        "Specific GPA/need criteria and application process not yet published \u2014 contact Howard's Office of Financial Aid or School of Business directly"
       ],
       "deadline": null,
       "deadlineNote": "New for this update (found Oct 8, 2026). Announced via a Howard University news release (thedig.howard.edu) about Eli Lilly and Company's $1.1 million gift establishing the program; no application portal, deadline, or detailed eligibility criteria were surfaced in search results (thedig.howard.edu and business.howard.edu remain blocked from direct fetch this session, consistent with every prior session). Contact Howard's Office of Financial Aid (financialservices.howard.edu) or the School of Business's Office of Student Affairs to ask whether this is bundled into the general donor-scholarship application already tracked under 'howard-business-endowed' or is a separate process with its own deadline.",
@@ -676,14 +676,14 @@
         "Preference given to federal financial aid-eligible and first-generation college students"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 8, 2026). The 2026 cycle (opened ~Dec 1, 2025, closed Feb 9, 2026) already passed and targeted students graduating Dec 2027–June 2028 — one cohort ahead of Mason, who is expected to graduate around 2029 — so that specific cycle wasn't a fit even though its deadline only recently closed. Based on the recurring Dec–Feb annual pattern, the next cycle opening ~Dec 2026 should target the graduation window matching Mason's cohort; watch pimco.com/us/en/about-us/inclusion-diversity/future-leaders-scholarship and scholarshipamerica.org/pimco-future-leaders/ starting December 2026 to confirm eligibility and the exact deadline.",
+      "deadlineNote": "Re-checked Nov 3, 2026: PIMCO's own program page confirms the cycle that opened ~Dec 1, 2025 and closed Feb 9, 2026 targeted students graduating Dec 2027-June 2028 -- one cohort ahead of Mason, consistent with the prior finding. New this round: two independent Scholarships.com directory listings cite \"PIMCO Future Leaders Scholarship (Undergraduate) | $20,000 | January 15, 2027\" -- a different date than the Dec-Feb pattern seen in official PIMCO/Scholarship America sourcing, and it's unclear whether this reflects an official PIMCO-confirmed date for the next (Mason-matching) cohort or an aggregator error. Still left deadline null given the conflict, but Jan 15, 2027 is now a second candidate date worth checking directly against pimco.com and scholarshipamerica.org/pimco-future-leaders/ once the next cycle opens (expected ~Dec 2026).",
       "applyUrl": "https://scholarshipamerica.org/pimco-future-leaders/",
       "category": "finance-major"
     },
     {
       "id": "wellington-hbcu-scholars",
       "organization": "Wellington Management HBCU Scholars Program",
-      "description": "A major asset-management firm's scholarship for full-time HBCU students, offering up to a $15,000 renewable annual merit-based scholarship applied to junior- and senior-year tuition, plus paid summer internships and a housing stipend. Explicitly open to sophomores and juniors in business, finance, accounting, liberal arts, technology, or STEM majors — a strong match for Mason's school, class year, and major.",
+      "description": "A major asset-management firm's scholarship for full-time HBCU students, offering up to a $15,000 renewable annual merit-based scholarship applied to junior- and senior-year tuition, plus paid summer internships and a housing stipend. Explicitly open to sophomores and juniors in business, finance, accounting, liberal arts, technology, or STEM majors \u2014 a strong match for Mason's school, class year, and major.",
       "requirements": [
         "Full-time student at a Historically Black College or University (Howard qualifies)",
         "Sophomore or junior standing",
@@ -692,7 +692,7 @@
         "Paid summer internship component included"
       ],
       "deadline": null,
-      "deadlineNote": "Updated Oct 16, 2026: Wellington's own page (per search summary) still shows the 2025 window closed with 2026-opportunity details not yet posted, consistent with the stale-copy read from the Oct 12 review. A third-party guide (Extern, updated July 2026) separately projects the next HBCU-adjacent Wellington cycle opening ~September 2026 and closing late October 2026 — an unconfirmed projection, not an official date, and it contradicts itself on exact days across its own tables, plus it describes Wellington's general internship program rather than the HBCU Scholars Program specifically. If accurate, this window may already be closing within days of this review. No official current-cycle deadline found yet. Recommend emailing HBCUscholarship@wellington.com directly to confirm the live 2026-2027 window rather than relying on further search passes — wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null.",
+      "deadlineNote": "Updated Oct 16, 2026: Wellington's own page (per search summary) still shows the 2025 window closed with 2026-opportunity details not yet posted, consistent with the stale-copy read from the Oct 12 review. A third-party guide (Extern, updated July 2026) separately projects the next HBCU-adjacent Wellington cycle opening ~September 2026 and closing late October 2026 \u2014 an unconfirmed projection, not an official date, and it contradicts itself on exact days across its own tables, plus it describes Wellington's general internship program rather than the HBCU Scholars Program specifically. If accurate, this window may already be closing within days of this review. No official current-cycle deadline found yet. Recommend emailing HBCUscholarship@wellington.com directly to confirm the live 2026-2027 window rather than relying on further search passes \u2014 wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null.",
       "applyUrl": "https://www.wellington.com/en/hbcu-scholarship-program/",
       "category": "howard-hbcu"
     },
@@ -707,7 +707,7 @@
         "Competitive application; 20 Fellow positions in a recent cohort"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 9, 2026). Milken's own program page states students from HBCUs are invited to apply to the 2026-2027 Cohort, confirming it is actively recruiting right now, but no exact 2026-2027 deadline was found. The most recent dated reference (a prior cohort) listed an October 13 deadline, which — if the pattern holds — means this may close very soon; check milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship immediately rather than waiting for a future pass.",
+      "deadlineNote": "New for this update (found Oct 9, 2026). Milken's own program page states students from HBCUs are invited to apply to the 2026-2027 Cohort, confirming it is actively recruiting right now, but no exact 2026-2027 deadline was found. The most recent dated reference (a prior cohort) listed an October 13 deadline, which \u2014 if the pattern holds \u2014 means this may close very soon; check milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship immediately rather than waiting for a future pass.",
       "applyUrl": "https://milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship",
       "category": "howard-hbcu"
     },
@@ -722,7 +722,7 @@
         "Essay on career aspirations and how the scholarship would help"
       ],
       "deadline": "2026-12-15",
-      "deadlineNote": "New for this update (found Oct 9, 2026). The inaugural cycle's deadline was Dec 15, 2025 (winner announced Jan 15, 2026). Since the program only launched in 2025, Dec 15, 2026 is a single-cycle estimate for a second annual round rather than a confirmed multi-year pattern — verify at momentumadvisorsscholarship.com before relying on it.",
+      "deadlineNote": "New for this update (found Oct 9, 2026). The inaugural cycle's deadline was Dec 15, 2025 (winner announced Jan 15, 2026). Since the program only launched in 2025, Dec 15, 2026 is a single-cycle estimate for a second annual round rather than a confirmed multi-year pattern \u2014 verify at momentumadvisorsscholarship.com before relying on it.",
       "applyUrl": "https://momentumadvisorsscholarship.com",
       "category": "finance-major"
     },
@@ -733,26 +733,26 @@
       "requirements": [
         "Enrolled undergraduate at Howard University School of Business (Finance qualifies)",
         "Specific GPA/selection criteria not published in search results",
-        "No standalone application process was found — likely administered through Howard's general donor-scholarship application (see 'howard-business-endowed' entry)"
+        "No standalone application process was found \u2014 likely administered through Howard's general donor-scholarship application (see 'howard-business-endowed' entry)"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 9, 2026), via a Howard news article on the HPS/Kapnick gift rather than a scholarship-aggregator listing. No application portal, eligibility criteria, or deadline specific to this fund were found — thedig.howard.edu and business.howard.edu remain blocked from direct fetch every session. Likely routed through the same centralized Donor Scholarship Application (howard.academicworks.com) as other School of Business endowed funds — ask Howard's Office of Financial Aid (sfs@howard.edu) or the School of Business Office of Student Affairs (202-806-1663) whether this fund requires anything beyond that general application.",
+      "deadlineNote": "New for this update (found Oct 9, 2026), via a Howard news article on the HPS/Kapnick gift rather than a scholarship-aggregator listing. No application portal, eligibility criteria, or deadline specific to this fund were found \u2014 thedig.howard.edu and business.howard.edu remain blocked from direct fetch every session. Likely routed through the same centralized Donor Scholarship Application (howard.academicworks.com) as other School of Business endowed funds \u2014 ask Howard's Office of Financial Aid (sfs@howard.edu) or the School of Business Office of Student Affairs (202-806-1663) whether this fund requires anything beyond that general application.",
       "applyUrl": "https://thedig.howard.edu/all-stories/howard-university-announces-10-million-gift-hps-investment-partners-and-kapnick-foundation",
       "category": "howard-hbcu"
     },
     {
       "id": "alixpartners-uncf",
       "organization": "AlixPartners/UNCF Scholarship",
-      "description": "A UNCF-administered, need-based award (reported as $4,500–$5,000 depending on source) for African American/Black college juniors with a declared major in accounting, analytics, business, engineering, finance, math, or technology. Finance is explicitly a named eligible major, but the program is restricted to students who are current juniors in the academic year of application — Mason is a rising sophomore, so he is not yet eligible.",
+      "description": "A UNCF-administered, need-based award (reported as $4,500\u2013$5,000 depending on source) for African American/Black college juniors with a declared major in accounting, analytics, business, engineering, finance, math, or technology. Finance is explicitly a named eligible major, but the program is restricted to students who are current juniors in the academic year of application \u2014 Mason is a rising sophomore, so he is not yet eligible.",
       "requirements": [
         "Self-identifies as African American/Black",
-        "Current college junior (by class standing in the application year) — not yet open to sophomores",
+        "Current college junior (by class standing in the application year) \u2014 not yet open to sophomores",
         "Minimum 3.0 GPA",
         "Declared major in accounting, analytics, business, engineering, finance, math, or technology",
         "Demonstrated financial need; apply through the UNCF online application portal"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 11, 2026). The 2025-2026 cycle opened Mar 10, 2026 and closed Apr 14, 2026 (already closed, and restricted to students who were current juniors in the 2025-2026 academic year). Mason will be a rising sophomore through the 2026-2027 academic year and won't reach junior standing until Fall 2027, so the earliest cycle he could plausibly apply to is the one opening around March 2028 (when he'd be a current junior) — left deadline null rather than estimate that far out. Revisit in fall 2027. Confirm current eligibility and dates at opportunities.uncf.org (uncf.org direct access blocked this session, consistent with every prior session).",
+      "deadlineNote": "New for this update (found Oct 11, 2026). The 2025-2026 cycle opened Mar 10, 2026 and closed Apr 14, 2026 (already closed, and restricted to students who were current juniors in the 2025-2026 academic year). Mason will be a rising sophomore through the 2026-2027 academic year and won't reach junior standing until Fall 2027, so the earliest cycle he could plausibly apply to is the one opening around March 2028 (when he'd be a current junior) \u2014 left deadline null rather than estimate that far out. Revisit in fall 2027. Confirm current eligibility and dates at opportunities.uncf.org (uncf.org direct access blocked this session, consistent with every prior session).",
       "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
       "category": "black-finance"
     },
@@ -768,7 +768,7 @@
         "Application via Bold.org"
       ],
       "deadline": "2026-11-20",
-      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $1,000 award for one winner with an application deadline of Nov 20, 2026. No race or geographic restriction was found in the listed criteria. bold.org is blocked from direct fetch this session — verify full rules on the official page before applying.",
+      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $1,000 award for one winner with an application deadline of Nov 20, 2026. No race or geographic restriction was found in the listed criteria. bold.org is blocked from direct fetch this session \u2014 verify full rules on the official page before applying.",
       "applyUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
       "category": "howard-hbcu"
     },
@@ -785,7 +785,7 @@
         "Two-minute video application (no written essay) on how the applicant plans to use their education to change the world"
       ],
       "deadline": "2027-01-08",
-      "deadlineNote": "New for this update (found Oct 16, 2026). Confirmed via search summary of TMCF's own page: the 2026-2027 cycle (applications Sept 15, 2025 – Jan 16, 2026) already closed, but the next cycle, labeled 2027-2028, is open now (Aug 3, 2026 – Jan 8, 2027, 11:59pm EST). This is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal' — listed as its own entry here because it has a long, currently-open window and a confirmed deadline, unlike most other individual TMCF sponsor awards reviewed so far. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "deadlineNote": "New for this update (found Oct 16, 2026). Confirmed via search summary of TMCF's own page: the 2026-2027 cycle (applications Sept 15, 2025 \u2013 Jan 16, 2026) already closed, but the next cycle, labeled 2027-2028, is open now (Aug 3, 2026 \u2013 Jan 8, 2027, 11:59pm EST). This is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal' \u2014 listed as its own entry here because it has a long, currently-open window and a confirmed deadline, unlike most other individual TMCF sponsor awards reviewed so far. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session \u2014 confirm directly on the portal before applying.",
       "applyUrl": "https://tmcf.org/open-scholarships/",
       "category": "howard-hbcu"
     },
@@ -795,27 +795,27 @@
       "description": "A donor-funded Bold.org scholarship for BIPOC, first-generation college students who are New Jersey residents pursuing a four-year degree, judged on ambition, drive, and the challenges overcome. Matches Mason's NJ residency and 3.7 GPA, but is contingent on first-generation college student status, which hasn't been confirmed.",
       "requirements": [
         "BIPOC identity",
-        "First-generation college student (neither parent completed a 4-year degree) — confirm this applies to Mason before investing time",
+        "First-generation college student (neither parent completed a 4-year degree) \u2014 confirm this applies to Mason before investing time",
         "New Jersey resident",
         "Pursuing a four-year undergraduate degree",
-        "Minimum 3.5 GPA — Mason's 3.7 qualifies",
+        "Minimum 3.5 GPA \u2014 Mason's 3.7 qualifies",
         "Application via Bold.org describing challenges overcome and academic goals"
       ],
       "deadline": null,
-      "deadlineNote": "Updated Oct 24, 2026: the tracked Oct 23, 2026 deadline (winners announced Nov 24, 2026) has now passed. Only two historical cycle dates have been found across sessions — July 22, 2025 and Oct 23, 2026 — three months apart, not evidence of a clean annual pattern, so left as null rather than guess a next date. Recheck bold.org/scholarships/1st-gen-college-scholarship/ periodically for a reopened cycle. Still contingent on Mason being a first-generation college student (neither parent completed a 4-year degree) — confirm this before investing time either way. bold.org is blocked from direct fetch this session.",
+      "deadlineNote": "Updated Oct 24, 2026: the tracked Oct 23, 2026 deadline (winners announced Nov 24, 2026) has now passed. Only two historical cycle dates have been found across sessions \u2014 July 22, 2025 and Oct 23, 2026 \u2014 three months apart, not evidence of a clean annual pattern, so left as null rather than guess a next date. Recheck bold.org/scholarships/1st-gen-college-scholarship/ periodically for a reopened cycle. Still contingent on Mason being a first-generation college student (neither parent completed a 4-year degree) \u2014 confirm this before investing time either way. bold.org is blocked from direct fetch this session.",
       "applyUrl": "https://bold.org/scholarships/1st-gen-college-scholarship/",
       "category": "nj-resident"
     },
     {
       "id": "mlt-career-prep",
-      "organization": "Management Leadership for Tomorrow (MLT) — Career Prep Program, Financial Services Track",
-      "description": "A free, multi-year career-accelerator program pairing a virtual bootcamp with coaching, employer access, and recruiting support for college sophomores targeting finance careers. MLT recruits sophomores graduating Fall 2028–Summer 2029 for this cycle, which matches Mason's class year exactly, and the program historically serves Black, Latinx, and Native American students though MLT states it is open to all who meet its criteria.",
+      "organization": "Management Leadership for Tomorrow (MLT) \u2014 Career Prep Program, Financial Services Track",
+      "description": "A free, multi-year career-accelerator program pairing a virtual bootcamp with coaching, employer access, and recruiting support for college sophomores targeting finance careers. MLT recruits sophomores graduating Fall 2028\u2013Summer 2029 for this cycle, which matches Mason's class year exactly, and the program historically serves Black, Latinx, and Native American students though MLT states it is open to all who meet its criteria.",
       "requirements": [
         "Current college sophomore graduating Fall 2028, Spring 2029, or Summer 2029 (matches Mason's class year)",
         "Interest in a finance/financial-services career; open to all majors",
         "No fixed minimum GPA published, though a 3.0+ GPA is typical among competitive applicants",
         "U.S. citizen or permanent resident",
-        "Apply online for the Financial Services track at mlt.org — do not mail or email materials"
+        "Apply online for the Financial Services track at mlt.org \u2014 do not mail or email materials"
       ],
       "deadline": "2027-01-15",
       "deadlineNote": "Updated Oct 26, 2026: a Tufts University Career Services posting (June 2026) for the 2026-2027 recruiting season confirms applications are open now with a final deadline of January 15, 2027 across all tracks (including Financial Services), after the Financial Services-specific priority deadline of Aug 1, 2026 (guaranteeing a bootcamp spot) already passed. Jan 15, 2027 is therefore a real, sourced final-round deadline rather than an estimate, though apply as soon as possible since priority consideration has already closed. Apply directly at mlt.org/career-prep/apply-to-career-prep; contact cp-recruiting@mlt.org with questions.",
@@ -825,7 +825,7 @@
     {
       "id": "crum-forster-uncf-hbcu-business",
       "organization": "Crum & Forster Scholarship (via UNCF)",
-      "description": "A UNCF-administered, merit-based scholarship of up to $5,000 for business-related majors at any four-year accredited HBCU. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF and NBMBAA entries.",
+      "description": "A UNCF-administered, merit-based scholarship of up to $5,000 for business-related majors at any four-year accredited HBCU. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore \u2014 tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF and NBMBAA entries.",
       "requirements": [
         "Full-time undergraduate junior or senior (not yet open to sophomores)",
         "Enrolled at a four-year accredited HBCU (Howard qualifies)",
@@ -834,14 +834,14 @@
         "Apply through the UNCF online scholarship portal"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle's deadline was Feb 16, 2026 (already closed), per UNCF's own 'Scholarships for February' listing. A separate 2023 Crum & Forster/New Jersey City University internship-linked award is a distinct, non-HBCU-restricted program and not the same scholarship. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF bookmark. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle's deadline was Feb 16, 2026 (already closed), per UNCF's own 'Scholarships for February' listing. A separate 2023 Crum & Forster/New Jersey City University internship-linked award is a distinct, non-HBCU-restricted program and not the same scholarship. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out \u2014 revisit in fall 2027 alongside the AlixPartners/UNCF bookmark. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "howard-hbcu"
     },
     {
       "id": "uncf-element-fleet",
       "organization": "UNCF Element Fleet Scholarship",
-      "description": "A need- and merit-based UNCF award of up to $2,500 for juniors and seniors in a business-related major (marketing, finance, sales, or HR are all explicitly named), with preference given to students at four-year HBCUs. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year.",
+      "description": "A need- and merit-based UNCF award of up to $2,500 for juniors and seniors in a business-related major (marketing, finance, sales, or HR are all explicitly named), with preference given to students at four-year HBCUs. Restricted to juniors and seniors, so Mason isn't eligible yet as a rising sophomore \u2014 tracked as a bookmark for his 2027-2028 junior year.",
       "requirements": [
         "Full-time undergraduate junior or senior at an accredited four-year U.S. institution (not yet open to sophomores)",
         "Business-related major, including finance (explicitly named)",
@@ -850,7 +850,7 @@
         "Preference given to students at four-year HBCUs and to residents of, or students at schools in, Maryland, Minnesota, or Washington, D.C."
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle opened Feb 2, 2026 and closed Mar 3, 2026 (already closed), per a College Board BigFuture listing; other past cycles have closed as early as mid-December, so the annual window appears to vary year to year. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF and Crum & Forster bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "deadlineNote": "New for this update (found Oct 19, 2026). The 2025-2026 cycle opened Feb 2, 2026 and closed Mar 3, 2026 (already closed), per a College Board BigFuture listing; other past cycles have closed as early as mid-December, so the annual window appears to vary year to year. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out \u2014 revisit in fall 2027 alongside the AlixPartners/UNCF and Crum & Forster bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "finance-major"
     },
@@ -867,7 +867,7 @@
         "200-word essay on how you plan to use your education to change the world"
       ],
       "deadline": "2027-04-23",
-      "deadlineNote": "New for this update (found Oct 20, 2026). Confirmed via TMCF's own page and aggregator listings (The College Investor, Tuskegee, scholarships.delawarestudentsuccess.org): the 2027-2028 cycle application window runs Aug 3, 2026 through Apr 23, 2027, 11:59pm EST — currently open now. Like the already-tracked TMCF | Enterprise Access HBCU Scholarship, this is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal, called out as its own entry because it has a long, currently-open, confirmed window unlike most other individual TMCF sponsor awards. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "deadlineNote": "New for this update (found Oct 20, 2026). Confirmed via TMCF's own page and aggregator listings (The College Investor, Tuskegee, scholarships.delawarestudentsuccess.org): the 2027-2028 cycle application window runs Aug 3, 2026 through Apr 23, 2027, 11:59pm EST \u2014 currently open now. Like the already-tracked TMCF | Enterprise Access HBCU Scholarship, this is a separate, all-majors sponsor award within the broader TMCF Open Scholarships Portal, called out as its own entry because it has a long, currently-open, confirmed window unlike most other individual TMCF sponsor awards. tmcf.org itself remains blocked from direct fetch this session, consistent with every prior session \u2014 confirm directly on the portal before applying.",
       "applyUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
       "category": "howard-hbcu"
     },
@@ -891,28 +891,28 @@
     {
       "id": "uncf-metlife-legacy-endowed",
       "organization": "MetLife Foundation Legacy Endowed Scholarship (via UNCF)",
-      "description": "A UNCF-administered, need-based scholarship funded by a $1 million MetLife Foundation grant, open to college juniors at four-year HBCUs pursuing STEM, business, finance, or accounting degrees. Finance is explicitly a named eligible major and Howard qualifies as an HBCU, but the program is restricted to juniors, so Mason isn't eligible yet as a rising sophomore — tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet entries.",
+      "description": "A UNCF-administered, need-based scholarship funded by a $1 million MetLife Foundation grant, open to college juniors at four-year HBCUs pursuing STEM, business, finance, or accounting degrees. Finance is explicitly a named eligible major and Howard qualifies as an HBCU, but the program is restricted to juniors, so Mason isn't eligible yet as a rising sophomore \u2014 tracked as a bookmark for his 2027-2028 junior year, alongside the similarly-gated AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet entries.",
       "requirements": [
         "Full-time undergraduate junior (not yet open to sophomores) at a four-year HBCU (Howard qualifies)",
         "STEM, business, finance, or accounting major (finance qualifies)",
-        "Minimum GPA cited as 2.75-3.0 depending on source — Mason's 3.7 clears either",
+        "Minimum GPA cited as 2.75-3.0 depending on source \u2014 Mason's 3.7 clears either",
         "U.S. citizen or permanent resident; demonstrated unmet financial need per FAFSA",
         "Essay required; apply through the UNCF online scholarship portal"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 24, 2026). The 2025-2026 cycle ran roughly Oct 16-Nov 5, 2025 (sources disagree slightly, Nov 2 vs Nov 5 close); awards are approximately $7,300 each, renewable for senior year, for three cohorts of 20 students. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out — revisit in fall 2027 alongside the AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "deadlineNote": "New for this update (found Oct 24, 2026). The 2025-2026 cycle ran roughly Oct 16-Nov 5, 2025 (sources disagree slightly, Nov 2 vs Nov 5 close); awards are approximately $7,300 each, renewable for senior year, for three cohorts of 20 students. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out \u2014 revisit in fall 2027 alongside the AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "howard-hbcu"
     },
     {
       "id": "stout-diverse-emerging-leaders",
       "organization": "Stout Diverse Emerging Leaders Scholarship",
-      "description": "A $2,500 scholarship from Stout (a global investment banking and advisory firm) specifically for sophomore students from an underrepresented population pursuing a bachelor's degree in Finance, Economics, Accounting, or a business-related field — Mason's major, class year, and 3.7 GPA are a precise match for its stated criteria.",
+      "description": "A $2,500 scholarship from Stout (a global investment banking and advisory firm) specifically for sophomore students from an underrepresented population pursuing a bachelor's degree in Finance, Economics, Accounting, or a business-related field \u2014 Mason's major, class year, and 3.7 GPA are a precise match for its stated criteria.",
       "requirements": [
         "Current college sophomore (class-year-specific, unlike most other sophomore-eligible entries which also allow juniors/seniors)",
         "From an underrepresented population",
         "Pursuing a bachelor's degree in Finance, Economics, Accounting, or a business-related field (Finance qualifies directly)",
-        "Minimum 3.2 cumulative GPA — Mason's 3.7 clears this",
+        "Minimum 3.2 cumulative GPA \u2014 Mason's 3.7 clears this",
         "Five $2,500 awards given in recent cycles (2024 and 2025)"
       ],
       "deadline": null,
@@ -926,12 +926,12 @@
       "description": "Not a cash scholarship, but a paid, eight-week immersive internship in the automotive finance industry aimed at rising college sophomores or juniors, run as part of GM Financial's participation in the Congressional Bipartisan HBCU Caucus's HBCU Partnership Challenge. A close match for Mason's HBCU enrollment, finance interest, and exact class year.",
       "requirements": [
         "Rising sophomore or junior (\"still figuring out your future career path\")",
-        "HBCU Partnership Challenge focus — program originated with Prairie View A&M and UT Arlington, later cohorts included Texas Southern University students",
+        "HBCU Partnership Challenge focus \u2014 program originated with Prairie View A&M and UT Arlington, later cohorts included Texas Southern University students",
         "Paid, eight-week immersive job-shadowing experience in automotive finance",
         "Apply via GM Financial's careers site/university recruiting channels"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 25, 2026). Confirmed as a real, recurring program via GM Financial's own newsroom pages (gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html and its interview-series follow-up) describing the 2021 pilot launch and at least a third cohort by 2023. No 2026 or 2027 application window, deadline, or current HBCU-partner list was found in this round's searches — the program's continued operation into 2026-2027 is unconfirmed, not disproven. Check GM Financial's careers portal or contact its university recruiting team directly to confirm whether a current cycle is open; Howard isn't confirmed as one of the partner HBCUs, so also worth asking whether the program has expanded beyond its original partner schools.",
+      "deadlineNote": "Re-checked Nov 3, 2026: a Muse listing for a prior cycle confirms the program targets \"rising sophomores or juniors (graduating Spring 2028-Spring 2029) with no prior internship experience\" -- matches Mason's class year. Still no 2026-2027 application window, deadline, or confirmed Howard partnership found this round -- the program's HBCU partner list (originally Prairie View A&M and UT Arlington, later Texas Southern) still doesn't name Howard in any source found so far. No change to prior guidance: check GM Financial's careers portal directly and ask whether Howard has been added as a partner school.",
       "applyUrl": "https://gmfinancial.com/en-us/company/newsroom/sophomore-leadership-internship-program.html",
       "category": "howard-hbcu"
     },
@@ -947,61 +947,61 @@
         "Strong performers may be fast-tracked toward Citi's Summer Analyst recruiting process"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 26, 2026). The Fall 2026 cycle's postings on jobs.citi.com closed October 23, 2026 (just before this review), but Citi runs this as a recurring Fall-and-Spring program — a separate guide cites a Spring cycle opening around February. Left deadline null rather than guess the exact Spring 2027 open/close dates; watch jobs.citi.com/early-career-programs-pre-internships starting ~January/February 2027 for the next posting, and ask whether an HBCU Leadership track (seen in 2025 postings alongside Banking/Markets) is offered that cycle.",
+      "deadlineNote": "IMPORTANT UPDATE Nov 3, 2026: confirmed via current jobs.citi.com postings and an Extern guide that the Fall 2026 Early ID cohort -- the exact window Mason, as a current sophomore, would have been eligible for -- had an application deadline of October 23, 2026, which has now passed (11 days ago as of this update). This cycle was missed. Citi runs this program twice a year (Fall and Spring cohorts, Banking or Markets tracks, max two applications), so a Spring 2027 posting is expected to open around January-February 2027 per third-party guides -- not yet confirmed officially. Recommend Mason watch jobs.citi.com/early-career-programs-pre-internships starting January 2027 and apply immediately when the Spring posting opens, and ask about an HBCU Leadership affinity track (seen in 2025 postings) alongside Banking/Markets.",
       "applyUrl": "https://jobs.citi.com/early-career-programs-pre-internships",
       "category": "finance-major"
     },
     {
       "id": "tmcf-deloitte-foundation-accounting",
-      "organization": "TMCF | Deloitte Foundation Accounting Scholarship Program (Thurgood Marshall College Fund) — Cohort 5",
+      "organization": "TMCF | Deloitte Foundation Accounting Scholarship Program (Thurgood Marshall College Fund) \u2014 Cohort 5",
       "description": "A renewable (2026-2029) TMCF award funded by the Deloitte Foundation for full-time HBCU students in a business, finance, accounting, or economics major, with 71 scholars receiving $8,000 each for the 2026-2027 academic year. Explicitly open to freshmen and sophomores in 4-year programs (and juniors in 5-year programs), with finance named alongside accounting as an eligible major.",
       "requirements": [
         "Full-time undergraduate at a TMCF member HBCU (Howard qualifies)",
-        "Freshman or sophomore standing in a 4-year program, or junior in a 5-year program — matches Mason's current year",
+        "Freshman or sophomore standing in a 4-year program, or junior in a 5-year program \u2014 matches Mason's current year",
         "Declared or intended major in business, finance, accounting, or economics",
-        "Minimum 3.0 cumulative GPA (3.3+ preferred) — Mason's 3.7 clears this",
+        "Minimum 3.0 cumulative GPA (3.3+ preferred) \u2014 Mason's 3.7 clears this",
         "Renewable 2026-2029 if criteria are maintained; apply via the TMCF Open Scholarships Portal"
       ],
       "deadline": "2027-04-24",
-      "deadlineNote": "New for this update (found Oct 28, 2026). The 2026-2027 cycle (Cohort 5) ran March 9 – April 24, 2026 and has already closed, but TMCF has run this as an annual, numbered cohort program (Cohort 1 through Cohort 5 so far), so a Cohort 6 cycle opening around March 2027 and closing around April 24, 2027 is a reasonable estimate based on that pattern — not yet confirmed. This is a separate, named sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal', called out on its own because, unlike most individual sponsor awards reviewed so far, it explicitly admits freshmen/sophomores rather than requiring junior+ standing. tmcf.org remains blocked from direct fetch this session, consistent with every prior session — confirm directly on the portal before applying.",
+      "deadlineNote": "New for this update (found Oct 28, 2026). The 2026-2027 cycle (Cohort 5) ran March 9 \u2013 April 24, 2026 and has already closed, but TMCF has run this as an annual, numbered cohort program (Cohort 1 through Cohort 5 so far), so a Cohort 6 cycle opening around March 2027 and closing around April 24, 2027 is a reasonable estimate based on that pattern \u2014 not yet confirmed. This is a separate, named sponsor award within the broader TMCF Open Scholarships Portal already tracked under 'tmcf-open-portal', called out on its own because, unlike most individual sponsor awards reviewed so far, it explicitly admits freshmen/sophomores rather than requiring junior+ standing. tmcf.org remains blocked from direct fetch this session, consistent with every prior session \u2014 confirm directly on the portal before applying.",
       "applyUrl": "https://tmcf.org/open-scholarships/",
       "category": "howard-hbcu"
     },
     {
       "id": "northwestern-mutual-annual-business-scholarship",
       "organization": "Northwestern Mutual Annual Business Scholarship",
-      "description": "A national scholarship (amount varies, commonly cited around $2,500) for undergraduates majoring in business, finance, accounting, marketing, management, information technology, or economics, open to students who will be juniors or seniors. No race, geography, or HBCU restriction — a bookmark for Mason's rising-junior year rather than right now.",
+      "description": "A national scholarship (amount varies, commonly cited around $2,500) for undergraduates majoring in business, finance, accounting, marketing, management, information technology, or economics, open to students who will be juniors or seniors. No race, geography, or HBCU restriction \u2014 a bookmark for Mason's rising-junior year rather than right now.",
       "requirements": [
         "Will be a junior or senior in the fall semester (not yet open to sophomores)",
         "Majoring in business, finance, accounting, marketing, management, information technology, or economics (finance qualifies)",
-        "Preference given to a GPA of 3.0 or higher — Mason's 3.7 clears this",
+        "Preference given to a GPA of 3.0 or higher \u2014 Mason's 3.7 clears this",
         "Apply via scholarship-aggregator listings tied to Northwestern Mutual (e.g., Peterson's, Scholarship America/Scholly) once the next cycle opens"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 28, 2026). Aggregator listings (Peterson's, Sallie/Scholly) cite a recurring deadline around early September each year (Sept 5, 2026 for the cycle that just closed), but neither is an official Northwestern Mutual page, so left as null rather than guessing a specific 2027 date. Mason won't reach junior standing until Fall 2027 anyway — revisit then alongside the other junior-year bookmarks (AlixPartners/UNCF, Crum & Forster/UNCF, UNCF Element Fleet, UNCF MetLife Legacy, NBMBAA).",
+      "deadlineNote": "New for this update (found Oct 28, 2026). Aggregator listings (Peterson's, Sallie/Scholly) cite a recurring deadline around early September each year (Sept 5, 2026 for the cycle that just closed), but neither is an official Northwestern Mutual page, so left as null rather than guessing a specific 2027 date. Mason won't reach junior standing until Fall 2027 anyway \u2014 revisit then alongside the other junior-year bookmarks (AlixPartners/UNCF, Crum & Forster/UNCF, UNCF Element Fleet, UNCF MetLife Legacy, NBMBAA).",
       "applyUrl": "https://www.sallie.com/scholarships/scholly/northwestern-mutual-annual-business-scholarship",
       "category": "finance-major"
     },
     {
       "id": "altfinance-fellowship",
       "organization": "AltFinance Fellowship (Management Leadership for Tomorrow, with Howard as a founding-partner HBCU)",
-      "description": "A need-based fellowship (not a loan) built to pipeline Black students into alternative-investment careers (private equity, credit, real assets), run by MLT with Howard University as one of four founding-partner HBCUs (alongside Morehouse, Spelman, and Clark Atlanta). The program centers on the sophomore and junior years and provides need-based funding each year a fellow stays in the program, historically up to $10,000 for sophomores — a direct, Howard-specific match for Mason's exact class year.",
+      "description": "A need-based fellowship (not a loan) built to pipeline Black students into alternative-investment careers (private equity, credit, real assets), run by MLT with Howard University as one of four founding-partner HBCUs (alongside Morehouse, Spelman, and Clark Atlanta). The program centers on the sophomore and junior years and provides need-based funding each year a fellow stays in the program, historically up to $10,000 for sophomores \u2014 a direct, Howard-specific match for Mason's exact class year.",
       "requirements": [
         "Enrolled at a founding-partner HBCU (Howard, Morehouse, Spelman, or Clark Atlanta)",
-        "Sophomore or junior standing — the fellowship is structured around these two years",
+        "Sophomore or junior standing \u2014 the fellowship is structured around these two years",
         "U.S. citizen, permanent resident, or DACA recipient",
         "Need-based funding renewed each year retained in the program",
         "Apply via MLT's AltFinance Fellowship application"
       ],
       "deadline": "2027-04-15",
-      "deadlineNote": "New for this update (found Oct 29, 2026). The 2026-2027 cycle's application deadline was April 15, 2026 (already closed; decisions by May 31, 2026) — confirmed via a third-party-hosted application form rather than AltFinance's or MLT's own page directly, so treat with appropriate caution. April 15, 2027 is a single-cycle estimate for the next round, not yet a confirmed multi-year pattern. Award figures cited here (up to $10,000 for sophomores) are from 2022-2023 reporting and may have changed. Apply via mlt.org/altfinancefellowship or contact fellowship@altfinance.com to confirm the next cycle's exact dates and current terms.",
+      "deadlineNote": "New for this update (found Oct 29, 2026). The 2026-2027 cycle's application deadline was April 15, 2026 (already closed; decisions by May 31, 2026) \u2014 confirmed via a third-party-hosted application form rather than AltFinance's or MLT's own page directly, so treat with appropriate caution. April 15, 2027 is a single-cycle estimate for the next round, not yet a confirmed multi-year pattern. Award figures cited here (up to $10,000 for sophomores) are from 2022-2023 reporting and may have changed. Apply via mlt.org/altfinancefellowship or contact fellowship@altfinance.com to confirm the next cycle's exact dates and current terms.",
       "applyUrl": "https://mlt.org/altfinancefellowship",
       "category": "howard-hbcu"
     },
     {
       "id": "evercore-diversity-scholarship",
       "organization": "Evercore Rising Junior Diversity Scholarship",
-      "description": "A $15,000 scholarship from Evercore (an independent investment bank) paired with a Summer Analyst investment-banking internship offer, aimed at current sophomores from backgrounds underrepresented in finance (Black, Hispanic/Latinx, Native American, female, veteran, and/or LGBTQ+). Confirmed as a recurring program on Evercore's own careers page, with applications opening each spring — a strong fit for Mason's class year, major interest, and background, though it is gated behind completing Evercore's interview process and securing an internship offer.",
+      "description": "A $15,000 scholarship from Evercore (an independent investment bank) paired with a Summer Analyst investment-banking internship offer, aimed at current sophomores from backgrounds underrepresented in finance (Black, Hispanic/Latinx, Native American, female, veteran, and/or LGBTQ+). Confirmed as a recurring program on Evercore's own careers page, with applications opening each spring \u2014 a strong fit for Mason's class year, major interest, and background, though it is gated behind completing Evercore's interview process and securing an internship offer.",
       "requirements": [
         "Current college sophomore at the time of application",
         "From a background underrepresented in investment banking (Black, Hispanic/Latinx, Native American, female, veteran, and/or LGBTQ+)",
@@ -1009,37 +1009,37 @@
         "Resume, cover letter, and short essay (e.g., on a banking transaction or market trend) typically required"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 29, 2026). Evercore's own careers page confirms it runs a diversity scholarship application each spring alongside undergraduate diversity events, but no 2026-2027-specific deadline was found this round — the most recently confirmed cycle (2023) opened March 1 with a March 16 target date. Left null rather than guess; watch evercore.com/careers starting ~February 2027 for the next posting. Like the already-tracked Morgan Stanley Fisher and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst internship offer, not a standalone cash-award application.",
+      "deadlineNote": "New for this update (found Oct 29, 2026). Evercore's own careers page confirms it runs a diversity scholarship application each spring alongside undergraduate diversity events, but no 2026-2027-specific deadline was found this round \u2014 the most recently confirmed cycle (2023) opened March 1 with a March 16 target date. Left null rather than guess; watch evercore.com/careers starting ~February 2027 for the next posting. Like the already-tracked Morgan Stanley Fisher and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst internship offer, not a standalone cash-award application.",
       "applyUrl": "https://www.evercore.com/?p=300",
       "category": "black-finance"
     },
     {
       "id": "edward-dorsey-audrey-dorsey-scholarship",
       "organization": "Edward Dorsey, Jr. and Audrey Dorsey Memorial Scholarship (via Bold.org)",
-      "description": "A donor-funded Bold.org scholarship created specifically to help a Black student pursue an education in business and/or finance — a direct, narrowly-matched fit for Mason's major and background, though it's a small, single-winner award. The only confirmed cycle closed its application window in August 2025, so recurrence isn't yet established.",
+      "description": "A donor-funded Bold.org scholarship created specifically to help a Black student pursue an education in business and/or finance \u2014 a direct, narrowly-matched fit for Mason's major and background, though it's a small, single-winner award. The only confirmed cycle closed its application window in August 2025, so recurrence isn't yet established.",
       "requirements": [
         "Self-identifies as Black or African American",
         "Pursuing a degree in business administration or finance (Finance qualifies directly)",
-        "Minimum GPA cited inconsistently as 2.7-2.75 on the scholarship's own page — Mason's 3.7 clears either",
+        "Minimum GPA cited inconsistently as 2.7-2.75 on the scholarship's own page \u2014 Mason's 3.7 clears either",
         "Application via Bold.org"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 30, 2026). The only confirmed cycle's deadline was Aug 29, 2025 (winners announced Sept 29, 2025) — a single data point, not enough to confirm an annual recurring pattern, so left as null rather than guess a 2026 or 2027 date. The donor profile on Bold.org indicates the scholarship has already been awarded for that cycle. bold.org itself is blocked from direct fetch this session, consistent with every prior session — check bold.org/scholarships/edward-dorsey-jr-memorial-scholarship/ periodically for a reopened cycle.",
+      "deadlineNote": "New for this update (found Oct 30, 2026). The only confirmed cycle's deadline was Aug 29, 2025 (winners announced Sept 29, 2025) \u2014 a single data point, not enough to confirm an annual recurring pattern, so left as null rather than guess a 2026 or 2027 date. The donor profile on Bold.org indicates the scholarship has already been awarded for that cycle. bold.org itself is blocked from direct fetch this session, consistent with every prior session \u2014 check bold.org/scholarships/edward-dorsey-jr-memorial-scholarship/ periodically for a reopened cycle.",
       "applyUrl": "https://bold.org/scholarships/edward-dorsey-jr-memorial-scholarship/",
       "category": "black-finance"
     },
     {
       "id": "raymond-james-supernova-scholars",
-      "organization": "Raymond James × Supernova Scholars Program",
-      "description": "Not a cash scholarship alone, but a combined scholarship, mentorship, and paid summer internship program for HBCU students, built by the nonprofit Supernova Scholars in partnership with Raymond James, aimed at building careers in financial services. Participants can pipeline into Raymond James's Advisory Mastery Program (AMP), a 24-month training track for new financial advisors — a strong structural fit for Mason's HBCU enrollment and finance interest, though class-year eligibility, award amount, and application deadline weren't confirmed this round.",
+      "organization": "Raymond James \u00d7 Supernova Scholars Program",
+      "description": "Not a cash scholarship alone, but a combined scholarship, mentorship, and paid summer internship program for HBCU students, built by the nonprofit Supernova Scholars in partnership with Raymond James, aimed at building careers in financial services. Participants can pipeline into Raymond James's Advisory Mastery Program (AMP), a 24-month training track for new financial advisors \u2014 a strong structural fit for Mason's HBCU enrollment and finance interest, though class-year eligibility, award amount, and application deadline weren't confirmed this round.",
       "requirements": [
         "Enrolled at a Historically Black College or University (Howard qualifies)",
         "Interest in a financial-services/financial-advising career",
         "Program includes mentorship, a summer internship, soft-skills training, and a yearly stipend tied to grades and program rules",
-        "Specific class-year, GPA, and deadline criteria not published in search results — confirm directly with the program"
+        "Specific class-year, GPA, and deadline criteria not published in search results \u2014 confirm directly with the program"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 30, 2026). Confirmed as real via Raymond James's own careers page (raymondjames.com) announcing the partnership, and Supernova Scholars' own homepage (supernovascholars.org) describing the program structure — but neither page surfaced a specific class-year requirement, award amount, or application deadline in this round's searches. Both sites are blocked from direct fetch this session (network access restrictions) — contact Supernova Scholars directly or check supernovascholars.org and raymondjames.com/careers/all-access/our-firm/raymond-james-announces-a-partnership-with-supernova for current application details.",
+      "deadlineNote": "New for this update (found Oct 30, 2026). Confirmed as real via Raymond James's own careers page (raymondjames.com) announcing the partnership, and Supernova Scholars' own homepage (supernovascholars.org) describing the program structure \u2014 but neither page surfaced a specific class-year requirement, award amount, or application deadline in this round's searches. Both sites are blocked from direct fetch this session (network access restrictions) \u2014 contact Supernova Scholars directly or check supernovascholars.org and raymondjames.com/careers/all-access/our-firm/raymond-james-announces-a-partnership-with-supernova for current application details.",
       "applyUrl": "https://supernovascholars.org/",
       "category": "howard-hbcu"
     },
@@ -1077,10 +1077,10 @@
     {
       "id": "donald-katz-cnjm-scholarship",
       "organization": "Donald Katz-CNJM Scholarship (Central New Jersey Mensa chapter, via Mensa Education and Research Foundation)",
-      "description": "A need-based scholarship for Central New Jersey residents, open to high school seniors and current undergraduates (college sophomores explicitly included) in any major, administered by the Central New Jersey Mensa chapter. Distinct from the already-tracked Central New Jersey Scholarship — a separate, smaller Mensa Foundation fund — and Mensa membership is not required to apply.",
+      "description": "A need-based scholarship for Central New Jersey residents, open to high school seniors and current undergraduates (college sophomores explicitly included) in any major, administered by the Central New Jersey Mensa chapter. Distinct from the already-tracked Central New Jersey Scholarship \u2014 a separate, smaller Mensa Foundation fund \u2014 and Mensa membership is not required to apply.",
       "requirements": [
         "Resident of Central New Jersey",
-        "High school senior, undergraduate, or graduate student pursuing a certificate, associate, bachelor's, or graduate degree — no major restriction; College Sophomore explicitly listed as an eligible level",
+        "High school senior, undergraduate, or graduate student pursuing a certificate, associate, bachelor's, or graduate degree \u2014 no major restriction; College Sophomore explicitly listed as an eligible level",
         "U.S. citizen or permanent resident",
         "Not merit-based; need-based criteria apply",
         "Essay required; Mensa membership NOT required"
@@ -1093,11 +1093,11 @@
     {
       "id": "cme-group-foundation-scholars",
       "organization": "CME Group Foundation Scholars Program (via Scholarship America)",
-      "description": "A renewable scholarship of up to $20,000 for undergraduates studying finance or computer science, paired with a mandatory one-day market-education program at CME Group in Chicago. Historically targeted Black and Latinx students in finance-related majors (a direct fit for Mason's major), though Scholarship America's current program page describes eligibility as first-generation, low-income students in finance or computer science — confirm which criteria govern the next open cycle before investing time.",
+      "description": "A renewable scholarship of up to $20,000 for undergraduates studying finance or computer science, paired with a mandatory one-day market-education program at CME Group in Chicago. Historically targeted Black and Latinx students in finance-related majors (a direct fit for Mason's major), though Scholarship America's current program page describes eligibility as first-generation, low-income students in finance or computer science \u2014 confirm which criteria govern the next open cycle before investing time.",
       "requirements": [
         "Undergraduate sophomore, junior, or senior (historically; confirm current class-year rules once reopened)",
         "Finance major (computer science also eligible)",
-        "Current Scholarship America page cites first-generation, low-income background; past cycles targeted Black and Latinx students specifically — verify which criteria apply to the next cycle",
+        "Current Scholarship America page cites first-generation, low-income background; past cycles targeted Black and Latinx students specifically \u2014 verify which criteria apply to the next cycle",
         "Willing to attend a mandatory one-day market-education program at CME Group in Chicago (typically August)",
         "Apply through the Scholarship America Student Hub once the application reopens"
       ],
@@ -1108,18 +1108,34 @@
     },
     {
       "id": "bofa-gbam-scholarship-of-distinction",
-      "organization": "Bank of America — Global Banking & Markets (GBAM) Scholarship of Distinction",
-      "description": "A scholarship recognizing top campus talent from groups historically underrepresented in financial services, paying up to $15,000 directly to the recipient's school for tuition and academic expenses. The award is unlocked only after securing an offer through one of Bank of America's Global Banking & Markets Summer Analyst Programs (Investment Banking, Global Markets Sales & Trading, or Global Capital Markets), which run sophomore-specific tracks alongside the standard junior/rising-senior ones — a similar structure to the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships.",
+      "organization": "Bank of America \u2014 Global Banking & Markets (GBAM) Scholarship of Distinction",
+      "description": "A scholarship recognizing top campus talent from groups historically underrepresented in financial services, paying up to $15,000 directly to the recipient's school for tuition and academic expenses. The award is unlocked only after securing an offer through one of Bank of America's Global Banking & Markets Summer Analyst Programs (Investment Banking, Global Markets Sales & Trading, or Global Capital Markets), which run sophomore-specific tracks alongside the standard junior/rising-senior ones \u2014 a similar structure to the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships.",
       "requirements": [
         "From a group historically underrepresented in financial services; Bank of America states all eligible students are encouraged to apply regardless of background",
-        "Must first secure an offer through a Bank of America Global Banking & Markets Summer Analyst Program — sophomore-specific tracks exist in Investment Banking, Global Markets Sales & Trading, and Global Capital Markets",
+        "Must first secure an offer through a Bank of America Global Banking & Markets Summer Analyst Program \u2014 sophomore-specific tracks exist in Investment Banking, Global Markets Sales & Trading, and Global Capital Markets",
         "Scholarship application (resume plus short written responses) follows only after receiving a Summer Analyst offer",
         "Award paid directly to the recipient's school toward tuition and academic expenses"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Nov 2, 2026). Confirmed real via Bank of America's own campus careers site (careers.bankofamerica.com) and corroborated by third-party recruiting aggregators describing the scholarship's purpose, $15,000 award, and summer-analyst-offer requirement, though the only dated scholarship-application reference found (Aug 15, 2023, tied to 2024 Summer Analyst Programs) is stale. BofA's sophomore Summer Analyst postings for Global Markets and Investment Banking have historically opened in the fall with closes the following summer (e.g., a 2023 Global Capital Markets sophomore posting closed July 2023) — no 2026-2027 posting was found yet. Like the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst offer first, not a standalone cash-award application. Watch careers.bankofamerica.com/en-us/students starting ~fall 2026 for the current sophomore Summer Analyst postings.",
+      "deadlineNote": "New for this update (found Nov 2, 2026). Confirmed real via Bank of America's own campus careers site (careers.bankofamerica.com) and corroborated by third-party recruiting aggregators describing the scholarship's purpose, $15,000 award, and summer-analyst-offer requirement, though the only dated scholarship-application reference found (Aug 15, 2023, tied to 2024 Summer Analyst Programs) is stale. BofA's sophomore Summer Analyst postings for Global Markets and Investment Banking have historically opened in the fall with closes the following summer (e.g., a 2023 Global Capital Markets sophomore posting closed July 2023) \u2014 no 2026-2027 posting was found yet. Like the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst offer first, not a standalone cash-award application. Watch careers.bankofamerica.com/en-us/students starting ~fall 2026 for the current sophomore Summer Analyst postings.",
       "applyUrl": "https://careers.bankofamerica.com/en-us/students",
       "category": "black-finance"
+    },
+    {
+      "id": "jpmorgan-chase-wealth-management-hbcu-scholarship",
+      "organization": "J.P. Morgan Wealth Management HBCU Scholarship Program (via UNCF)",
+      "description": "A UNCF-administered scholarship and summer educational program from J.P. Morgan Wealth Management specifically for African American rising sophomores at a defined list of partner HBCUs, built to pipeline students into financial-advisor careers. Howard University was explicitly named among the 17 eligible HBCUs as of the program's 2022 expansion -- a confirmed, direct match for Mason's school, race, and exact class year, though the program's original five-year (2021-2025) funding commitment means a 2026-2027 cohort is not yet confirmed to exist.",
+      "requirements": [
+        "African American/Black identity",
+        "Rising sophomore standing at the time of application",
+        "Enrolled at one of the program's partner HBCUs (Howard University confirmed on the 2022 eligible-school list)",
+        "Interest in financial planning/wealth management as a career path",
+        "Apply through UNCF's online scholarship portal during the program's open window"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 3, 2026). Launched in 2021 by UNCF and J.P. Morgan Wealth Management as a 5-year commitment (75 scholarships/year, later expanded; a 2022 UNCF release named Howard University among 17 expanded eligible HBCUs, with awards up to $7,000 plus a summer educational experience toward becoming a financial advisor). The most recent confirmed cycle found (via a College Board BigFuture listing) opened Feb 14, 2024 and closed Apr 11, 2026 -- sources disagree on whether that program continued past the original 2025 end date, and no 2026-2027 cycle announcement was found in this round's searches. Left deadline null pending confirmation. Check opportunities.uncf.org and bigfuture.collegeboard.org/scholarships/jp-morgan-chase-wealth-management-hbcu-scholarship directly for whether a current cycle exists; this is a distinct program from the already-tracked JPMorgan Launching Leaders Scholarship (investment-banking/sales-trading track) and JPMorganChase Fellowship Program (5-week sophomore fellowship) -- this one is wealth-management/financial-advisor-focused and HBCU-eligibility-list-gated rather than internship-offer-gated.",
+      "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
+      "category": "howard-hbcu"
     }
   ]
 }
