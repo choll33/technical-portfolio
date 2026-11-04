@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T10:07:33Z",
+  "generatedAt": "2026-11-04T10:06:37Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -595,7 +595,7 @@
         "Apply via Rothschild & Co's careers site"
       ],
       "deadline": null,
-      "deadlineNote": "Re-checked Nov 3, 2026: no confirmed 2026-2027 Black Leaders Program posting or deadline found again this round. A related but distinct listing was found instead -- Rothschild & Co's \"US Global Advisory 2027 Sophomore Leadership Program\" (a general, not explicitly Black-specific, second-year immersion program) has a confirmed deadline of Nov 15, 2026, 11:55pm ET, open to undergraduates graduating no later than May 2029 (matches Mason's expected graduation). It's unclear from search results whether this general program has absorbed/replaced the Black Leaders Program or is a separate track running in parallel -- worth asking Rothschild's campus recruiting contact directly. Given the Nov 15 deadline is only 12 days out, Mason should check rothschildandco.com/careers immediately regardless of which track turns out to be the right fit.",
+      "deadlineNote": "Re-checked Nov 4, 2026: no confirmed 2026-2027 Black Leaders Program posting or deadline found again this round. The related general program, now tracked as its own entry (see 'rothschild-us-global-advisory-sophomore-leadership'), has its Nov 15, 2026, 11:55pm ET deadline directly reconfirmed on Rothschild & Co's own official careers page this round (not just inferred from aggregators as before). It's still unclear whether that general program has absorbed/replaced the Black Leaders Program or runs separately -- worth asking Rothschild's campus recruiting contact directly. Given the Nov 15 deadline is only 11 days out, Mason should check rothschildandco.com/careers immediately regardless of which track turns out to be the right fit.",
       "applyUrl": "https://rothschildandco.com/en/careers/gaus-202425-global-advisory-black-leaders-program",
       "category": "black-finance"
     },
@@ -692,7 +692,7 @@
         "Paid summer internship component included"
       ],
       "deadline": null,
-      "deadlineNote": "Updated Oct 16, 2026: Wellington's own page (per search summary) still shows the 2025 window closed with 2026-opportunity details not yet posted, consistent with the stale-copy read from the Oct 12 review. A third-party guide (Extern, updated July 2026) separately projects the next HBCU-adjacent Wellington cycle opening ~September 2026 and closing late October 2026 \u2014 an unconfirmed projection, not an official date, and it contradicts itself on exact days across its own tables, plus it describes Wellington's general internship program rather than the HBCU Scholars Program specifically. If accurate, this window may already be closing within days of this review. No official current-cycle deadline found yet. Recommend emailing HBCUscholarship@wellington.com directly to confirm the live 2026-2027 window rather than relying on further search passes \u2014 wellington.com remains blocked from direct fetch this session, consistent with every prior session. Left deadline null.",
+      "deadlineNote": "Re-checked Nov 4, 2026: Wellington's own pages (multiple regional variants: .com/en, .com/en-us, .com/en-middleeast) remain stale, still pointing to a closed 2025 window rather than a live 2026-2027 one. The same third-party Extern projection as before was found again, now more specific: it states the (2026) cycle closed October 21, 2026 at noon ET with no rolling review, and projects a next cycle opening mid-September 2026 with a late-October close -- which, if that specific projected window is accurate, would mean a 2027-targeted cycle may have already opened and closed within the past two weeks, before this review could catch it live. This remains an unconfirmed third-party extrapolation, not an official Wellington date, and conflicts with other aggregator-cited historical windows (Scholaroo: 10/8/2025; a Wellington page's own 2025 cycle: Aug 26-Sept 27, 2024). No official current-cycle deadline found. Left deadline null. Recommend emailing HBCUscholarship@wellington.com directly and asking explicitly whether a 2026-2027 cohort was run and, if so, whether it has already closed.",
       "applyUrl": "https://www.wellington.com/en/hbcu-scholarship-program/",
       "category": "howard-hbcu"
     },
@@ -947,7 +947,7 @@
         "Strong performers may be fast-tracked toward Citi's Summer Analyst recruiting process"
       ],
       "deadline": null,
-      "deadlineNote": "IMPORTANT UPDATE Nov 3, 2026: confirmed via current jobs.citi.com postings and an Extern guide that the Fall 2026 Early ID cohort -- the exact window Mason, as a current sophomore, would have been eligible for -- had an application deadline of October 23, 2026, which has now passed (11 days ago as of this update). This cycle was missed. Citi runs this program twice a year (Fall and Spring cohorts, Banking or Markets tracks, max two applications), so a Spring 2027 posting is expected to open around January-February 2027 per third-party guides -- not yet confirmed officially. Recommend Mason watch jobs.citi.com/early-career-programs-pre-internships starting January 2027 and apply immediately when the Spring posting opens, and ask about an HBCU Leadership affinity track (seen in 2025 postings) alongside Banking/Markets.",
+      "deadlineNote": "Re-checked Nov 4, 2026: reconfirmed the Fall 2026 Early ID cohort closed Oct 23, 2026 (now 12 days passed) and this cycle was missed -- consistent with the Nov 3 finding. A fresh search for a Spring 2027 posting found only historical data: the Spring 2026 cohort began March 23, 2026 with applications closing Feb 27-28, 2026 depending on track, which suggests a Spring 2027 posting (for the cohort Mason would need) may open as early as January 2027 rather than Jan/Feb as previously estimated -- still no live Spring 2027 posting found as of this update. No change to deadline (left null). Recommend Mason watch jobs.citi.com/early-career-programs-pre-internships starting January 2027 and apply immediately when the Spring posting opens (limit two applications total, one per track), and ask about an HBCU Leadership affinity track (seen in 2025 postings) alongside Banking/Markets.",
       "applyUrl": "https://jobs.citi.com/early-career-programs-pre-internships",
       "category": "finance-major"
     },
@@ -1133,9 +1133,56 @@
         "Apply through UNCF's online scholarship portal during the program's open window"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Nov 3, 2026). Launched in 2021 by UNCF and J.P. Morgan Wealth Management as a 5-year commitment (75 scholarships/year, later expanded; a 2022 UNCF release named Howard University among 17 expanded eligible HBCUs, with awards up to $7,000 plus a summer educational experience toward becoming a financial advisor). The most recent confirmed cycle found (via a College Board BigFuture listing) opened Feb 14, 2024 and closed Apr 11, 2026 -- sources disagree on whether that program continued past the original 2025 end date, and no 2026-2027 cycle announcement was found in this round's searches. Left deadline null pending confirmation. Check opportunities.uncf.org and bigfuture.collegeboard.org/scholarships/jp-morgan-chase-wealth-management-hbcu-scholarship directly for whether a current cycle exists; this is a distinct program from the already-tracked JPMorgan Launching Leaders Scholarship (investment-banking/sales-trading track) and JPMorganChase Fellowship Program (5-week sophomore fellowship) -- this one is wealth-management/financial-advisor-focused and HBCU-eligibility-list-gated rather than internship-offer-gated.",
+      "deadlineNote": "Re-checked Nov 4, 2026: reconfirmed via Essence, JBHE, and financial-planning.com coverage that the program launched in 2021 as a stated 5-year commitment (375 total scholarships through 2025, 75/year, later expanding from 11 to 17 eligible HBCUs including Howard in 2022, with a confirmed 2022-cycle deadline of March 30). No source found this round (or last round) confirms a cycle continuing past the original 2025 end date, and no 2026-2027 UNCF scholarship-calendar listing names this program -- UNCF's current monthly scholarship pages (checked via aggregators tracking the Aug/Sept/Oct/Nov calendars) do not include it. This is a meaningfully weaker signal than when first added (found Nov 3, 2026); treat as plausibly discontinued, though not confirmed either way since opportunities.uncf.org itself remains blocked from direct fetch every session. Left deadline null. Check opportunities.uncf.org and bigfuture.collegeboard.org/scholarships/jp-morgan-chase-wealth-management-hbcu-scholarship directly for whether a current cycle exists; this is a distinct program from the already-tracked JPMorgan Launching Leaders Scholarship (investment-banking/sales-trading track) and JPMorganChase Fellowship Program (5-week sophomore fellowship) -- this one is wealth-management/financial-advisor-focused and HBCU-eligibility-list-gated rather than internship-offer-gated.",
       "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
       "category": "howard-hbcu"
+    },
+    {
+      "id": "rothschild-us-global-advisory-sophomore-leadership",
+      "organization": "Rothschild & Co — US Global Advisory 2027 Sophomore Leadership Program",
+      "description": "A general (not explicitly Black-specific) second-year immersion program combining a virtual session with in-person programming and networking at Rothschild & Co's New York office, with interview opportunities for a 2028 Summer Analyst position. Directly confirmed on Rothschild's own careers page with a real, imminent deadline, and open to any sophomore graduating by May 2029, which matches Mason's expected timeline.",
+      "requirements": [
+        "Current undergraduate sophomore with an anticipated graduation date no later than May 2029 (matches Mason's expected graduation)",
+        "Demonstrated academic excellence",
+        "Program includes a virtual session plus in-person programming/networking in Rothschild's New York office in January",
+        "Participants get the opportunity to interview for a 2028 Summer Analyst position in New York or Santa Monica",
+        "Apply directly through rothschildandco.com/careers"
+      ],
+      "deadline": "2026-11-15",
+      "deadlineNote": "New for this update (found Nov 4, 2026), split out as its own entry from the already-tracked 'rothschild-black-leaders' program since it's confirmed real with a specific, imminent deadline. Directly confirmed on Rothschild & Co's own official careers page: applications close November 15, 2026 at 11:55pm ET. Unclear whether this general program has absorbed or runs separately from the Black Leaders Program (see that entry) — apply regardless given the ~11-day-out deadline as of this update.",
+      "applyUrl": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/us-global-advisory--2027-sophomore-leadership-program2/",
+      "category": "finance-major"
+    },
+    {
+      "id": "advancement-minorities-finance-bold",
+      "organization": "Advancement of Minorities in Finance Scholarship (via Bold.org)",
+      "description": "A small, donor-funded Bold.org scholarship for BIPOC undergraduates with financial need studying finance, business, or a related major, organized by donor Marc Whitted specifically to support minority students pursuing finance/business degrees. A direct match on race, major, and financial need for Mason, though award size is modest and recurrence isn't yet well established.",
+      "requirements": [
+        "BIPOC identity",
+        "Demonstrated financial need",
+        "Studying finance, business, or a related major",
+        "Application via Bold.org"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 4, 2026). The only confirmed cycle's deadline was July 15, 2024 (winners announced Aug 15, 2024) — total fund size is small ($1,500 split across 3 winners at $500 each per the scholarship page, though a separate Bold.org category listing cites $1,000 per winner, a discrepancy not resolved in this round's searches). Only one past cycle found, not enough to confirm an annual pattern, so left deadline null. bold.org is blocked from direct fetch this session — check bold.org/scholarships/advancement-of-minorities-in-finance-scholarship/ periodically for a reopened cycle.",
+      "applyUrl": "https://bold.org/scholarships/advancement-of-minorities-in-finance-scholarship",
+      "category": "black-finance"
+    },
+    {
+      "id": "mufg-union-bank-scholarship-uncf",
+      "organization": "MUFG Union Bank Scholarship Program (via UNCF)",
+      "description": "A UNCF-administered scholarship established by the Union Bank Foundation, open to Black college sophomores majoring in accounting, business, economics, or finance — finance is explicitly named, directly matching Mason's major, class year, and race. GPA and award details come from a third-party aggregator rather than UNCF's own page directly, so some caution is warranted.",
+      "requirements": [
+        "Self-identifies as Black",
+        "Current college sophomore",
+        "Major in accounting, business, economics, or finance (finance qualifies)",
+        "Minimum 3.3 GPA per aggregator listing — Mason's 3.7 clears this",
+        "Recommendation letter(s), transcript, and essay required; apply through UNCF's online portal"
+      ],
+      "deadline": "2027-01-13",
+      "deadlineNote": "New for this update (found Nov 4, 2026). A Scholaroo listing cites the 2026-2027 cycle opening Nov 3, 2026 and closing Jan 13, 2027, for a single $5,280 award — consistent with a prior cycle's Jan 12, 2026 deadline on the same site, which supports a real recurring annual pattern. Caveat: the same listing page simultaneously displays a 'Closed' status badge that contradicts those future dates, and the original program sponsor, MUFG Union Bank, was reported in 2022 as being acquired by U.S. Bank — it's unclear whether the scholarship still runs under the MUFG Union Bank name, has been renamed, or has been discontinued following that acquisition. uncf.org and scholarships.uncf.org remain blocked from direct fetch this session, consistent with every prior session, so this could not be directly corroborated on UNCF's own page. Treat the Jan 13, 2027 date as unconfirmed and verify directly on scholarships.uncf.org before relying on it.",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "black-finance"
     }
   ]
 }
