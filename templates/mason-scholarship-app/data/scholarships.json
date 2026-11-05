@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:06:37Z",
+  "generatedAt": "2026-11-05T10:10:33Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -519,7 +519,7 @@
         "Rolling monthly application deadlines"
       ],
       "deadline": "2026-11-30",
-      "deadlineNote": "Updated Oct 31, 2026: the previously-tracked Oct 31, 2026 cycle closes today, with winners announced Dec 1, 2026 (confirmed on bold.org's own page and corroborated by Scholarships360). Nov 30, 2026 is the estimated next monthly close based on the recurring rolling-monthly pattern, though third-party aggregators disagree on the exact day each cycle closes (some cite the 1st of the month, others the last day) -- confirm the live date on bold.org before the end of November. Mason can re-enter each month regardless of outcome; low odds given high entrant volume, but zero-cost and takes minutes.",
+      "deadlineNote": "Updated Oct 31, 2026: the previously-tracked Oct 31, 2026 cycle closes today, with winners announced Dec 1, 2026 (confirmed on bold.org's own page and corroborated by Scholarships360). Nov 30, 2026 is the estimated next monthly close based on the recurring rolling-monthly pattern, though third-party aggregators disagree on the exact day each cycle closes (some cite the 1st of the month, others the last day) -- confirm the live date on bold.org before the end of November. Mason can re-enter each month regardless of outcome; low odds given high entrant volume, but zero-cost and takes minutes. Re-checked Nov 5, 2026: search snippets this round surfaced conflicting cached dates (one showing Aug 31, 2026, another showing Oct 31, 2026) rather than a clean Nov 30 confirmation -- bold.org could not be live-fetched this session (network block), so these are likely stale cached pages rather than evidence the pattern has changed. Nov 30, 2026 remains the best estimate; verify live on bold.org close to month-end.",
       "applyUrl": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
       "category": "general"
     },
@@ -1122,22 +1122,6 @@
       "category": "black-finance"
     },
     {
-      "id": "jpmorgan-chase-wealth-management-hbcu-scholarship",
-      "organization": "J.P. Morgan Wealth Management HBCU Scholarship Program (via UNCF)",
-      "description": "A UNCF-administered scholarship and summer educational program from J.P. Morgan Wealth Management specifically for African American rising sophomores at a defined list of partner HBCUs, built to pipeline students into financial-advisor careers. Howard University was explicitly named among the 17 eligible HBCUs as of the program's 2022 expansion -- a confirmed, direct match for Mason's school, race, and exact class year, though the program's original five-year (2021-2025) funding commitment means a 2026-2027 cohort is not yet confirmed to exist.",
-      "requirements": [
-        "African American/Black identity",
-        "Rising sophomore standing at the time of application",
-        "Enrolled at one of the program's partner HBCUs (Howard University confirmed on the 2022 eligible-school list)",
-        "Interest in financial planning/wealth management as a career path",
-        "Apply through UNCF's online scholarship portal during the program's open window"
-      ],
-      "deadline": null,
-      "deadlineNote": "Re-checked Nov 4, 2026: reconfirmed via Essence, JBHE, and financial-planning.com coverage that the program launched in 2021 as a stated 5-year commitment (375 total scholarships through 2025, 75/year, later expanding from 11 to 17 eligible HBCUs including Howard in 2022, with a confirmed 2022-cycle deadline of March 30). No source found this round (or last round) confirms a cycle continuing past the original 2025 end date, and no 2026-2027 UNCF scholarship-calendar listing names this program -- UNCF's current monthly scholarship pages (checked via aggregators tracking the Aug/Sept/Oct/Nov calendars) do not include it. This is a meaningfully weaker signal than when first added (found Nov 3, 2026); treat as plausibly discontinued, though not confirmed either way since opportunities.uncf.org itself remains blocked from direct fetch every session. Left deadline null. Check opportunities.uncf.org and bigfuture.collegeboard.org/scholarships/jp-morgan-chase-wealth-management-hbcu-scholarship directly for whether a current cycle exists; this is a distinct program from the already-tracked JPMorgan Launching Leaders Scholarship (investment-banking/sales-trading track) and JPMorganChase Fellowship Program (5-week sophomore fellowship) -- this one is wealth-management/financial-advisor-focused and HBCU-eligibility-list-gated rather than internship-offer-gated.",
-      "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
-      "category": "howard-hbcu"
-    },
-    {
       "id": "rothschild-us-global-advisory-sophomore-leadership",
       "organization": "Rothschild & Co — US Global Advisory 2027 Sophomore Leadership Program",
       "description": "A general (not explicitly Black-specific) second-year immersion program combining a virtual session with in-person programming and networking at Rothschild & Co's New York office, with interview opportunities for a 2028 Summer Analyst position. Directly confirmed on Rothschild's own careers page with a real, imminent deadline, and open to any sophomore graduating by May 2029, which matches Mason's expected timeline.",
@@ -1180,9 +1164,25 @@
         "Recommendation letter(s), transcript, and essay required; apply through UNCF's online portal"
       ],
       "deadline": "2027-01-13",
-      "deadlineNote": "New for this update (found Nov 4, 2026). A Scholaroo listing cites the 2026-2027 cycle opening Nov 3, 2026 and closing Jan 13, 2027, for a single $5,280 award — consistent with a prior cycle's Jan 12, 2026 deadline on the same site, which supports a real recurring annual pattern. Caveat: the same listing page simultaneously displays a 'Closed' status badge that contradicts those future dates, and the original program sponsor, MUFG Union Bank, was reported in 2022 as being acquired by U.S. Bank — it's unclear whether the scholarship still runs under the MUFG Union Bank name, has been renamed, or has been discontinued following that acquisition. uncf.org and scholarships.uncf.org remain blocked from direct fetch this session, consistent with every prior session, so this could not be directly corroborated on UNCF's own page. Treat the Jan 13, 2027 date as unconfirmed and verify directly on scholarships.uncf.org before relying on it.",
+      "deadlineNote": "New for this update (found Nov 4, 2026). A Scholaroo listing cites the 2026-2027 cycle opening Nov 3, 2026 and closing Jan 13, 2027, for a single $5,280 award — consistent with a prior cycle's Jan 12, 2026 deadline on the same site, which supports a real recurring annual pattern. Caveat: the same listing page simultaneously displays a 'Closed' status badge that contradicts those future dates, and the original program sponsor, MUFG Union Bank, was reported in 2022 as being acquired by U.S. Bank — it's unclear whether the scholarship still runs under the MUFG Union Bank name, has been renamed, or has been discontinued following that acquisition. uncf.org and scholarships.uncf.org remain blocked from direct fetch this session, consistent with every prior session, so this could not be directly corroborated on UNCF's own page. Treat the Jan 13, 2027 date as unconfirmed and verify directly on scholarships.uncf.org before relying on it. Re-checked Nov 5, 2026: the same Scholaroo contradiction (future Jan 13, 2027 date alongside a 'Closed' badge) reappeared, and scholarships.uncf.org still could not be reached directly — no resolution either way this round; status remains unconfirmed.",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "black-finance"
+    },
+    {
+      "id": "scholarship-america-dream-award",
+      "organization": "Scholarship America Dream Award",
+      "description": "A national, renewable scholarship program for continuing undergraduates who have completed at least one year of full-time study and demonstrate financial need, with no major restriction. A two-stage process narrows applicants to semifinalists before final awards (historically in the $1,000–$15,000 range) are selected.",
+      "requirements": [
+        "Current undergraduate who has completed at least one full year of full-time study (fits Mason's rising-sophomore status)",
+        "Demonstrated financial need",
+        "Age 17 or older",
+        "No declared-major restriction",
+        "Not a previous Dream Award recipient"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 5, 2026). Deadline dates conflict across sources and appear to move cycle to cycle — one source cites July 31 (likely an earlier cycle), others cite October 15 in different years, with no single consistent annual date found. Left deadline null rather than guess a specific date; scholarshipamerica.org could not be live-fetched this session (network block) — confirm the live 2026-2027 window directly at scholarshipamerica.org/students/browse-scholarships/apply-for-the-dream-award/ before applying.",
+      "applyUrl": "https://scholarshipamerica.org/scholarship/dreamaward/",
+      "category": "general"
     }
   ]
 }
