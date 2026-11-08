@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:06:14Z",
+  "generatedAt": "2026-11-08T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -99,7 +99,7 @@
         "Apply through the UNCF online application portal"
       ],
       "deadline": "2026-12-15",
-      "deadlineNote": "New for this update. The 2025-2026 cycle deadline was Dec 15, 2025 at 5:00pm ET, and the program has run on this same Dec 15 date across the last several cycles \u2014 Dec 15, 2026 is a confident estimate for the next cycle, but confirm on the UNCF portal once it opens (uncf.org direct access blocked this session; found via UNCF-hosted program pages and aggregator listings).",
+      "deadlineNote": "Updated Nov 8, 2026: UNCF's own 'Scholarships for December' listing page now cites this (still titled '2025-2026 Procter & Gamble HBCYOU Scholarship Program') as closing Dec 12, not Dec 15 as previously tracked \u2014 a one-source, three-day discrepancy, and no 2026-2027-specific posting was found. Lowered confidence slightly; Dec 15, 2026 is kept as the estimate since it's still the better-corroborated multi-cycle pattern, but confirm the exact day (12th vs 15th) directly on the UNCF portal once it opens for this cycle (uncf.org direct access blocked this session).",
       "applyUrl": "https://opportunities.uncf.org/s/program-landing-page",
       "category": "howard-hbcu"
     },
@@ -519,7 +519,7 @@
         "Rolling monthly application deadlines"
       ],
       "deadline": "2026-11-30",
-      "deadlineNote": "Updated Oct 31, 2026: the previously-tracked Oct 31, 2026 cycle closes today, with winners announced Dec 1, 2026 (confirmed on bold.org's own page and corroborated by Scholarships360). Nov 30, 2026 is the estimated next monthly close based on the recurring rolling-monthly pattern, though third-party aggregators disagree on the exact day each cycle closes (some cite the 1st of the month, others the last day) -- confirm the live date on bold.org before the end of November. Mason can re-enter each month regardless of outcome; low odds given high entrant volume, but zero-cost and takes minutes. Re-checked Nov 5, 2026: search snippets this round surfaced conflicting cached dates (one showing Aug 31, 2026, another showing Oct 31, 2026) rather than a clean Nov 30 confirmation -- bold.org could not be live-fetched this session (network block), so these are likely stale cached pages rather than evidence the pattern has changed. Nov 30, 2026 remains the best estimate; verify live on bold.org close to month-end.",
+      "deadlineNote": "Updated Oct 31, 2026: the previously-tracked Oct 31, 2026 cycle closes today, with winners announced Dec 1, 2026 (confirmed on bold.org's own page and corroborated by Scholarships360). Nov 30, 2026 is the estimated next monthly close based on the recurring rolling-monthly pattern, though third-party aggregators disagree on the exact day each cycle closes (some cite the 1st of the month, others the last day) -- confirm the live date on bold.org before the end of November. Mason can re-enter each month regardless of outcome; low odds given high entrant volume, but zero-cost and takes minutes. Re-checked Nov 5, 2026: search snippets this round surfaced conflicting cached dates (one showing Aug 31, 2026, another showing Oct 31, 2026) rather than a clean Nov 30 confirmation -- bold.org could not be live-fetched this session (network block), so these are likely stale cached pages rather than evidence the pattern has changed. Nov 30, 2026 remains the best estimate; verify live on bold.org close to month-end. Re-checked Nov 8, 2026: sourcing has gotten noisier, not clearer — the no-essay category page still says Nov 30, 2026, but the scholarship's own page now shows Apr 30, 2026 (winners Dec 1, 2026), and Scholarships360/Fastweb/Unigo cite Jul 1, 2026 and Aug 31, 2026 — four different dates across sources this round. This looks like stale cached snapshots of a rolling monthly scholarship rather than a real schedule change; Nov 30, 2026 is kept as the estimate given it matches the category page and the recurring monthly pattern, but treat all of these as unreliable until confirmed live on bold.org.",
       "applyUrl": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
       "category": "general"
     },
@@ -768,7 +768,7 @@
         "Application via Bold.org"
       ],
       "deadline": "2026-11-20",
-      "deadlineNote": "New for this update (found Oct 13, 2026). Bold.org's own listing shows a $1,000 award for one winner with an application deadline of Nov 20, 2026. No race or geographic restriction was found in the listed criteria. bold.org is blocked from direct fetch this session \u2014 verify full rules on the official page before applying.",
+      "deadlineNote": "Updated Nov 8, 2026: the official Bold.org scholarship page still confirms Nov 20, 2026 and is kept as the tracked deadline, but a third conflicting date has now surfaced \u2014 a separate Bold.org blog roundup page cites Nov 27, 2026 (yet another blog listing previously cited a $2,000/Nov 30 version), so at least three different dates/amounts have appeared across Bold.org's own pages. bold.org is blocked from direct fetch this session \u2014 verify the live date on the official scholarship page (not a blog roundup) before applying.",
       "applyUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
       "category": "howard-hbcu"
     },
