@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:00:00Z",
+  "generatedAt": "2026-11-16T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -595,9 +595,25 @@
         "Apply via Rothschild & Co's careers site"
       ],
       "deadline": null,
-      "deadlineNote": "Re-checked Nov 4, 2026: no confirmed 2026-2027 Black Leaders Program posting or deadline found again this round. The related general program, now tracked as its own entry (see 'rothschild-us-global-advisory-sophomore-leadership'), has its Nov 15, 2026, 11:55pm ET deadline directly reconfirmed on Rothschild & Co's own official careers page this round (not just inferred from aggregators as before). It's still unclear whether that general program has absorbed/replaced the Black Leaders Program or runs separately -- worth asking Rothschild's campus recruiting contact directly. Given the Nov 15 deadline is only 11 days out, Mason should check rothschildandco.com/careers immediately regardless of which track turns out to be the right fit.",
+      "deadlineNote": "Re-checked Nov 16, 2026: no confirmed 2026-2027 Black Leaders Program posting or deadline found again this round. The related general program (Rothschild's 'US Global Advisory 2027 Sophomore Leadership Program', tracked separately as of Nov 4–15) had its Nov 15, 2026, 11:55pm ET deadline pass; that entry has now been removed from this tracker since it is a sophomore-specific program and, by the time its next cycle opens (targeting students who are sophomores in fall 2027), Mason will already be a junior and no longer eligible for it. It remains unclear whether this Black Leaders Program has absorbed/replaced that sophomore program or still runs separately — worth asking Rothschild's campus recruiting contact directly, and worth rechecking this entry specifically since it may have different (non-sophomore-restricted) class-year eligibility.",
       "applyUrl": "https://rothschildandco.com/en/careers/gaus-202425-global-advisory-black-leaders-program",
       "category": "black-finance"
+    },
+    {
+      "id": "esu-luard-morse-scholarship",
+      "organization": "English-Speaking Union (ESU) Luard Morse Scholarship",
+      "description": "A scholarship open to HBCU sophomores (Howard is an explicitly participating school, alongside Hampton and other UNCF/HBCU institutions) that funds a semester of study at a British university during the recipient's junior year, open to any major, with awards reported at up to $25,000–$30,000. A Howard sophomore was named the 2026-2027 recipient, confirming Howard's active participation — a strong, HBCU-specific match for Mason's exact class year.",
+      "requirements": [
+        "Current sophomore at a Historically Black College or University (Howard, Hampton, and other HBCU/UNCF institutions eligible)",
+        "U.S. citizen per ESU's own application materials (some secondary sources cite permanent residents as eligible too — confirm directly)",
+        "Minimum 3.0 GPA",
+        "Open to any major (Finance qualifies)",
+        "Application must be submitted by a campus coordinator, not directly by the student — at Howard this has run through the ACE Scholars Program"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 16, 2026). Confirmed real via Howard University's own news site (thedig.howard.edu), which named a Howard sophomore as the 2026-2027 ESU Luard Morse Scholarship recipient, plus ESU-hosted application-form references and aggregator listings (Fastweb, HBCUConnect) describing the HBCU-sophomore/study-in-UK-as-a-junior structure. Since Stanley Scott is already confirmed as the 2026-2027 recipient, the cycle Mason could apply to would be labeled 2027-2028. Candidate deadlines for that next cycle conflict across sources — one search result quoted what it described as ESU's own page stating applications are due 'Thursday, December 10, 2026' (internally consistent: Dec 10, 2026 is in fact a Thursday), while other aggregators cite Dec 4 or Dec 12 of an unspecified year — so left as null rather than pick one unverified date. esuus.org and its legacy/branch subdomains were all blocked from direct fetch this session. Mason should ask Howard's ACE Scholars Program (which coordinated the 2026-2027 winner's application) directly whether Howard is participating in the next cycle and what the internal campus deadline is, since applications are submitted by a school coordinator, not directly by students.",
+      "applyUrl": "https://www.esuus.org/luard-morse-scholarship-college-juniors/",
+      "category": "howard-hbcu"
     },
     {
       "id": "naba-northern-nj-chapter",
@@ -1120,22 +1136,6 @@
       "deadlineNote": "New for this update (found Nov 2, 2026). Confirmed real via Bank of America's own campus careers site (careers.bankofamerica.com) and corroborated by third-party recruiting aggregators describing the scholarship's purpose, $15,000 award, and summer-analyst-offer requirement, though the only dated scholarship-application reference found (Aug 15, 2023, tied to 2024 Summer Analyst Programs) is stale. BofA's sophomore Summer Analyst postings for Global Markets and Investment Banking have historically opened in the fall with closes the following summer (e.g., a 2023 Global Capital Markets sophomore posting closed July 2023) \u2014 no 2026-2027 posting was found yet. Like the already-tracked Goldman Sachs SFE, Morgan Stanley Fisher, and JPMorgan Launching Leaders scholarships, this is gated behind securing a Summer Analyst offer first, not a standalone cash-award application. Watch careers.bankofamerica.com/en-us/students starting ~fall 2026 for the current sophomore Summer Analyst postings.",
       "applyUrl": "https://careers.bankofamerica.com/en-us/students",
       "category": "black-finance"
-    },
-    {
-      "id": "rothschild-us-global-advisory-sophomore-leadership",
-      "organization": "Rothschild & Co — US Global Advisory 2027 Sophomore Leadership Program",
-      "description": "A general (not explicitly Black-specific) second-year immersion program combining a virtual session with in-person programming and networking at Rothschild & Co's New York office, with interview opportunities for a 2028 Summer Analyst position. Directly confirmed on Rothschild's own careers page with a real, imminent deadline, and open to any sophomore graduating by May 2029, which matches Mason's expected timeline.",
-      "requirements": [
-        "Current undergraduate sophomore with an anticipated graduation date no later than May 2029 (matches Mason's expected graduation)",
-        "Demonstrated academic excellence",
-        "Program includes a virtual session plus in-person programming/networking in Rothschild's New York office in January",
-        "Participants get the opportunity to interview for a 2028 Summer Analyst position in New York or Santa Monica",
-        "Apply directly through rothschildandco.com/careers"
-      ],
-      "deadline": "2026-11-15",
-      "deadlineNote": "New for this update (found Nov 4, 2026), split out as its own entry from the already-tracked 'rothschild-black-leaders' program since it's confirmed real with a specific, imminent deadline. Directly confirmed on Rothschild & Co's own official careers page: applications close November 15, 2026 at 11:55pm ET. Unclear whether this general program has absorbed or runs separately from the Black Leaders Program (see that entry) — apply regardless given the ~11-day-out deadline as of this update.",
-      "applyUrl": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/us-global-advisory--2027-sophomore-leadership-program2/",
-      "category": "finance-major"
     },
     {
       "id": "advancement-minorities-finance-bold",
