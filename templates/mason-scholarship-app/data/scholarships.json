@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:00:00Z",
+  "generatedAt": "2026-11-17T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -611,7 +611,7 @@
         "Application must be submitted by a campus coordinator, not directly by the student — at Howard this has run through the ACE Scholars Program"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Nov 16, 2026). Confirmed real via Howard University's own news site (thedig.howard.edu), which named a Howard sophomore as the 2026-2027 ESU Luard Morse Scholarship recipient, plus ESU-hosted application-form references and aggregator listings (Fastweb, HBCUConnect) describing the HBCU-sophomore/study-in-UK-as-a-junior structure. Since Stanley Scott is already confirmed as the 2026-2027 recipient, the cycle Mason could apply to would be labeled 2027-2028. Candidate deadlines for that next cycle conflict across sources — one search result quoted what it described as ESU's own page stating applications are due 'Thursday, December 10, 2026' (internally consistent: Dec 10, 2026 is in fact a Thursday), while other aggregators cite Dec 4 or Dec 12 of an unspecified year — so left as null rather than pick one unverified date. esuus.org and its legacy/branch subdomains were all blocked from direct fetch this session. Mason should ask Howard's ACE Scholars Program (which coordinated the 2026-2027 winner's application) directly whether Howard is participating in the next cycle and what the internal campus deadline is, since applications are submitted by a school coordinator, not directly by students.",
+      "deadlineNote": "New for this update (found Nov 16, 2026). Confirmed real via Howard University's own news site (thedig.howard.edu), which named a Howard sophomore as the 2026-2027 ESU Luard Morse Scholarship recipient, plus ESU-hosted application-form references and aggregator listings (Fastweb, HBCUConnect) describing the HBCU-sophomore/study-in-UK-as-a-junior structure. Since Stanley Scott is already confirmed as the 2026-2027 recipient, the cycle Mason could apply to would be labeled 2027-2028. Candidate deadlines for that next cycle conflict across sources — one search result quoted what it described as ESU's own page stating applications are due 'Thursday, December 10, 2026' (internally consistent: Dec 10, 2026 is in fact a Thursday), while other aggregators cite Dec 4 or Dec 12 of an unspecified year — so left as null rather than pick one unverified date. esuus.org and its legacy/branch subdomains were all blocked from direct fetch this session. Mason should ask Howard's ACE Scholars Program (which coordinated the 2026-2027 winner's application) directly whether Howard is participating in the next cycle and what the internal campus deadline is, since applications are submitted by a school coordinator, not directly by students. Re-checked Nov 17, 2026: located ESU's own '2026 ESU Luard Morse Scholarship Application form' PDF on esuus.org, confirming the program is active and application-based, but the deadline field wasn't captured in search results; aggregators still disagree (Dec 4 vs Dec 10 vs Dec 12, no year specified). No resolution — contacting Howard's ACE Scholars Program directly remains the most reliable path.",
       "applyUrl": "https://www.esuus.org/luard-morse-scholarship-college-juniors/",
       "category": "howard-hbcu"
     },
@@ -723,7 +723,7 @@
         "Competitive application; 20 Fellow positions in a recent cohort"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Oct 9, 2026). Milken's own program page states students from HBCUs are invited to apply to the 2026-2027 Cohort, confirming it is actively recruiting right now, but no exact 2026-2027 deadline was found. The most recent dated reference (a prior cohort) listed an October 13 deadline, which \u2014 if the pattern holds \u2014 means this may close very soon; check milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship immediately rather than waiting for a future pass.",
+      "deadlineNote": "New for this update (found Oct 9, 2026). Milken's own program page states students from HBCUs are invited to apply to the 2026-2027 Cohort, confirming it is actively recruiting right now, but no exact 2026-2027 deadline was found. The most recent dated reference (a prior cohort) listed an October 13 deadline, which \u2014 if the pattern holds \u2014 means this may close very soon; check milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship immediately rather than waiting for a future pass. Re-checked Nov 17, 2026: still no deadline found on Milken's own page or third-party aggregators (Opportunity Desk, Grants Database, covering the 2025-2026 cohort); one aggregator explicitly lists the deadline as 'unspecified' and recommends applying ASAP. Milken's page confirms active recruiting for the 2026-2027 Cohort right now — no change to guidance.",
       "applyUrl": "https://milkeninstitute.org/programs/hbcu-strategic-initiative-fellowship",
       "category": "howard-hbcu"
     },
@@ -784,7 +784,7 @@
         "Application via Bold.org"
       ],
       "deadline": "2026-11-20",
-      "deadlineNote": "Updated Nov 8, 2026: the official Bold.org scholarship page still confirms Nov 20, 2026 and is kept as the tracked deadline, but a third conflicting date has now surfaced \u2014 a separate Bold.org blog roundup page cites Nov 27, 2026 (yet another blog listing previously cited a $2,000/Nov 30 version), so at least three different dates/amounts have appeared across Bold.org's own pages. bold.org is blocked from direct fetch this session \u2014 verify the live date on the official scholarship page (not a blog roundup) before applying.",
+      "deadlineNote": "Reconfirmed Nov 17, 2026: the official Bold.org scholarship page still shows the application closing Nov 20, 2026 (just days away) with winners named Dec 21, 2026 \u2014 kept as the tracked deadline. A separate Bold.org HBCU-category listing still shows a conflicting Apr 14, 2026 date with two winners, but that category page's own 'last updated Nov 2, 2026' stamp confirms it is displaying a stale prior cycle rather than a live alternative, which resolves the standing multi-date conflict in favor of Nov 20, 2026. Apply before the deadline; the next cycle's date is unknown.",
       "applyUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
       "category": "howard-hbcu"
     },
@@ -917,6 +917,22 @@
       ],
       "deadline": null,
       "deadlineNote": "New for this update (found Oct 24, 2026). The 2025-2026 cycle ran roughly Oct 16-Nov 5, 2025 (sources disagree slightly, Nov 2 vs Nov 5 close); awards are approximately $7,300 each, renewable for senior year, for three cohorts of 20 students. Mason won't reach junior standing until Fall 2027, so left deadline null rather than estimate a 2027-2028 date this far out \u2014 revisit in fall 2027 alongside the AlixPartners/UNCF, Crum & Forster/UNCF, and UNCF Element Fleet bookmarks. Confirm current eligibility and dates at scholarships.uncf.org (uncf.org direct access blocked this session, consistent with prior sessions).",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "uncf-hormel-inspired-scholars",
+      "organization": "UNCF/Hormel Inspired Scholars Program",
+      "description": "A UNCF-administered, need-based scholarship (reported up to $4,700) open to college sophomores and juniors at any HBCU, with no major restriction found — Howard qualifies and Mason's current class year matches directly. A genuinely new find this round, not previously tracked.",
+      "requirements": [
+        "Full-time undergraduate sophomore or junior at any U.S. accredited HBCU (Howard qualifies)",
+        "U.S. citizen",
+        "Demonstrated financial need per FAFSA",
+        "No major restriction found in search results — confirm directly before applying",
+        "Apply through the UNCF online scholarship portal"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 17, 2026). The most recently confirmed cycle (2025-2026 school year) had a deadline of May 7, 2025, already closed, per Fastweb and an NCCU AcademicWorks listing; Fastweb's own listing now marks the scholarship 'not currently active' and no 2026-2027 posting was found. Only one past-cycle data point exists, not enough to confidently project a 2027-2028 date, so left as null. Program contact per NCCU's listing: Edward Sanders, edward.sanders@uncf.org. Confirm current status and class-year eligibility (sophomore/junior) directly at scholarships.uncf.org before investing time — not independently verified on UNCF's own site this session.",
       "applyUrl": "https://scholarships.uncf.org",
       "category": "howard-hbcu"
     },
