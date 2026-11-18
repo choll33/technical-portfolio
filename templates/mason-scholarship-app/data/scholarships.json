@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:00:00Z",
+  "generatedAt": "2026-11-18T12:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -1199,6 +1199,38 @@
       "deadlineNote": "Updated Nov 6, 2026: Scholarship America's own page still shows the program closed, with 2026-2027 details described as tentative/subject to change. A new candidate date surfaced via Peterson's (Dec 9, 2026), but this conflicts with other aggregator dates already passed this cycle (Oct 31, 2026 and May 11, 2026) — since no two sources agree and the official page says closed, left deadline null rather than guess. Eligibility reconfirmed: current undergrads enrolling full-time for the entire 2026-2027 year, financial need required, no major restriction. scholarshipamerica.org could not be live-fetched this session (network block) — confirm the live 2026-2027 window directly at scholarshipamerica.org/students/browse-scholarships/apply-for-the-dream-award/ before applying.",
       "applyUrl": "https://scholarshipamerica.org/scholarship/dreamaward/",
       "category": "general"
+    },
+    {
+      "id": "uncf-ricoh-scholarship",
+      "organization": "RICOH Scholarship Program (via UNCF)",
+      "description": "A UNCF-administered scholarship of up to $2,500 (5 awards per cycle) for students in their second or third year at a four-year HBCU, with finance named alongside accounting, business, and marketing as eligible fields of study. Howard qualifies as an HBCU and Mason's rising-sophomore standing matches the program's second/third-year window directly.",
+      "requirements": [
+        "Second- or third-year student (sophomore or junior) at a four-year accredited HBCU (Howard qualifies)",
+        "Pursuing a degree in finance, accounting, business, or marketing",
+        "Minimum 2.5 GPA per aggregator listing — Mason's 3.7 clears this comfortably",
+        "Full-time enrollment; U.S. citizen or permanent resident",
+        "Demonstrated financial need; preference given to women for at least 2 of the 5 awards",
+        "Apply through the UNCF online scholarship portal"
+      ],
+      "deadline": "2027-04-02",
+      "deadlineNote": "New for this update (found Nov 18, 2026). The most recently confirmed cycle (via a College Board BigFuture listing) opened Feb 24, 2026 and closed Apr 2, 2026 (already closed); a 2023-2024 NCCU AcademicWorks posting shows the same program running in a prior year with a similarly-timed spring window, supporting a real annual pattern, so Apr 2, 2027 is used as a best estimate for the next cycle. Fastweb's own listing currently marks the scholarship 'not currently active' and no 2026-2027 posting was found yet — confirm current status and major eligibility directly at scholarships.uncf.org (uncf.org access blocked from direct fetch this session, consistent with every prior session) before investing time.",
+      "applyUrl": "https://scholarships.uncf.org",
+      "category": "howard-hbcu"
+    },
+    {
+      "id": "mid-atlantic-sta-foundation",
+      "organization": "Mid-Atlantic Securities/Security Traders Association (STA) Foundation Scholarship",
+      "description": "A regional scholarship from the Mid-Atlantic Security Traders Association's charitable foundation for business, finance, or economics majors attending a four-year school in Maryland, Virginia, or Washington, D.C. — Howard's D.C. location satisfies the school-location criterion even though Mason's legal residence is New Jersey. Eligibility sources conflict on whether current sophomores or only juniors/seniors qualify, so this is a lower-confidence but potentially real match worth confirming directly.",
+      "requirements": [
+        "U.S. citizen attending a four-year college or university in the foundation's Maryland/Virginia/D.C. region (Howard qualifies by location)",
+        "Business, finance, or economics major",
+        "Class-year eligibility is disputed across sources — some list sophomore or junior, others list high-school-senior/college-junior-or-senior only; confirm before applying",
+        "Official transcript and an essay (one source cites a 500-word essay on how securities markets affect daily life) typically required"
+      ],
+      "deadline": null,
+      "deadlineNote": "New for this update (found Nov 18, 2026). No official foundation website was found this round (not midatlanticsta.org or similar — could not locate or fetch directly); all information comes from secondhand aggregators (Unigo, Fastweb, College Recon, Scholarships.com) that disagree with each other on both the deadline (June 15 vs. July 31, in either 2026 or 2027 depending on source) and the award amount ($5,000 per award vs. a $14,000 total across four awards). Left deadline null given these unresolved conflicts rather than guess. Before Mason invests time, confirm directly whether the Mid-Atlantic Security Traders Association's foundation still runs this scholarship, whether sophomores are eligible, and the live deadline — try searching for 'Mid-Atlantic Security Traders Association Foundation' directly rather than the abbreviated 'STA' name, which collides with unrelated regional Security Traders Association chapters (e.g., Chicago's STAC Fund).",
+      "applyUrl": "https://www.fastweb.com/college-scholarships/scholarships/78362-mid-atlantic-security-traders-foundation-scholarship",
+      "category": "finance-major"
     }
   ]
 }
