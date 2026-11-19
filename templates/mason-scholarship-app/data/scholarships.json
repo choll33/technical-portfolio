@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:00:00Z",
+  "generatedAt": "2026-11-19T15:00:00Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -1164,7 +1164,7 @@
         "Application via Bold.org"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Nov 4, 2026). The only confirmed cycle's deadline was July 15, 2024 (winners announced Aug 15, 2024) — total fund size is small ($1,500 split across 3 winners at $500 each per the scholarship page, though a separate Bold.org category listing cites $1,000 per winner, a discrepancy not resolved in this round's searches). Only one past cycle found, not enough to confirm an annual pattern, so left deadline null. bold.org is blocked from direct fetch this session — check bold.org/scholarships/advancement-of-minorities-in-finance-scholarship/ periodically for a reopened cycle.",
+      "deadlineNote": "New for this update (found Nov 4, 2026). The only confirmed cycle's deadline was July 15, 2024 (winners announced Aug 15, 2024) — total fund size is small ($1,500 split across 3 winners at $500 each per the scholarship page, though a separate Bold.org category listing cites $1,000 per winner, a discrepancy not resolved in this round's searches). Only one past cycle found, not enough to confirm an annual pattern, so left deadline null. bold.org is blocked from direct fetch this session — check bold.org/scholarships/advancement-of-minorities-in-finance-scholarship/ periodically for a reopened cycle. Re-checked Nov 19, 2026: a Bold.org finance-scholarships category listing now shows a second, more recent cycle — a single $500 award with a Feb 1, 2026 deadline (already closed) — confirming the program did run again after the 2024 cycle, which supports it being a real, recurring (if small and irregularly-timed) award rather than a one-off. Still no 2026-2027 cycle found, so deadline stays null.",
       "applyUrl": "https://bold.org/scholarships/advancement-of-minorities-in-finance-scholarship",
       "category": "black-finance"
     },
@@ -1228,9 +1228,24 @@
         "Official transcript and an essay (one source cites a 500-word essay on how securities markets affect daily life) typically required"
       ],
       "deadline": null,
-      "deadlineNote": "New for this update (found Nov 18, 2026). No official foundation website was found this round (not midatlanticsta.org or similar — could not locate or fetch directly); all information comes from secondhand aggregators (Unigo, Fastweb, College Recon, Scholarships.com) that disagree with each other on both the deadline (June 15 vs. July 31, in either 2026 or 2027 depending on source) and the award amount ($5,000 per award vs. a $14,000 total across four awards). Left deadline null given these unresolved conflicts rather than guess. Before Mason invests time, confirm directly whether the Mid-Atlantic Security Traders Association's foundation still runs this scholarship, whether sophomores are eligible, and the live deadline — try searching for 'Mid-Atlantic Security Traders Association Foundation' directly rather than the abbreviated 'STA' name, which collides with unrelated regional Security Traders Association chapters (e.g., Chicago's STAC Fund).",
+      "deadlineNote": "New for this update (found Nov 18, 2026). No official foundation website was found this round (not midatlanticsta.org or similar — could not locate or fetch directly); all information comes from secondhand aggregators (Unigo, Fastweb, College Recon, Scholarships.com) that disagree with each other on both the deadline (June 15 vs. July 31, in either 2026 or 2027 depending on source) and the award amount ($5,000 per award vs. a $14,000 total across four awards). Left deadline null given these unresolved conflicts rather than guess. Before Mason invests time, confirm directly whether the Mid-Atlantic Security Traders Association's foundation still runs this scholarship, whether sophomores are eligible, and the live deadline — try searching for 'Mid-Atlantic Security Traders Association Foundation' directly rather than the abbreviated 'STA' name, which collides with unrelated regional Security Traders Association chapters (e.g., Chicago's STAC Fund). Re-checked Nov 19, 2026: same unresolved conflicts persist — Unigo now shows an Aug 31, 2026 deadline (a third candidate date alongside the existing June 15 and July 31 ones, all for different years/sources) and still disagrees with other aggregators on sophomore eligibility. No official foundation page found again. No resolution; left as-is.",
       "applyUrl": "https://www.fastweb.com/college-scholarships/scholarships/78362-mid-atlantic-security-traders-foundation-scholarship",
       "category": "finance-major"
+    },
+    {
+      "id": "scholarshipowl-future-investment-award",
+      "organization": "The Future Investment Award (via ScholarshipOwl)",
+      "description": "A $1,000 scholarship for Black or African American undergraduate and graduate students pursuing finance, accounting, business, economics, or a closely related field, listed on the ScholarshipOwl platform. A direct match on race and major for Mason, though ScholarshipOwl itself is a legitimate but subscription-based aggregator (free to browse/enter; verified independently as a real company, not a scam, but known for auto-renewing paid tiers) rather than the scholarship's original sponsor.",
+      "requirements": [
+        "Self-identifies as Black or African American",
+        "Undergraduate or graduate student",
+        "Pursuing a degree in finance, accounting, business, economics, or a closely related field",
+        "Apply via a free ScholarshipOwl profile — use the free entry tier and watch for auto-renewing paid-plan upsells, which is the platform's main documented complaint"
+      ],
+      "deadline": "2027-02-02",
+      "deadlineNote": "New for this update (found Nov 19, 2026). ScholarshipOwl's own listing shows a Feb 2, 2027 deadline with winners announced Apr 1, 2027. No independent confirmation outside ScholarshipOwl's own page was found, and no prior-cycle history was located to confirm this is a recurring annual award rather than a first-time listing — treat the date as sourced-but-unconfirmed and verify at scholarshipowl.com/scholarship/x5553-the-future-investment-award before relying on it.",
+      "applyUrl": "https://scholarshipowl.com/scholarship/x5553-the-future-investment-award",
+      "category": "black-finance"
     }
   ]
 }
