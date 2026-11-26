@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:00:00Z",
+  "generatedAt": "2026-11-26T10:05:35Z",
   "student": {
     "name": "Mason",
     "school": "Howard University",
@@ -370,8 +370,8 @@
         "Any U.S. student",
         "No essay, no GPA minimum specified"
       ],
-      "deadline": null,
-      "deadlineNote": "Updated Oct 13, 2026: corrected a stale status \u2014 Scholarships360's own pages confirm the final application date for the 2026 cycle was June 30, 2026 (already closed, winner announced by July 31, 2026), not still-rolling as the prior note assumed. It is also not a pure no-essay award in practice: finalists are interviewed about how they fund their education. No 2027-cycle dates were found yet \u2014 recheck scholarships360.org for the next cycle's schedule.",
+      "deadline": "2027-06-30",
+      "deadlineNote": "Updated Nov 26, 2026: the 2027-cycle date is now published \u2014 Scholarships360 lists the final application date for the 2027 cycle as June 30, 2027, with the winner announced by July 31, 2027, matching the prior year's exact cycle length (Jun 30, 2026 close for the 2026 cycle). Still not a pure no-essay award in practice: finalists are interviewed about how they fund their education.",
       "applyUrl": "https://scholarships360.org/scholarships/no-essay-scholarships/",
       "category": "general"
     },
